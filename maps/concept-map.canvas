@@ -1,0 +1,194 @@
+{
+ "nodes": [
+  {
+   "id": "1c80317fa3b1799d",
+   "type": "group",
+   "x": 0,
+   "y": 0,
+   "width": 840,
+   "height": 210,
+   "label": "Knowledge & second brains",
+   "color": "5"
+  },
+  {
+   "id": "bdd640fb06671ad1",
+   "type": "file",
+   "file": "wiki/concepts/llm-knowledge-bases.md",
+   "x": 40,
+   "y": 60,
+   "width": 360,
+   "height": 90,
+   "color": "5"
+  },
+  {
+   "id": "3eb13b9046685257",
+   "type": "file",
+   "file": "wiki/concepts/verification-and-linting.md",
+   "x": 440,
+   "y": 60,
+   "width": 360,
+   "height": 90,
+   "color": "5"
+  },
+  {
+   "id": "23b8c1e9392456de",
+   "type": "group",
+   "x": 900,
+   "y": 0,
+   "width": 840,
+   "height": 340,
+   "label": "Agents & Claude Code",
+   "color": "4"
+  },
+  {
+   "id": "1a3d1fa7bc8960a9",
+   "type": "file",
+   "file": "wiki/concepts/agent-harness-engineering.md",
+   "x": 940,
+   "y": 60,
+   "width": 360,
+   "height": 90,
+   "color": "4"
+  },
+  {
+   "id": "bd9c66b3ad3c2d6d",
+   "type": "file",
+   "file": "wiki/concepts/multi-agent-orchestration.md",
+   "x": 1340,
+   "y": 60,
+   "width": 360,
+   "height": 90,
+   "color": "4"
+  },
+  {
+   "id": "8b9d2434e465e150",
+   "type": "file",
+   "file": "wiki/concepts/claude-code-ecosystem.md",
+   "x": 940,
+   "y": 190,
+   "width": 360,
+   "height": 90,
+   "color": "4"
+  },
+  {
+   "id": "972a846916419f82",
+   "type": "file",
+   "file": "wiki/concepts/mcp-and-context-management.md",
+   "x": 1340,
+   "y": 190,
+   "width": 360,
+   "height": 90,
+   "color": "4"
+  },
+  {
+   "id": "0822e8f36c031199",
+   "type": "group",
+   "x": 450,
+   "y": 800,
+   "width": 840,
+   "height": 210,
+   "label": "Agentic orgs & ops",
+   "color": "2"
+  },
+  {
+   "id": "17fc695a07a0ca6e",
+   "type": "file",
+   "file": "wiki/concepts/agentic-org-maturity.md",
+   "x": 490,
+   "y": 860,
+   "width": 360,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "3b8faa1837f8a88b",
+   "type": "file",
+   "file": "wiki/concepts/always-on-agent-infrastructure.md",
+   "x": 890,
+   "y": 860,
+   "width": 360,
+   "height": 90,
+   "color": "2"
+  },
+  {
+   "id": "9a1de644815ef6d1",
+   "type": "text",
+   "x": 650,
+   "y": -260,
+   "width": 420,
+   "height": 140,
+   "text": "# x-brain concept map\n4 X bookmarks → 8 concepts\nOpen [[index]] for the full catalog."
+  },
+  {
+   "id": "8fadc1a606cb0fb3",
+   "type": "file",
+   "file": "index.md",
+   "x": 1120,
+   "y": -260,
+   "width": 300,
+   "height": 140
+  }
+ ],
+ "edges": [
+  {
+   "id": "b74d0fb132e70629",
+   "fromNode": "bdd640fb06671ad1",
+   "toNode": "3eb13b9046685257",
+   "label": "lint / test suite"
+  },
+  {
+   "id": "b38a088ca65ed389",
+   "fromNode": "bdd640fb06671ad1",
+   "toNode": "8b9d2434e465e150",
+   "label": "CLAUDE.md, skills, hooks"
+  },
+  {
+   "id": "6b65a6a48b8148f6",
+   "fromNode": "1a3d1fa7bc8960a9",
+   "toNode": "bd9c66b3ad3c2d6d",
+   "label": "subagents, handoffs"
+  },
+  {
+   "id": "72ff5d2a386ecbe0",
+   "fromNode": "1a3d1fa7bc8960a9",
+   "toNode": "8b9d2434e465e150",
+   "label": "7 layers in Claude Code"
+  },
+  {
+   "id": "4737819096da1dac",
+   "fromNode": "1a3d1fa7bc8960a9",
+   "toNode": "972a846916419f82",
+   "label": "context budget"
+  },
+  {
+   "id": "de8a774bcf36d58b",
+   "fromNode": "1a3d1fa7bc8960a9",
+   "toNode": "3eb13b9046685257",
+   "label": "evidence reviewer"
+  },
+  {
+   "id": "c241330b01a9e71f",
+   "fromNode": "17fc695a07a0ca6e",
+   "toNode": "1a3d1fa7bc8960a9",
+   "label": "step 3"
+  },
+  {
+   "id": "28df6ec4ce4a2bbd",
+   "fromNode": "17fc695a07a0ca6e",
+   "toNode": "3b8faa1837f8a88b",
+   "label": "step 4: headless"
+  },
+  {
+   "id": "6c307511b2b9437a",
+   "fromNode": "17fc695a07a0ca6e",
+   "toNode": "bd9c66b3ad3c2d6d",
+   "label": "steps 6–7"
+  },
+  {
+   "id": "47229389571aa876",
+   "fromNode": "3b8faa1837f8a88b",
+   "toNode": "bdd640fb06671ad1",
+   "label": "nightly compile"
+  }
+ ]
+}

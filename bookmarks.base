@@ -1,0 +1,77 @@
+# Obsidian Base over raw/ bookmarks (see .skills/obsidian-skills/skills/obsidian-bases/SKILL.md)
+filters:
+  and:
+    - file.inFolder("raw")
+    - file.hasTag("x-bookmark")
+formulas:
+  year: 'created_at.toString().slice(0, 4)'
+properties:
+  author_handle:
+    displayName: "Author"
+  created_at:
+    displayName: "Posted (UTC)"
+  article_title:
+    displayName: "Article"
+  formula.year:
+    displayName: "Year"
+  url:
+    displayName: "X link"
+views:
+  - type: table
+    name: "All bookmarks"
+    order:
+      - file.name
+      - author_handle
+      - type
+      - created_at
+      - article_title
+      - bookmarks
+      - likes
+      - url
+  - type: table
+    name: "By type"
+    groupBy:
+      property: type
+      direction: ASC
+    order:
+      - file.name
+      - author_handle
+      - created_at
+      - article_title
+  - type: table
+    name: "By year"
+    groupBy:
+      property: formula.year
+      direction: DESC
+    order:
+      - file.name
+      - author_handle
+      - type
+  - type: table
+    name: "Articles & threads"
+    filters:
+      or:
+        - 'type == "article"'
+        - 'type == "thread"'
+        - 'article_title != null'
+    order:
+      - file.name
+      - author_handle
+      - type
+      - article_title
+  - type: table
+    name: "By folder"
+    groupBy:
+      property: folder
+      direction: ASC
+    order:
+      - file.name
+      - author_handle
+      - type
+  - type: cards
+    name: "Second brains"
+    filters: 'file.hasTag("topic/llm-knowledge-bases")'
+    order:
+      - file.name
+      - author_handle
+      - article_title

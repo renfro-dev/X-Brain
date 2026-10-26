@@ -1,0 +1,47 @@
+{
+ "schema_version": 1,
+ "user_id": "924000909960519680",
+ "username": "renfrodotdev",
+ "last_sync": "2026-10-26",
+ "last_sync_local_time": "2026-10-26 (America/Los_Angeles)",
+ "bookmark_count": 4,
+ "newest_post_id": "2114344135415021632",
+ "most_recently_bookmarked_post_id": "2113991017506414930",
+ "bookmark_order_head": [
+  "2113991017506414930",
+  "2114344135415021632",
+  "2113719510985269442",
+  "2104602707675718102"
+ ],
+ "excluded_ids_file": "state/exclusions.json",
+ "excluded_count": 19,
+ "captured_post_ids": [
+  "2104602707675718102",
+  "2113719510985269442",
+  "2113991017506414930",
+  "2114344135415021632"
+ ],
+ "folders": [],
+ "post_id_to_raw_file": {
+  "2113991017506414930": "raw/2026-10-24-mardehaym-2113991017506414930.md",
+  "2114344135415021632": "raw/2026-10-25-danikkk_wqs-2114344135415021632.md",
+  "2113719510985269442": "raw/2026-10-23-hayatomaruu-2113719510985269442.md",
+  "2104602707675718102": "raw/2026-09-28-rvaniaaaa-2104602707675718102.md"
+ },
+ "dedupe_notes": "get_users_bookmarks returns posts in bookmark order (most recently bookmarked first), NOT post-date order. On sync, page with small max_results (10) and stop when an entire page is already seen, where seen = in captured_post_ids OR in state/exclusions.json. Excluded ids are skipped silently and never re-captured. bookmark_order_head lists the kept ids in the order X returned them; excluded bookmarks may sit between them in the live list. newest_post_id is the max post id captured (newest post by date), which is not necessarily the most recently bookmarked; use most_recently_bookmarked_post_id / bookmark_order_head to detect the head of the list.",
+ "fetch_params": {
+  "tool": "user-X.get_users_bookmarks",
+  "id": "924000909960519680",
+  "max_results": 10,
+  "post.fields": "created_at,author_id,conversation_id,entities,referenced_tweets,note_tweet,article,attachments,public_metrics,lang",
+  "expansions": "author_id,referenced_tweets.id,referenced_tweets.id.author_id,attachments.media_keys",
+  "user.fields": "username,name",
+  "media.fields": "type,url,preview_image_url,alt_text"
+ },
+ "known_quirks": [
+  "max_results 25 or 100 returned a single page with no next_token (2026-10-26); max_results 10 paginated normally to the same ids",
+  "get_users_bookmark_folders returned {} (no folders)",
+  "search_posts_all caps max_results at 25 per call; thread self-replies by the author count as replies (don't use -is:reply)",
+  "quoted X Articles arrive in includes.posts[].article with plain_text; code blocks are in article.entities.code, not in plain_text"
+ ]
+}
