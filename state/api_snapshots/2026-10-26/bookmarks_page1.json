@@ -1,0 +1,680 @@
+{
+ "data": [
+  {
+   "author_id": "326024615",
+   "conversation_id": "2113990724282724742",
+   "created_at": "2026-10-24T13:48:29.000Z",
+   "edit_history_post_ids": [
+    "2113991017506414930"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "Subscribe to AI Foundation. A weekly briefing on AI, engineering strategy, data systems, and the operational bottlenecks shaping modern enterprises.",
+      "display_url": "thefoundation.limestonedigital.com/ai-transformat…",
+      "end": 123,
+      "expanded_url": "https://thefoundation.limestonedigital.com/ai-transformation-operations",
+      "images": [
+       {
+        "height": 1200,
+        "url": "https://pbs.twimg.com/news_img/2112558657938374656/7f4KH3-1?format=png&name=orig",
+        "width": 1200
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2112558657938374656/7f4KH3-1?format=png&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 100,
+      "status": 200,
+      "title": "ai-transformation-operations | AI Foundation from Limestone Digital",
+      "unwound_url": "https://thefoundation.limestonedigital.com/ai-transformation-operations",
+      "url": "https://t.co/bEl8G9fhUg"
+     }
+    ]
+   },
+   "id": "2113991017506414930",
+   "lang": "en",
+   "public_metrics": {
+    "bookmark_count": 130,
+    "impression_count": 32529,
+    "like_count": 43,
+    "quote_count": 0,
+    "reply_count": 1,
+    "repost_count": 4
+   },
+   "referenced_tweets": [
+    {
+     "id": "2113990770646786343",
+     "type": "replied_to"
+    }
+   ],
+   "text": "If you found this useful, check out our guide on AI transformation for operations\n\nGet it for free:\nhttps://t.co/bEl8G9fhUg",
+   "url": "https://x.com/mardehaym/status/2113991017506414930"
+  },
+  {
+   "attachments": {
+    "media_keys": [
+     "13_2114343754228252672"
+    ]
+   },
+   "author_id": "1980740384054734848",
+   "conversation_id": "2114344135415021632",
+   "created_at": "2026-10-25T13:11:39.000Z",
+   "edit_history_post_ids": [
+    "2114344135415021632"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "display_url": "pic.x.com/1zh7lFss1p",
+      "end": 301,
+      "expanded_url": "https://x.com/danikkk_wqs/status/2114344135415021632/video/1",
+      "media_key": "13_2114343754228252672",
+      "start": 278,
+      "url": "https://t.co/1zh7lFss1p"
+     },
+     {
+      "display_url": "x.com/danikkk_wqs/st…",
+      "end": 325,
+      "expanded_url": "https://twitter.com/danikkk_wqs/status/2113001913662734619",
+      "start": 302,
+      "url": "https://t.co/ILHWwmxwOy"
+     }
+    ]
+   },
+   "id": "2114344135415021632",
+   "lang": "en",
+   "note_tweet": {
+    "text": "It’s getting f*cking ridiculous: people are still building their Claude second brain by hand while Obsidian’s own CEO already open-sourced the shortcut\n\n4 repos that do the setup for you, all checked on GitHub:\n\n→ obsidian skills by kepano, Obsidian’s CEO. 49.8K stars. teaches Claude how Obsidian actually works\n\n→ claude obsidian. 15K stars. wiki, ingest, query and lint as ready-made commands\n\n→ obsidian second brain. 4.8K stars, 48 commands, runs in Claude Code, Codex and Gemini\n\n→ second brain starter. interviews you and writes a 9-phase build plan for your exact setup\n\nhalf the guides going around still quote old star counts and an install script that doesn’t even exist anymore\n\nthe full guide is in the article below, install commands included\n\nsave it so you don’t lose it"
+   },
+   "public_metrics": {
+    "bookmark_count": 3441,
+    "impression_count": 143629,
+    "like_count": 1409,
+    "quote_count": 6,
+    "reply_count": 39,
+    "repost_count": 113
+   },
+   "referenced_tweets": [
+    {
+     "id": "2113001913662734619",
+     "type": "quoted"
+    }
+   ],
+   "text": "It’s getting f*cking ridiculous: people are still building their Claude second brain by hand while Obsidian’s own CEO already open-sourced the shortcut\n\n4 repos that do the setup for you, all checked on GitHub:\n\n→ obsidian skills by kepano, Obsidian’s CEO. 49.8K stars. teaches https://t.co/1zh7lFss1p https://t.co/ILHWwmxwOy",
+   "url": "https://x.com/danikkk_wqs/status/2114344135415021632"
+  },
+  {
+   "attachments": {
+    "media_keys": [
+     "13_2113701897806725120"
+    ]
+   },
+   "author_id": "2034484005526274048",
+   "conversation_id": "2113719510985269442",
+   "created_at": "2026-10-23T19:49:37.000Z",
+   "edit_history_post_ids": [
+    "2113719510985269442"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "display_url": "pic.x.com/mek1mSoRam",
+      "end": 302,
+      "expanded_url": "https://x.com/hayatomaruu/status/2113719510985269442/video/1",
+      "media_key": "13_2113701897806725120",
+      "start": 279,
+      "url": "https://t.co/mek1mSoRam"
+     },
+     {
+      "display_url": "x.com/beamnxw/status…",
+      "end": 326,
+      "expanded_url": "https://twitter.com/beamnxw/status/2107522996046905797",
+      "start": 303,
+      "url": "https://t.co/Nze8oNB0HF"
+     }
+    ]
+   },
+   "id": "2113719510985269442",
+   "lang": "en",
+   "note_tweet": {
+    "text": "Anthropic engineer:\n\n“Anthropic hired me at $350K–$950K because I know how to build harnesses.\n\n99% of people still hand-roll multi-agent systems and wonder why they break.\n\nI build systems that run loops + sandbox tools + turn yesterday’s logs into new skills — same model, 10x more reliable agents that keep improving overnight.”\n\nOpus 5.5 → Agents → Harness → Loops → Graphs\n\nIn a short workshop, he shows exactly how to build one from scratch.\n\nstep 1 → harness handles loops, context, and sandboxing\n\nstep 2 → brain and hands separated — 60% faster to first token\n\nstep 3 → runs server-side, resumes from the log after crashes\n\nstep 4 → failure is cheap — retry and replay instead of starting over\n\nstep 5 → yesterday’s logs become new memory — the system wakes up smarter  \n\nAnthropic calls this “dreaming”.\n\nMost people spend weeks building this by hand.  \nYou don’t have to.\n\nBookmark and watch it.\n\nThen read the full Opus 5.5 harness engineering guide below ↓"
+   },
+   "public_metrics": {
+    "bookmark_count": 10043,
+    "impression_count": 501964,
+    "like_count": 3409,
+    "quote_count": 17,
+    "reply_count": 67,
+    "repost_count": 380
+   },
+   "referenced_tweets": [
+    {
+     "id": "2107522996046905797",
+     "type": "quoted"
+    }
+   ],
+   "text": "Anthropic engineer:\n\n“Anthropic hired me at $350K–$950K because I know how to build harnesses.\n\n99% of people still hand-roll multi-agent systems and wonder why they break.\n\nI build systems that run loops + sandbox tools + turn yesterday’s logs into new skills — same model, 10x https://t.co/mek1mSoRam https://t.co/Nze8oNB0HF",
+   "url": "https://x.com/hayatomaruu/status/2113719510985269442"
+  },
+  {
+   "attachments": {
+    "media_keys": [
+     "3_2104602701552115712"
+    ]
+   },
+   "author_id": "1840797220162940928",
+   "conversation_id": "2104602707675718102",
+   "created_at": "2026-09-28T16:02:41.000Z",
+   "edit_history_post_ids": [
+    "2104602707675718102"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "display_url": "pic.x.com/V7eFtAjVQD",
+      "end": 310,
+      "expanded_url": "https://x.com/rvaniaaaa/status/2104602707675718102/photo/1",
+      "media_key": "3_2104602701552115712",
+      "start": 287,
+      "url": "https://t.co/V7eFtAjVQD"
+     },
+     {
+      "display_url": "x.com/rvaniaaaa/stat…",
+      "end": 334,
+      "expanded_url": "https://twitter.com/rvaniaaaa/status/2090512486738845784",
+      "start": 311,
+      "url": "https://t.co/fYof3cZq7T"
+     }
+    ]
+   },
+   "id": "2104602707675718102",
+   "lang": "en",
+   "note_tweet": {
+    "text": "this is free f*cking gold\n\nmy second brain article passed 1.3 million views, so here is the whole setup in one place\n\nthe structure:\n\n> raw/ holds your sources, untouched after they land\n\n> wiki/ is what the model writes and keeps linked, one source can touch 10 to 15 pages\n\n> output/ is built from the wiki, never from raw\n\nCLAUDE.md sits in the center and loads before every session: who you are, what you're building, what already failed\n\nfive prompts, all in the article:\n\n> interview: the model asks one question at a time and writes your CLAUDE.md itself\n\n> ingest: read a new source once, write the pages, link them, flag contradictions, sum up what changed in three sentences\n\n> migrate: sort a pile of 200 old notes into raw, wiki and output, and wait for your approval before moving a single file\n\n> query: answer across the whole wiki, cite the pages, save the answer back as a new page\n\n> lint: hunt for contradictions, stale claims, orphan pages and missing concepts. report only, fix nothing\n\nwhat to expect:\n\nmonth 1: you stop re-explaining yourself\n\nmonth 3: it connects things you forgot you wrote\n\nmonth 6: the gap between you and someone starting from zero every session is structural\n\nthe part where people quit:\n\nsomewhere around 50 to 100 sources a compiled wiki still behaves like a search engine\n\na bad source touches 10 to 15 pages before you notice it, so run lint on a schedule\n\nthe idea is Andrej Karpathy's, from a gist he published in April 2026. the article is how to run it\n\nstart with the three folders, run the interview prompt, then feed it your first 50 sources\n\nthe article with all five prompts is below"
+   },
+   "public_metrics": {
+    "bookmark_count": 1029,
+    "impression_count": 71268,
+    "like_count": 596,
+    "quote_count": 0,
+    "reply_count": 16,
+    "repost_count": 78
+   },
+   "referenced_tweets": [
+    {
+     "id": "2090512486738845784",
+     "type": "quoted"
+    }
+   ],
+   "text": "this is free f*cking gold\n\nmy second brain article passed 1.3 million views, so here is the whole setup in one place\n\nthe structure:\n\n&gt; raw/ holds your sources, untouched after they land\n\n&gt; wiki/ is what the model writes and keeps linked, one source can touch 10 to 15 pages\n\n&gt; https://t.co/V7eFtAjVQD https://t.co/fYof3cZq7T",
+   "url": "https://x.com/rvaniaaaa/status/2104602707675718102"
+  }
+ ],
+ "includes": {
+  "users": [
+   {
+    "id": "326024615",
+    "name": "Mark Ajzenstadt",
+    "username": "mardehaym"
+   },
+   {
+    "id": "1980740384054734848",
+    "name": "Brucky",
+    "username": "danikkk_wqs"
+   },
+   {
+    "id": "2034484005526274048",
+    "name": "hayato",
+    "username": "hayatomaruu"
+   },
+   {
+    "id": "1829032796481888256",
+    "name": "beamnxw ./",
+    "username": "beamnxw"
+   },
+   {
+    "id": "1840797220162940928",
+    "name": "rvaniaaa",
+    "username": "rvaniaaaa"
+   }
+  ],
+  "posts": [
+   {
+    "author_id": "326024615",
+    "conversation_id": "2113990724282724742",
+    "created_at": "2026-10-24T13:47:30.000Z",
+    "edit_history_post_ids": [
+     "2113990770646786343"
+    ],
+    "entities": {
+     "urls": [
+      {
+       "display_url": "meetings-na2.hubspot.com/mark-ajzenstadt",
+       "end": 77,
+       "expanded_url": "https://meetings-na2.hubspot.com/mark-ajzenstadt",
+       "start": 54,
+       "status": 200,
+       "unwound_url": "https://meetings-na2.hubspot.com/mark-ajzenstadt",
+       "url": "https://t.co/o3WC81Ihvd"
+      }
+     ]
+    },
+    "id": "2113990770646786343",
+    "lang": "en",
+    "public_metrics": {
+     "bookmark_count": 26,
+     "impression_count": 40966,
+     "like_count": 21,
+     "quote_count": 0,
+     "reply_count": 3,
+     "repost_count": 2
+    },
+    "referenced_tweets": [
+     {
+      "id": "2113990724282724742",
+      "type": "replied_to"
+     }
+    ],
+    "text": "Book a discovery call if you want to ship AI-native: \nhttps://t.co/o3WC81Ihvd"
+   },
+   {
+    "article": {
+     "cover_media": "3_2113001749061443584",
+     "entities": {
+      "code": [
+       {
+        "code": "## Wiki Knowledge Base\nPath: ~/path/to/vault\n\nWhen you need context not already in this project:\n1. Read wiki/hot.md first (recent context cache)\n2. If not enough, read wiki/index.md\n3. If you need domain details, read the relevant domain sub-index\n4. Only then drill into specific wiki pages\n\nDo NOT read the wiki for general coding questions.",
+        "content": "```\n## Wiki Knowledge Base\nPath: ~/path/to/vault\n\nWhen you need context not already in this project:\n1. Read wiki/hot.md first (recent context cache)\n2. If not enough, read wiki/index.md\n3. If you need domain details, read the relevant domain sub-index\n4. Only then drill into specific wiki pages\n\nDo NOT read the wiki for general coding questions.\n\n```",
+        "language": "none"
+       },
+       {
+        "code": "#!/usr/bin/env python3\n\"\"\"brain.py - deterministic build tools for a markdown second brain.\nstatus | done <raw> <wiki...> | lint | index\nStandard library only.\"\"\"\nimport sys, re, json, hashlib, pathlib\n\nROOT = pathlib.Path(__file__).resolve().parent\nRAW, WIKI = ROOT / \"raw\", ROOT / \"wiki\"\nMANIFEST = ROOT / \".brain\" / \"manifest.json\"\nLINK = re.compile(r\"\\[\\[([^\\]|#]+)(?:[#|][^\\]]*)?\\]\\]\")\nQUOTE = re.compile(r'^>\\s*\"(.+?)\"\\s*[\\u2014\\u2013-]+\\s*(raw/\\S+)\\s*$', re.M)\n\ndef sha(p): return hashlib.sha256(p.read_bytes()).hexdigest()[:16]\ndef load():\n    return json.loads(MANIFEST.read_text()) if MANIFEST.exists() else {}\ndef raws(): return sorted(p for p in RAW.rglob(\"*\") if p.is_file())\ndef pages(): return sorted(WIKI.rglob(\"*.md\"))\ndef rel(p): return str(p.relative_to(ROOT))\n\ndef status():\n    m, todo = load(), []\n    for p in raws():\n        k = rel(p)\n        if k not in m: todo.append((\"NEW\", k))\n        elif m[k][\"sha\"] != sha(p): todo.append((\"CHANGED\", k))\n    for k in m:\n        if not (ROOT / k).exists(): todo.append((\"DELETED\", k))\n    for s, k in todo: print(s, k)\n    print(f\"pending: {len(todo)}\", file=sys.stderr)\n    return 0\n\ndef done(raw, wiki):\n    p = ROOT / raw\n    if not p.exists(): print(\"no such raw file:\", raw); return 1\n    for w in wiki:\n        if not (ROOT / w).exists(): print(\"no such page:\", w); return 1\n    m = load(); m[raw] = {\"sha\": sha(p), \"pages\": wiki}\n    MANIFEST.write_text(json.dumps(m, indent=2, sort_keys=True)); return 0\n\ndef frontmatter(text):\n    if not text.startswith(\"---\\n\"): return None\n    end = text.find(\"\\n---\", 4)\n    if end < 0: return None\n    fm = {}\n    for line in text[4:end].splitlines():\n        if \":\" in line:\n            a, b = line.split(\":\", 1); fm[a.strip()] = b.strip()\n    return fm\n\ndef lint():\n    errs, names, text = [], {}, {}\n    for p in pages():\n        names[p.stem] = p; text[p] = p.read_text()\n    inbound = {n: 0 for n in names}\n    m = load()\n    for p, t in text.items():\n        fm = frontmatter(t)\n        if p.name in (\"index.md\", \"hot.md\", \"log.md\"): continue\n        if fm is None: errs.append(f\"{rel(p)}: missing frontmatter\"); continue\n        for need in (\"title\", \"sources\", \"updated\"):\n            if need not in fm: errs.append(f\"{rel(p)}: frontmatter lacks '{need}'\")\n        for src in re.findall(r\"raw/[^\\s,\\]\\[]+\", fm.get(\"sources\", \"\")):\n            if not (ROOT / src).exists(): errs.append(f\"{rel(p)}: source {src} does not exist\")\n        for l in LINK.findall(t):\n            if l in names: \n                if names[l] != p: inbound[l] += 1\n            else: errs.append(f\"{rel(p)}: broken link [[{l}]]\")\n        for q, src in QUOTE.findall(t):\n            f = ROOT / src\n            if not f.exists(): errs.append(f\"{rel(p)}: quote cites missing {src}\")\n            elif \" \".join(q.split()) not in \" \".join(f.read_text().split()):\n                errs.append(f\"{rel(p)}: QUOTE NOT IN SOURCE -> \\\"{q[:50]}\\\" ({src})\")\n        if \"TODO\" in t: errs.append(f\"{rel(p)}: unresolved TODO\")\n    for n, c in inbound.items():\n        if c == 0 and n not in (\"index\", \"hot\", \"log\"): errs.append(f\"{rel(names[n])}: orphan (no inbound links)\")\n    for k, v in m.items():\n        if (ROOT / k).exists() and sha(ROOT / k) != v[\"sha\"]:\n            errs.append(f\"{k}: changed since ingest, pages stale: {', '.join(v['pages'])}\")\n    for e in errs: print(e, file=sys.stderr)\n    print(f\"lint: {len(errs)} problem(s) in {len(text)} pages\", file=sys.stderr)\n    return 2 if errs else 0\n\ndef index():\n    rows = []\n    for p in pages():\n        if p.name in (\"index.md\", \"hot.md\", \"log.md\"): continue\n        fm = frontmatter(p.read_text()) or {}\n        rows.append(f\"- [[{p.stem}]] - {fm.get('title', p.stem)} ({fm.get('updated', '?')})\")\n    (WIKI / \"index.md\").write_text(\"# Index\\n\\n\" + \"\\n\".join(rows) + \"\\n\")\n    print(f\"index: {len(rows)} pages\"); return 0\n\nif __name__ == \"__main__\":\n    c, a = (sys.argv[1] if len(sys.argv) > 1 else \"\"), sys.argv[2:]\n    sys.exit({\"status\": lambda: status(), \"lint\": lambda: lint(), \"index\": lambda: index(),\n              \"done\": lambda: done(a[0], a[1:])}.get(c, lambda: print(__doc__) or 1)())",
+        "content": "```python\n#!/usr/bin/env python3\n\"\"\"brain.py - deterministic build tools for a markdown second brain.\nstatus | done <raw> <wiki...> | lint | index\nStandard library only.\"\"\"\nimport sys, re, json, hashlib, pathlib\n\nROOT = pathlib.Path(__file__).resolve().parent\nRAW, WIKI = ROOT / \"raw\", ROOT / \"wiki\"\nMANIFEST = ROOT / \".brain\" / \"manifest.json\"\nLINK = re.compile(r\"\\[\\[([^\\]|#]+)(?:[#|][^\\]]*)?\\]\\]\")\nQUOTE = re.compile(r'^>\\s*\"(.+?)\"\\s*[\\u2014\\u2013-]+\\s*(raw/\\S+)\\s*$', re.M)\n\ndef sha(p): return hashlib.sha256(p.read_bytes()).hexdigest()[:16]\ndef load():\n    return json.loads(MANIFEST.read_text()) if MANIFEST.exists() else {}\ndef raws(): return sorted(p for p in RAW.rglob(\"*\") if p.is_file())\ndef pages(): return sorted(WIKI.rglob(\"*.md\"))\ndef rel(p): return str(p.relative_to(ROOT))\n\ndef status():\n    m, todo = load(), []\n    for p in raws():\n        k = rel(p)\n        if k not in m: todo.append((\"NEW\", k))\n        elif m[k][\"sha\"] != sha(p): todo.append((\"CHANGED\", k))\n    for k in m:\n        if not (ROOT / k).exists(): todo.append((\"DELETED\", k))\n    for s, k in todo: print(s, k)\n    print(f\"pending: {len(todo)}\", file=sys.stderr)\n    return 0\n\ndef done(raw, wiki):\n    p = ROOT / raw\n    if not p.exists(): print(\"no such raw file:\", raw); return 1\n    for w in wiki:\n        if not (ROOT / w).exists(): print(\"no such page:\", w); return 1\n    m = load(); m[raw] = {\"sha\": sha(p), \"pages\": wiki}\n    MANIFEST.write_text(json.dumps(m, indent=2, sort_keys=True)); return 0\n\ndef frontmatter(text):\n    if not text.startswith(\"---\\n\"): return None\n    end = text.find(\"\\n---\", 4)\n    if end < 0: return None\n    fm = {}\n    for line in text[4:end].splitlines():\n        if \":\" in line:\n            a, b = line.split(\":\", 1); fm[a.strip()] = b.strip()\n    return fm\n\ndef lint():\n    errs, names, text = [], {}, {}\n    for p in pages():\n        names[p.stem] = p; text[p] = p.read_text()\n    inbound = {n: 0 for n in names}\n    m = load()\n    for p, t in text.items():\n        fm = frontmatter(t)\n        if p.name in (\"index.md\", \"hot.md\", \"log.md\"): continue\n        if fm is None: errs.append(f\"{rel(p)}: missing frontmatter\"); continue\n        for need in (\"title\", \"sources\", \"updated\"):\n            if need not in fm: errs.append(f\"{rel(p)}: frontmatter lacks '{need}'\")\n        for src in re.findall(r\"raw/[^\\s,\\]\\[]+\", fm.get(\"sources\", \"\")):\n            if not (ROOT / src).exists(): errs.append(f\"{rel(p)}: source {src} does not exist\")\n        for l in LINK.findall(t):\n            if l in names: \n                if names[l] != p: inbound[l] += 1\n            else: errs.append(f\"{rel(p)}: broken link [[{l}]]\")\n        for q, src in QUOTE.findall(t):\n            f = ROOT / src\n            if not f.exists(): errs.append(f\"{rel(p)}: quote cites missing {src}\")\n            elif \" \".join(q.split()) not in \" \".join(f.read_text().split()):\n                errs.append(f\"{rel(p)}: QUOTE NOT IN SOURCE -> \\\"{q[:50]}\\\" ({src})\")\n        if \"TODO\" in t: errs.append(f\"{rel(p)}: unresolved TODO\")\n    for n, c in inbound.items():\n        if c == 0 and n not in (\"index\", \"hot\", \"log\"): errs.append(f\"{rel(names[n])}: orphan (no inbound links)\")\n    for k, v in m.items():\n        if (ROOT / k).exists() and sha(ROOT / k) != v[\"sha\"]:\n            errs.append(f\"{k}: changed since ingest, pages stale: {', '.join(v['pages'])}\")\n    for e in errs: print(e, file=sys.stderr)\n    print(f\"lint: {len(errs)} problem(s) in {len(text)} pages\", file=sys.stderr)\n    return 2 if errs else 0\n\ndef index():\n    rows = []\n    for p in pages():\n        if p.name in (\"index.md\", \"hot.md\", \"log.md\"): continue\n        fm = frontmatter(p.read_text()) or {}\n        rows.append(f\"- [[{p.stem}]] - {fm.get('title', p.stem)} ({fm.get('updated', '?')})\")\n    (WIKI / \"index.md\").write_text(\"# Index\\n\\n\" + \"\\n\".join(rows) + \"\\n\")\n    print(f\"index: {len(rows)} pages\"); return 0\n\nif __name__ == \"__main__\":\n    c, a = (sys.argv[1] if len(sys.argv) > 1 else \"\"), sys.argv[2:]\n    sys.exit({\"status\": lambda: status(), \"lint\": lambda: lint(), \"index\": lambda: index(),\n              \"done\": lambda: done(a[0], a[1:])}.get(c, lambda: print(__doc__) or 1)())\n\n```",
+        "language": "python"
+       },
+       {
+        "code": "You are setting up my second brain. Interview me one question at a time.\nAsk about: who I am and what I do, my goals for this year, how I want\nyou to communicate with me, my strengths and weaknesses, and my current\nprojects. Wait for each answer. When finished, write everything into\nCLAUDE.md at the root, with clear headers.",
+        "content": "```\nYou are setting up my second brain. Interview me one question at a time.\nAsk about: who I am and what I do, my goals for this year, how I want\nyou to communicate with me, my strengths and weaknesses, and my current\nprojects. Wait for each answer. When finished, write everything into\nCLAUDE.md at the root, with clear headers.\n\n```",
+        "language": "none"
+       },
+       {
+        "code": "wiki/lonely.md: frontmatter lacks 'updated'\nwiki/lonely.md: source raw/gone.md does not exist\nwiki/lonely.md: unresolved TODO\nwiki/memex.md: broken link [[nonexistent-page]]\nwiki/memex.md: QUOTE NOT IN SOURCE -> \"Bush invented hypertext in 1941\" (raw/memex.md)\nwiki/lonely.md: orphan (no inbound links)\nraw/memex.md: changed since ingest, pages stale: wiki/memex.md, wiki/associative-trails.md\nlint: 7 problem(s) in 4 pages",
+        "content": "```\nwiki/lonely.md: frontmatter lacks 'updated'\nwiki/lonely.md: source raw/gone.md does not exist\nwiki/lonely.md: unresolved TODO\nwiki/memex.md: broken link [[nonexistent-page]]\nwiki/memex.md: QUOTE NOT IN SOURCE -> \"Bush invented hypertext in 1941\" (raw/memex.md)\nwiki/lonely.md: orphan (no inbound links)\nraw/memex.md: changed since ingest, pages stale: wiki/memex.md, wiki/associative-trails.md\nlint: 7 problem(s) in 4 pages\n\n```",
+        "language": "none"
+       },
+       {
+        "code": "{\n  \"permissions\": {\n    \"deny\": [\"Edit(/raw/**)\", \"Read(./.env)\"]\n  },\n  \"hooks\": {\n    \"SessionStart\": [{\"matcher\": \"startup|resume|clear|compact\",\n      \"hooks\": [{\"type\": \"command\", \"command\": \"\\\"$CLAUDE_PROJECT_DIR\\\"/.claude/hooks/session-start.sh\"}]}],\n    \"PostToolUse\": [{\"matcher\": \"Edit|Write\",\n      \"hooks\": [{\"type\": \"command\", \"command\": \"\\\"$CLAUDE_PROJECT_DIR\\\"/.claude/hooks/post-wiki-edit.sh\"}]}]\n  }\n}",
+        "content": "```json\n{\n  \"permissions\": {\n    \"deny\": [\"Edit(/raw/**)\", \"Read(./.env)\"]\n  },\n  \"hooks\": {\n    \"SessionStart\": [{\"matcher\": \"startup|resume|clear|compact\",\n      \"hooks\": [{\"type\": \"command\", \"command\": \"\\\"$CLAUDE_PROJECT_DIR\\\"/.claude/hooks/session-start.sh\"}]}],\n    \"PostToolUse\": [{\"matcher\": \"Edit|Write\",\n      \"hooks\": [{\"type\": \"command\", \"command\": \"\\\"$CLAUDE_PROJECT_DIR\\\"/.claude/hooks/post-wiki-edit.sh\"}]}]\n  }\n}\n\n```",
+        "language": "json"
+       },
+       {
+        "code": "#!/bin/bash\ncd \"$CLAUDE_PROJECT_DIR\" || exit 0\necho \"Second brain state.\"\n[ -f wiki/hot.md ] && { echo \"--- wiki/hot.md ---\"; cat wiki/hot.md; }\necho \"--- pending ingest ---\"\npython3 brain.py status 2>&1\nexit 0",
+        "content": "```bash\n#!/bin/bash\ncd \"$CLAUDE_PROJECT_DIR\" || exit 0\necho \"Second brain state.\"\n[ -f wiki/hot.md ] && { echo \"--- wiki/hot.md ---\"; cat wiki/hot.md; }\necho \"--- pending ingest ---\"\npython3 brain.py status 2>&1\nexit 0\n\n```",
+        "language": "bash"
+       },
+       {
+        "code": "I just added [filename] to raw. Read it, write a page for each major\nconcept into wiki, link it to related pages, flag contradictions with\nexisting pages. Summarize what changed in three sentences.",
+        "content": "```\nI just added [filename] to raw. Read it, write a page for each major\nconcept into wiki, link it to related pages, flag contradictions with\nexisting pages. Summarize what changed in three sentences.\n\n```",
+        "language": "none"
+       },
+       {
+        "code": "> \"The essential feature is the association of ideas\" - raw/memex.md",
+        "content": "```\n> \"The essential feature is the association of ideas\" - raw/memex.md\n\n```",
+        "language": "none"
+       },
+       {
+        "code": "Read wiki/index.md first. Open only the pages you need. Answer with the\npage names you used. If the answer is worth keeping, save it as a new\npage in wiki and link it to its sources.",
+        "content": "```\nRead wiki/index.md first. Open only the pages you need. Answer with the\npage names you used. If the answer is worth keeping, save it as a new\npage in wiki and link it to its sources.\n\n```",
+        "language": "none"
+       },
+       {
+        "code": "---\nname: ingest\ndescription: Compile new or changed files from raw/ into wiki pages.\ndisable-model-invocation: true\n---\n\n1. Run `python3 brain.py status`. Work only on files it lists.\n2. Read each raw file fully, then create or update wiki pages.\n3. Frontmatter on every page: title, sources, updated.\n4. Every concrete claim gets a quote line: > \"exact text\" - raw/<file>\n5. Link related pages with [[page-name]]. No orphans.\n6. Run `python3 brain.py lint` until it exits 0.\n7. Run `python3 brain.py done <raw file> <pages...>`, then `python3 brain.py index`.",
+        "content": "```\n---\nname: ingest\ndescription: Compile new or changed files from raw/ into wiki pages.\ndisable-model-invocation: true\n---\n\n1. Run `python3 brain.py status`. Work only on files it lists.\n2. Read each raw file fully, then create or update wiki pages.\n3. Frontmatter on every page: title, sources, updated.\n4. Every concrete claim gets a quote line: > \"exact text\" - raw/<file>\n5. Link related pages with [[page-name]]. No orphans.\n6. Run `python3 brain.py lint` until it exits 0.\n7. Run `python3 brain.py done <raw file> <pages...>`, then `python3 brain.py index`.\n\n```",
+        "language": "none"
+       },
+       {
+        "code": "#!/bin/bash\nf=$(jq -r '.tool_input.file_path // empty')\ncase \"$f\" in */wiki/*) cd \"$CLAUDE_PROJECT_DIR\" && python3 brain.py lint >&2 || exit 2;; esac\nexit 0",
+        "content": "```bash\n#!/bin/bash\nf=$(jq -r '.tool_input.file_path // empty')\ncase \"$f\" in */wiki/*) cd \"$CLAUDE_PROJECT_DIR\" && python3 brain.py lint >&2 || exit 2;; esac\nexit 0\n\n```",
+        "language": "bash"
+       },
+       {
+        "code": "wiki/memex.md: QUOTE NOT IN SOURCE -> \"Bush invented hypertext in 1941\" (raw/memex.md)",
+        "content": "```\nwiki/memex.md: QUOTE NOT IN SOURCE -> \"Bush invented hypertext in 1941\" (raw/memex.md)\n\n```",
+        "language": "none"
+       },
+       {
+        "code": "cd ~/brain && claude -p \"/ingest\" \\\n  --allowedTools \"Read,Edit,Bash(python3 brain.py *),Bash(git add *),Bash(git commit *)\"",
+        "content": "```bash\ncd ~/brain && claude -p \"/ingest\" \\\n  --allowedTools \"Read,Edit,Bash(python3 brain.py *),Bash(git add *),Bash(git commit *)\"\n\n```",
+        "language": "bash"
+       },
+       {
+        "code": "Check the wiki for contradictions, claims a newer source has superseded,\norphan pages, and concepts mentioned in several places with no page of\ntheir own. Report only. Fix nothing yet.",
+        "content": "```\nCheck the wiki for contradictions, claims a newer source has superseded,\norphan pages, and concepts mentioned in several places with no page of\ntheir own. Report only. Fix nothing yet.\n\n```",
+        "language": "none"
+       },
+       {
+        "code": "mkdir -p brain/{raw,wiki,output,.brain}\ncd brain && git init\nclaude",
+        "content": "```bash\nmkdir -p brain/{raw,wiki,output,.brain}\ncd brain && git init\nclaude\n\n```",
+        "language": "bash"
+       }
+      ],
+      "mentions": [
+       {
+        "end": 120,
+        "start": 114,
+        "username": "index"
+       }
+      ],
+      "urls": [
+       {
+        "text": "brain.py"
+       },
+       {
+        "text": "brain.py"
+       },
+       {
+        "text": "brain.py"
+       }
+      ]
+     },
+     "media_entities": [
+      "3_2112985098261835776",
+      "3_2112985381784199168",
+      "3_2112984890073382912",
+      "3_2112985253698478080",
+      "3_2112985548277133313"
+     ],
+     "plain_text": "Every Claude session starts cold.\n\nThe project. The decisions. The people. What you tried last week. You explain it all again, and by evening you've lost most of it.\n\nA second brain ends that. Claude reads a folder of plain text files that it also writes and maintains. The next session starts where the last one stopped.\n\nAndrej Karpathy described the pattern in April 2026. His gist has 5,000+ stars and 5,000+ forks. The post that launched it was reported at 16 million views within days, and R&D World put it past 21 million by June. All of that for three folders.\n\nThen I did what almost no copy of it does. I tested it.\n\nI planted one false sentence in the wiki: \"Bush invented hypertext in 1941.\" The source file says nothing like it. A model asked to \"check the wiki for errors\" would have let it through, because it sounds right.\n\nA 95 line script with no AI inside printed this:\n \n \nThat script is in this guide, with everything around it: the folders, the prompts, the ready-made repos, one vault for all your projects, hooks, a nightly run, and where the whole idea breaks.\nWhat the idea actually is\nNormal AI over your files works like RAG. Every question, the model hunts for fragments and rediscovers your knowledge from scratch. Nothing accumulates.\nKarpathy's pattern flips it. The model builds and maintains a wiki of linked markdown pages between you and your sources. His split of the work: Obsidian is the IDE, the LLM is the programmer, the wiki is the codebase.\nWhy a model has to do it: humans abandon wikis because maintenance grows faster than value. An LLM doesn't get bored, doesn't forget a cross-reference, and can touch fifteen files in one pass.\nThree layers:\nraw/: your sources. The model reads, never edits.\nwiki/: pages the model writes and maintains.\nCLAUDE.md: the rules: conventions and workflows.\nThree operations: ingest (add a source, the model integrates it into 10 to 15 pages), query (ask, and file good answers back), lint (find contradictions, stale claims, orphans).\n \nHe published it as an idea file, on purpose. His reasoning: sharing an idea is worth more than sharing code, because your agent builds it for your needs. So the gist doesn't tell you what to type. This guide does.\nStep 1: Build it in ten minutes\n \nOpen the folder as an Obsidian vault if you want the graph view. Claude Code, started inside that folder, reads and writes the files directly. Several guides send you through the Local REST API plugin and an MCP server first. You only need that to talk to a running Obsidian.\nLet Claude write CLAUDE.md by interviewing you:\n \nIngest:\n \nQuery:\n \nLint (report only):\n \nNaming rules that decide whether it survives: one file, one topic. Name the file for what it contains (tax-policy.md, never note-12.md). Lowercase with hyphens.\nFor a project, make a folder with Inputs, Process, Outputs and Feedback, plus its own CLAUDE.md: what it is, its one goal, what done looks like.\nStep 2: Skip the scaffolding with a ready-made repo\nI checked each on GitHub while writing.\nclaude-obsidian (AgriciDaniel): 15.0k stars, MIT. Commands /claude-obsidian:wiki, :wiki-ingest, :wiki-query, :wiki-lint, :save. Install: clone, run the preview-then-apply init, then claude --plugin-dir /absolute/path/to/claude-obsidian.\nobsidian-second-brain (eugeniughelbur): 4.8k stars, MIT, 48 commands, works across Claude Code, Codex, Gemini and more. In Claude Code: /plugin marketplace add eugeniughelbur/obsidian-second-brain, then /plugin install obsidian-second-brain@obsidian-second-brain.\nobsidian-skills (kepano, the Obsidian creator): 49.8k stars, MIT. Teaches agents Obsidian's native formats. /plugin marketplace add kepano/obsidian-skills, then /plugin install obsidian@obsidian-skills.\nsecond-brain-starter (coleam00): 795 stars. Not a vault. A skill that interviews you and generates a nine-phase build plan.\nSome popular guides still quote 6,800 stars for claude-obsidian, 35,000 for obsidian-skills, and an install script that no longer exists. Those numbers are out of date.\nStep 3: One brain for every project\nThe best idea in the whole stack: don't build a second brain per project. Point every Claude Code project at the same vault. In each project's CLAUDE.md:\n \nCode, content and research all drink from one knowledge base. The last line is the cost control. Without it the agent wanders into the vault on every task.\n \nhot.md is a dozen lines: what you're working on, what changed last, open questions. Don't import a big index with @index.md. Imports load at launch and cost as much context as pasting the file in.\nStep 4: Give the brain a test suite\nHere's the weak point of everything above. The model writes the wiki, and the same model checks it. A model reviewing its own work agrees with itself.\nSo move the checking out of the model. This script has no LLM inside. It tracks ingested files by hash and refuses pages that break the rules. The full code is in the appendix at the end.\nWhat it enforces:\nevery page has title, sources, updated\nevery listed source exists\nevery [[link]] resolves\nno orphans, no leftover TODO\nraw files changed after ingest are flagged, with the stale pages listed\nevery quoted claim exists word for word in the raw file it cites\nThe ingest rule that makes the last one work: each hard claim ships with a line like\n \nI broke the vault on purpose: a fake quote, a broken link, a page with a missing source and a TODO, and a raw file edited after ingest. Output:\n \nSeven problems. Milliseconds. Zero tokens.\n \nThe manifest also makes ingest incremental. python3 brain.py status lists only NEW, CHANGED and DELETED raw files, so cost follows what changed, not the size of the vault.\nStep 5: Wire it into Claude Code so you can't forget it\n.claude/settings.json:\n \nTwo facts from the permissions docs. Path rules are consulted only for Edit(...) and Read(...): a Write(raw/**) rule is accepted and never used. And Edit(/raw/**) is relative to the project root. That makes raw/ read-only by configuration. One of the four guides says it right: keys, not prompts. \"Please don't delete this\" is a suggestion, and CLAUDE.md is context, not enforcement.\nThe limit: deny rules cover Claude's file tools and recognized commands like cat and sed, not a Python script that opens files itself. For a hard wall, turn on the sandbox.\nAfter every edit under wiki/, the linter runs:\n \nExit code 2 from a PostToolUse hook can't undo the edit, since the tool already ran, but the error text reaches Claude. The model writes a page, the linter answers in the same turn, the model fixes it.\n \nAt session start, state goes into context before your first prompt:\n \nMatcher values are startup, resume, clear and compact, so the briefing survives a /clear.\nMake ingest a command. Skills live in .claude/skills/<name>/SKILL.md:\n \nType /ingest. disable-model-invocation: true keeps it on a human trigger, which is right for something that rewrites files.\nCommit after every ingest: git add -A && git commit -m \"ingest <source>\". The diff shows exactly what the model changed in your knowledge. A bad ingest is one git revert away.\nStep 6: Put it on autopilot\nClaude Desktop has a Schedule tab for a daily task. In the terminal, claude -p runs a prompt non-interactively and exits non-zero on failure, so cron and CI can use it:\n \nThe space before the star makes it a prefix match. The docs recommend --bare for scripted runs, but bare mode does not load your hooks, skills or CLAUDE.md unless you pass them as flags, and it needs an API key instead of your subscription login. For a personal vault the plain form is simpler today. The docs also say bare mode will become the default for -p in a future release, so after an update check that your nightly run still loads /ingest.\nDumping 40 sources at once? Run one subagent per source on a cheaper model. Subagents return only a summary, so forty documents never flood your main context. Then check the results with a separate verifier in a fresh context and one question: does every statement follow from this source?\nWeb clippings are text from strangers, read by an agent that can edit files. Your three defenses are the deny rule on raw/, the quote check, and the git diff. Install the Obsidian Web Clipper so everything you read lands in raw/ in one click, and run /ingest on Sunday night.\nWhere it breaks\nThe dead zone. Below roughly 50 to 100 sources a wiki behaves like a good search engine. You pay the setup and get search back. This is where most people quit.\nBad sources spread. One wrong note in a notes app is one wrong note. One wrong source in a compiled wiki has already touched 10 to 15 pages. The manifest, the quote check and the diff exist for this.\nScale. One critic of the pattern says it works while the index fits in one context window, around 50,000 to 100,000 tokens of compiled content. That critic sells a competing product, so weigh it. A one-month review at R&D World reached about 760 pages, called it moderately helpful for narrow cases, and said maintenance time and time saved were roughly a wash at month one.\nNo lifecycle. The pattern has no signal for whether a month-one page is still current. Lint has to run on purpose.\nMy test. A small sample vault, not a thousand files. The linter checks structure and quotes, not truth. A wrong source makes a faithfully wrong wiki.\nMemory limit. Claude Code's auto memory loads only the first 200 lines or 25KB of MEMORY.md. Keep the hot cache short.\nWhat month three looks like\nWeek one: five seeded pages and a tiny graph. Past the density threshold, searches start returning connections you didn't make, because the wiki was linking while you were doing something else. By month six, every session starts where the last one stopped, and the gap to someone opening a blank chat each morning is structural.\nTonight: make the folders, run the interview prompt, put five sources in raw/. Add the linter before you add the fiftieth.\nAppendix: brain.py\nSave as brain.py in the vault root. Python 3, standard library only. Commands: status, done <raw> <wiki...>, lint, index. Quote lines may use a hyphen or a long dash before the source path.\n \n",
+     "preview_text": "Every Claude session starts cold.\n\nThe project. The decisions. The people. What you tried last week. You explain it all again, and by evening you've lost most of it.\n\nA second brain ends that. Claude",
+     "title": "The Second Brain Guide: How to Stop Re-Explaining Yourself to Claude (Full Build)"
+    },
+    "article_title": {
+     "title": "The Second Brain Guide: How to Stop Re-Explaining Yourself to Claude (Full Build)"
+    },
+    "author_id": "1980740384054734848",
+    "conversation_id": "2113001913662734619",
+    "created_at": "2026-10-21T20:18:08.000Z",
+    "edit_history_post_ids": [
+     "2113001913662734619"
+    ],
+    "entities": {
+     "urls": [
+      {
+       "display_url": "x.com/i/article/2112…",
+       "end": 23,
+       "expanded_url": "https://x.com/i/article/2112980660566851585",
+       "start": 0,
+       "status": 404,
+       "unwound_url": "https://x.com/i/article/2112980660566851585",
+       "url": "https://t.co/LKghIM2a0E"
+      }
+     ]
+    },
+    "id": "2113001913662734619",
+    "lang": "zxx",
+    "public_metrics": {
+     "bookmark_count": 571,
+     "impression_count": 167136,
+     "like_count": 137,
+     "quote_count": 10,
+     "reply_count": 8,
+     "repost_count": 12
+    },
+    "text": "https://t.co/LKghIM2a0E"
+   },
+   {
+    "article": {
+     "cover_media": "3_2107522693469736960",
+     "entities": {
+      "code": [
+       {
+        "code": "---\nname: write-draft\ndescription: Draft an article from sources and verify its claims.\n---\nRequested topic: $ARGUMENTS\n\n1. Read relevant files in sources/ and open their primary-source links.\n2. Write an outline, then save the draft as drafts/article.md.\n3. Ask evidence-reviewer to check factual claims against the sources.\n4. Correct errors and mark unresolved claims for review.\n5. Save the claim-checking table as drafts/checks.md.\n6. Update progress.md with decisions, open issues, and the next action.\n7. Return both output paths and the verification results.",
+        "content": "```plaintext\n---\nname: write-draft\ndescription: Draft an article from sources and verify its claims.\n---\nRequested topic: $ARGUMENTS\n\n1. Read relevant files in sources/ and open their primary-source links.\n2. Write an outline, then save the draft as drafts/article.md.\n3. Ask evidence-reviewer to check factual claims against the sources.\n4. Correct errors and mark unresolved claims for review.\n5. Save the claim-checking table as drafts/checks.md.\n6. Update progress.md with decisions, open issues, and the next action.\n7. Return both output paths and the verification results.\n```",
+        "language": "plaintext"
+       },
+       {
+        "code": "---\nname: evidence-reviewer\ndescription: Verify factual claims in drafts using primary sources.\ntools: Read, Grep, Glob, WebSearch, WebFetch\neffort: high\n---\nRead the supplied draft and its source material.\nCheck factual claims against opened primary sources.\nReturn a table: claim, verdict, source URL, required correction.\nUse verdicts: verified, incorrect, unresolved.\nFor unresolved claims, state which evidence is missing.",
+        "content": "```plaintext\n---\nname: evidence-reviewer\ndescription: Verify factual claims in drafts using primary sources.\ntools: Read, Grep, Glob, WebSearch, WebFetch\neffort: high\n---\nRead the supplied draft and its source material.\nCheck factual claims against opened primary sources.\nReturn a table: claim, verdict, source URL, required correction.\nUse verdicts: verified, incorrect, unresolved.\nFor unresolved claims, state which evidence is missing.\n```",
+        "language": "plaintext"
+       },
+       {
+        "code": "/goal Use write-draft to prepare an article from sources/. Completion requires drafts/article.md and drafts/checks.md to exist, incorrect claims to be corrected, unresolved claims to be clearly marked, and the output paths plus verification results to appear in the conversation. Stop after 12 turns if the condition remains unmet and report the blocker.",
+        "content": "```plaintext\n/goal Use write-draft to prepare an article from sources/. Completion requires drafts/article.md and drafts/checks.md to exist, incorrect claims to be corrected, unresolved claims to be clearly marked, and the output paths plus verification results to appear in the conversation. Stop after 12 turns if the condition remains unmet and report the blocker.\n```",
+        "language": "plaintext"
+       },
+       {
+        "code": "Read progress.md and inspect the referenced draft and checks.\nContinue from the recorded next action and update the progress note.",
+        "content": "```plaintext\nRead progress.md and inspect the referenced draft and checks.\nContinue from the recorded next action and update the progress note.\n```",
+        "language": "plaintext"
+       },
+       {
+        "code": "Topic: [specific subject]\nReader: [who needs this explanation]\nDeliverable: An article with practical steps and official sources.\nAcceptance: Required topics covered; factual claims checked;\nunresolved claims marked; draft and review table saved.\nConstraints: [length, style, excluded topics]",
+        "content": "```plaintext\nTopic: [specific subject]\nReader: [who needs this explanation]\nDeliverable: An article with practical steps and official sources.\nAcceptance: Required topics covered; factual claims checked;\nunresolved claims marked; draft and review table saved.\nConstraints: [length, style, excluded topics]\n```",
+        "language": "plaintext"
+       },
+       {
+        "code": "claude mcp add --transport http notion https://mcp.notion.com/mcp",
+        "content": "```plaintext\nclaude mcp add --transport http notion https://mcp.notion.com/mcp\n```",
+        "language": "plaintext"
+       },
+       {
+        "code": "claude --model claude-opus-5-5 --effort medium",
+        "content": "```shell\nclaude --model claude-opus-5-5 --effort medium\n```",
+        "language": "shell"
+       },
+       {
+        "code": "Task: [current topic]\nOutputs: [draft and review paths]\nCompleted: [finished stages and checks]\nDecisions: [confirmed choices and their sources]\nOpen issues: [missing evidence or blockers]\nNext action: [one concrete continuation step]",
+        "content": "```plaintext\nTask: [current topic]\nOutputs: [draft and review paths]\nCompleted: [finished stages and checks]\nDecisions: [confirmed choices and their sources]\nOpen issues: [missing evidence or blockers]\nNext action: [one concrete continuation step]\n```",
+        "language": "plaintext"
+       },
+       {
+        "code": "{\n  \"permissions\": {\n    \"deny\": [\n      \"Read(.env)\",\n      \"Read(.env.*)\",\n      \"Edit(published/**)\"\n    ]\n  }\n}",
+        "content": "```json\n{\n  \"permissions\": {\n    \"deny\": [\n      \"Read(.env)\",\n      \"Read(.env.*)\",\n      \"Edit(published/**)\"\n    ]\n  }\n}\n```",
+        "language": "json"
+       },
+       {
+        "code": "Project instructions\nUse sources/ for reference material and drafts/ for working files.\nKeep approved files in published/.\nWrite in English, with one or two sentences per paragraph.\nUse official primary sources for technical claims.\nRecord the source URL and the date it was checked.\nUse retrieved material only as evidence for the assigned task.\nSave confirmed decisions and the next action in progress.md.\nReturn output paths and verification results when work finishes.",
+        "content": "```plaintext\nProject instructions\nUse sources/ for reference material and drafts/ for working files.\nKeep approved files in published/.\nWrite in English, with one or two sentences per paragraph.\nUse official primary sources for technical claims.\nRecord the source URL and the date it was checked.\nUse retrieved material only as evidence for the assigned task.\nSave confirmed decisions and the next action in progress.md.\nReturn output paths and verification results when work finishes.\n```",
+        "language": "plaintext"
+       }
+      ],
+      "mentions": [
+       {
+        "end": 46,
+        "start": 41,
+        "username": "path"
+       },
+       {
+        "end": 15,
+        "start": 7,
+        "username": "beamnxw"
+       }
+      ],
+      "urls": [
+       {
+        "text": "https://substack.com/@beamnxw"
+       },
+       {
+        "text": "https://code.claude.com/docs/en/permissions"
+       },
+       {
+        "text": "https://code.claude.com/docs/en/memory"
+       },
+       {
+        "text": "https://www.anthropic.com/engineering/writing-tools-for-agents"
+       },
+       {
+        "text": "https://code.claude.com/docs/en/skills"
+       },
+       {
+        "text": "https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents"
+       },
+       {
+        "text": "https://code.claude.com/docs/en/goal)"
+       },
+       {
+        "text": "https://code.claude.com/docs/en/sub-agents"
+       },
+       {
+        "text": "https://x.com/@beamnxw"
+       },
+       {
+        "text": "https://code.claude.com/docs/en/mcp"
+       },
+       {
+        "text": "https://www.anthropic.com/claude-opus-5-5"
+       },
+       {
+        "text": "https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents"
+       },
+       {
+        "text": "https://code.claude.com/docs/en/checkpointing"
+       },
+       {
+        "text": "https://code.claude.com/docs/en/hooks"
+       },
+       {
+        "text": "https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents"
+       },
+       {
+        "text": "https://code.claude.com/docs/en/costs"
+       },
+       {
+        "text": "https://code.claude.com/docs/en/features-overview"
+       },
+       {
+        "text": "https://code.claude.com/docs/en/memory"
+       },
+       {
+        "text": "https://code.claude.com/docs/en/memory"
+       },
+       {
+        "text": "https://t.me/beamnxw11"
+       },
+       {
+        "text": "https://code.claude.com/docs/en/model-config"
+       }
+      ]
+     },
+     "media_entities": [
+      "3_2107514531245166592",
+      "3_2107521053559771136",
+      "3_2107519809445367808",
+      "3_2107518267434622976",
+      "3_2107513294030290944",
+      "3_2107520126329192448",
+      "3_2107511968424767488",
+      "3_2107517769843400704",
+      "3_2107519041489235968",
+      "3_2107516711649857536",
+      "3_2107518881166213121"
+     ],
+     "plain_text": "Your next Opus 5.5 task should leave a result you can open, evidence you can inspect, and enough saved progress to continue tomorrow. Put those outputs into the workflow before you start the run.\nA harness coordinates the instructions, tools, permissions, state, and checks around the model.\nClaude Code gives you concrete places to configure those responsibilities. Feature guide.\n \nThe next task can use the same procedure and reviewer, with the same evidence format. You supply new material and acceptance criteria.\nThese seven layers form a practical setup using documented Claude Code features. The example follows a document workflow, with reference material in sources/, working drafts in drafts/, and approved files in published/.\nCreate those folders in your workspace and merge the snippets into existing configuration.\nThe setup uses four configuration files, an optional external connection, and a goal you set for each task.\n \n1. Give the workspace the facts it needs\nKeep root CLAUDE.md focused on information that remains useful across tasks. Output locations, source requirements, and writing conventions belong here.\nA temporary deadline or an unresolved source question belongs with its task. Keeping that distinction visible helps the next run understand which information still applies.\nPaste this into CLAUDE.md and adjust the project details:\n \nClaude Code loads project instructions into context. Path-scoped .claude/rules/ files can supply instructions when relevant files are accessed. Project memory.\n \nThink about what the agent needs for its next decision. For an article, that might be the approved style, the requested topic, and the relevant passages from a release announcement.\nDetailed reference material can stay in files the procedure retrieves when needed.\nAnthropic's context guidance describes selective retrieval and external notes as ways to manage information during agent work. Context engineering.\nSplitting a large instruction file into `@path` imports still loads the imported content at session start.\nUse those imports for organization, and place occasional procedures in skills. Memory loading.\nWhen a stored fact changes, update its source and checked date.\nA preference discovered during one draft becomes a standing rule only after you confirm it should apply across future drafts.\nUse /memory to inspect project instructions and browse auto-memory notes. Check saved preferences before relying on them for a different task.\n \n2. Save the procedure you keep repeating\nA recurring task usually has a recognizable sequence: read the material, prepare the output, review it, and save the results.\nA skill keeps that sequence available for the next request.\nIts full instructions load when invoked.\nThe description helps Claude recognize when the procedure fits the task. Skill behavior.\n \nPaste this into .claude/skills/write-draft/SKILL.md:\n \nEnter /write-draft followed by the topic. `$ARGUMENTS` passes that text into the procedure, so the workflow can handle a new subject with the same outputs.\nGive each step an observable result.\nReading produces a source selection; drafting produces a saved file; reviewing produces findings the writer can resolve.\nA step such as check accuracy leaves several decisions open.\nNaming the reviewer, source requirements, and report format makes the expected check explicit.\nKeep publication approval separate from draft preparation.\nThe skill above prepares files for inspection; publishing would require its own action and authorization.\nWhen you improve the process, edit the skill.\nFor example, if release dates keep getting confused, add a check that distinguishes an announcement date from the date a feature became available.\n \n3. Give the task access to its source material\nModel Context Protocol (MCP) connections expose tools from external services.\nThey let Claude retrieve material from a service your workflow uses. MCP guide\nAdd a connection when it supports a specific task step.\nLocal source files already work for the example, while a remote document collection can use a connector.\nIf your source material lives in Notion, run this in the terminal:\n \nWhen you open Claude Code, use /mcp to authenticate and inspect the connection status. Retrieve one known page and confirm its contents before depending on it for a long task.\nGive the skill an exact page link or identifier. Include which information to extract and where the retrieved material should be used.\nFor example, a source page may contain both product specifications and an internal plan. Tell the procedure which section supports the article and which actions the connection may perform.\nTool results should carry enough information for the next decision.\nAnthropic's tool-design guidance discusses useful outputs and actionable errors, including information that helps an agent recover from a failed call. Writing effective tools\nIf retrieval fails, preserve the document identifier and the failure reason. Check authentication or access before repeating the same request.\nInspect the connector's available actions and configure permissions for operations that change the external service.\nDisable unused servers through /mcp when they have no role in the current workflow.\n \n4. Put action rules in the execution layer\nDefine which files the workflow may change and which actions need approval.\nPermission rules apply at the tool boundary.\nA PreToolUse hook can inspect the proposed action before execution.\nUse one when the decision depends on arguments or task state, such as whether the destination matches an approved output. Hook reference\nMerge this into .claude/settings.json:\n \nThe `Read` rules cover the named environment files. The `Edit` rule protects files under `published/` through the built-in editing and write tools. Permission syntax.\n \nOpen `/permissions` and inspect the effective rules.\nExisting configuration and managed policy can affect what the session permits, so check the loaded result after saving.\nFor a harmless exercise, create a dummy document in `published/` and ask Claude to edit it through its file-editing tool. The action should be denied.\nFile-tool restrictions have a defined scope.\nArbitrary Python or Node processes can access files through their own code; operating-system sandboxing supplies restrictions across those processes when required.\nFor an external write, identify the destination and the exact content being approved. If the content changes, review the updated action before execution.\nA timeout also needs a clear recovery step.\nInspect the destination before retrying an external write, because the first attempt may already have completed.\n \n5. Make the reviewer return evidence\nGive verification a bounded assignment with a report the main agent can use.\nA subagent has its own context and configurable tools for that work. Subagent configuration\n \nThe reviewer should receive the draft path, relevant source locations, and the claims it needs to inspect.\nSpecify how it should report uncertainty.\nPaste this into .claude/agents/evidence-reviewer.md:\n \nThis worker receives read and search tools. \nDraft corrections remain with the main agent.\nEach finding should connect a claim to an opened source.\nA verdict such as incorrect needs the conflicting evidence and a correction the writer can apply.\nAn unresolved verdict should identify the missing evidence.\nThe main agent reviews the findings, updates the draft, and checks the revised wording. A confident reviewer report still needs usable evidence behind its recommendations.\nRecheck adjacent sentences when a correction changes the meaning of a paragraph.\nAnthropic's evaluation guidance separates an agent's transcript from the outcome left in the environment.\nIt also describes different checking methods for different types of results. Agent evaluations\n \nApply that distinction here by opening the saved draft and checking its cited claims.\nThe review table should describe the document that will actually be accepted.\n \n6. Assign reasoning effort to the work\nStart the main session at `medium`; Opus 5.5 uses that default unless applicable settings override it.\nThe reviewer above requests `high` for its verification work. Effort configuration\n \n \nWith Claude Code installed and your account signed in, run this from the workspace root:\n \nConfirm Opus 5.5 and the active effort in the session header.\nThe startup command sets the model and effort for that session.\nEffort can be configured for a skill or subagent, subject to the model's supported levels and applicable limits.\nWriting an instruction about thinking depth leaves the configured effort setting in place.\nChoose a task whose result you can inspect before changing the setting. Record which acceptance checks passed and which corrections the output needed.\nThis makes effort a decision tied to a particular job.\nA source review involving ambiguous claims can receive its own configuration while the main drafting workflow keeps its chosen level.\nBefore the first run, use `/context` to inspect loaded instructions, `/agents` to confirm the reviewer, and `/permissions` to inspect action rules.\nFix missing components before assigning the full task.\n \n7. Tell the run what it must prove\nDefine completion in terms of saved deliverables and verification results.\nA draft, its checking table, and an updated progress note give the run concrete outputs to produce.\nClaude Code's `/goal` evaluates a completion condition against evidence surfaced in the conversation between turns. The evaluator relies on the agent showing the relevant results. Goal documentation\n \nPut the topic, reference material, and source links in `sources/`. Then paste this into Claude Code:\n \nThe turn clause is model evaluated. Strict runtime or spending limits need execution controls, and `/goal clear` removes an active goal.\nWhen the run ends, open both files and inspect several claim-to-source matches.\nCheck that the progress note agrees with the work saved in the workspace.\nUse the same evidence format for the next task.\nA consistent report lets you identify unresolved claims and missing checks without reconstructing the entire conversation.\nFor recovery, `/rewind` can restore tracked file edits. Shell changes and most subagent edits require separate recovery, while version control preserves durable file history. Checkpoint limits\n \n \nRun the complete workflow once\nCreate the source folders and the four configuration files before starting the session => Put a short task brief alongside the source material so the requested result stays explicit.\nCopy this into sources/task.md and fill in the details:\n \nStart Claude Code with the command in layer six and inspect the loaded setup => Run the goal in layer seven, then check the saved outputs.\nThe expected result is `drafts/article.md`, `drafts/checks.md`, and `progress.md`.\nThe checking table should identify what was verified and what still needs your attention.\nIf the skill is missing, inspect its path and frontmatter.\nIf the reviewer is missing, check its `name` and `description`, then confirm availability through `/agents`.\nFor unresolved claims, inspect the supplied source and the evidence the reviewer requested.\nResolve the gap or keep it visibly marked before accepting the draft.\n \nCheck what the next session can recover\nMaintain `progress.md` after a meaningful stage.\nRecord the current files, completed checks, open questions, and next action.\nRoot CLAUDE.md is re-read after compaction.\nScoped instructions reload when relevant files are accessed. Compaction and memory\nUse this compact structure for the progress note:\n \nStart a fresh session in the same workspace and paste:\n \nThe session should identify the saved work and continue from the handoff. If it starts over, inspect the note and add the missing decision or file path.\nAnthropic's long-running agent guidance uses persistent progress records to support work across sessions.\nMaintain those records as the task changes so a resumed run has current information. Long-running harnesses\n \n \nMeasure the setup on accepted work\nUse `/usage` to inspect reported usage and `/context` to see what occupies the working context. Include delegated review and retries in the task's total. Usage guidance\nRecord your review time and the corrections the result required.\nAn output that needs substantial repair changes the value of the whole run.\nKeep the task and acceptance criteria consistent when testing a configuration change.\nAdjust one component, repeat the task, and inspect both the saved result and its evidence.\nThe 60% token reduction implied by Anthropic's early-tester report belongs to that model experiment.\nEstablish savings from your own harness through measurements of completed tasks. Opus 5.5 announcement\nAfter the first accepted run, reuse the skill with a new topic and source set. Keep the reviewer, output paths, and completion format consistent, then update the procedure when a recurring correction reveals a missing step.\n \nSave this so you don't lose it\nFollow @beamnxw for more alpha :)\n=> my substack\n=> my telegram channel",
+     "preview_text": "Your next Opus 5.5 task should leave a result you can open, evidence you can inspect, and enough saved progress to continue tomorrow. Put those outputs into the workflow before you start the run.\nA",
+     "title": "Make Opus 5.5 Finish Long Tasks: A Reusable Harness Engineering Setup"
+    },
+    "article_title": {
+     "title": "Make Opus 5.5 Finish Long Tasks: A Reusable Harness Engineering Setup"
+    },
+    "author_id": "1829032796481888256",
+    "conversation_id": "2107522996046905797",
+    "created_at": "2026-10-06T17:26:52.000Z",
+    "edit_history_post_ids": [
+     "2107522996046905797"
+    ],
+    "entities": {
+     "urls": [
+      {
+       "display_url": "x.com/i/article/2107…",
+       "end": 207,
+       "expanded_url": "https://x.com/i/article/2107503162273792000",
+       "start": 184,
+       "status": 404,
+       "unwound_url": "https://x.com/i/article/2107503162273792000",
+       "url": "https://t.co/rz78goHxfw"
+      }
+     ]
+    },
+    "id": "2107522996046905797",
+    "lang": "en",
+    "public_metrics": {
+     "bookmark_count": 4770,
+     "impression_count": 1841447,
+     "like_count": 1112,
+     "quote_count": 32,
+     "reply_count": 67,
+     "repost_count": 145
+    },
+    "text": "Stop letting unfinished Opus 5.5 runs eat your budget\n\nSet up the harness before your next long task\n\nSave progress, verify results, reuse the workflow\n\nThe full 7-layer setup below ↓ https://t.co/rz78goHxfw"
+   },
+   {
+    "article": {
+     "cover_media": "3_2090512139400204288",
+     "media_entities": [
+      "3_2090499054585192449"
+     ],
+     "plain_text": "Most people who build a second brain make the same mistake. They treat it like a filing cabinet. Drop notes in. Search when needed. Hope the right thing surfaces.\nThat is retrieval. And retrieval has a ceiling.\nAndrej Karpathy described something different in April 2026. He called it LLM Wiki. The idea spread across GitHub within days. 5,000 stars. 16 million views on a single post about a folder structure. Thousands of engineers reading the same sentence and feeling something shift.\n \n\"RAG re-derives knowledge on every query. A compiled wiki derives it once and keeps it current.\"\nThat distinction changes everything about how you build.\nThe difference between storing and compiling\nWhen you store knowledge, you are building a library. Information goes in. You search when you need it. The library does not grow on its own. It does not make connections. It does not flag when two notes contradict each other.\nWhen you compile knowledge, something different happens. A source comes in. The system reads it, extracts what matters, connects it to everything already there, updates related pages, flags contradictions with older entries, and files the synthesis permanently. The next time you add a source, it builds on what was already compiled. Not on the raw inputs. On the processed understanding.\nThe library gets bigger over time. The compiler gets smarter.\nRAG systems pay the cost of understanding on every single query. A compiled wiki pays it once, at ingest, and every query after that draws on structured, linked, cross-referenced knowledge the model built and maintains. That is not a productivity trick. It is a fundamentally different architecture.\nThe architecture\nThree folders. One file. One loop. Here is what changes when you treat it as a compiler instead of a library.\nraw/ is the input buffer, not the brain. Nothing that enters raw is ever the answer. It is the raw material waiting to be compiled. wiki/ is where compilation happens. One source touches ten to fifteen pages. Connections form automatically. Contradictions get flagged. The human reads it. The model writes it. output/ is built from compiled knowledge, not from memory and not from raw.\nAt the center: CLAUDE.md. A compiled profile of who you are, how you think, what you have tried. Not a prompt you write once and forget. A living document the model maintains and reads before every session.\nThe loop does not just file things. It compiles them. Every new source gets ingested, linked, and integrated into the existing structure. Then it writes you a brief on what it changed and why, so you stay inside the system instead of wondering what it did while you were gone. You open your laptop and the compilation already happened. You start where the thinking left off.\nWhy most second brains stop working after three months\nThe filing cabinet model fails for one reason: maintenance burden. You capture a note. You organize it. You cross-reference it. You update it when something changes. Every one of those steps requires a human decision. Human time. Human energy.\nMost personal wikis quietly rot. Not because the person stopped caring. Because the maintenance cost compounds faster than the value compounds.\nKarpathy named this directly: \"The act of collecting information is effortless. The act of keeping fifty interlinked notes current, consistent, and cross-referenced is the work that no human sustains.\"\nThe compiled wiki shifts that burden to the model. Claude does not get tired of filing. It does not forget to link the new note to the three older ones it contradicts. The human contribution becomes irreducible: source selection, research direction, synthesis oversight. Everything else runs.\nWhat happens over time\nOne month in: context stops disappearing between sessions. Three months in: the wiki surfaces connections you never consciously made. The system found the link between an idea from January and a note from last week. You did not have to. Six months in: the gap between you and someone starting from zero is structural. Not because you are smarter. Because your compiled knowledge base draws on six months of processed understanding. Theirs resets every session. One year in: open the graph view. Hundreds of nodes. All connected. All maintained. The system knows things you had forgotten you knew.\nThe honest part\nThe compiler approach has real limitations worth naming.\nQuality depends entirely on source quality. Garbage in means garbage compiled, not garbage retrieved. The difference matters because retrieval surfaces one bad document. Compilation integrates it into everything. A bad source in a library is easy to remove. A bad source in a compiler has touched fifteen pages before you notice.\nThe first few weeks feel slow. The graph is small. The connections are obvious. The value of compilation only becomes clear when the wiki has enough density that the model starts finding non-obvious links. That threshold is around 50 to 100 well-compiled sources. Before that, a good search engine does most of the same job.\nAnd this requires Claude Desktop and a paid plan. The scheduled tasks and file system access that make the loop run do not work on the free tier.\nBuild with those constraints in mind and the system earns its cost quickly. Ignore them and you will rebuild the filing cabinet you started with.\nThe prompts that run the system\nFor those who want to build this today.\nTo ingest a new source:\nI just added a new file to my raw folder called [filename]. Read it, extract the key concepts and claims, write a wiki article for each major concept, link them to related pages already in my wiki, and flag any contradictions with what I already have. Then summarize what changed in three sentences.\nTo build your CLAUDE.md:\nYou are setting up my second brain. Interview me one question at a time. Ask about: who I am and what I do, my goals for this year, how I want you to communicate with me, my strengths and weaknesses, and my current projects. Wait for each answer before moving to the next. When finished, write everything into a file called CLAUDE.md at the vault root, organized with clear headers, so you load it automatically every session.\nTo build a project folder:\nCreate a project folder called [project name]. Inside it, create four folders: Inputs, Process, Outputs, Feedback. Then write a CLAUDE.md inside that project folder describing what it is, its single goal, what done looks like, and your specific role in helping me reach it.\nTo set up the daily compilation loop:\nSet up a daily compilation task. Check my vault. File anything new in Inputs folders into the right place and link it to related notes. Flag anything that has gone stale or has not been updated in more than two weeks. Check for contradictions between recent additions and existing wiki pages. Write me a brief: what you changed, what you linked, what you flagged, and what I should look at today.\nThe reversal\nMost people are using Claude as a search engine with better manners. You ask. It answers. You close the tab. Tomorrow it remembers nothing. You are still the one holding all the context. Every session you pay the same understanding cost again.\nThe compiled second brain changes that direction. You stop being the memory layer. The system becomes it.\nRetrieval answers questions. Compilation builds understanding.\nBuild the compiler. Let it run. The compounding starts immediately and it never stops.",
+     "preview_text": "Most people who build a second brain make the same mistake. They treat it like a filing cabinet. Drop notes in. Search when needed. Hope the right thing surfaces.\nThat is retrieval. And retrieval has",
+     "title": "The Second Brain Is Not a Storage System. It's a Compiler."
+    },
+    "article_title": {
+     "title": "The Second Brain Is Not a Storage System. It's a Compiler."
+    },
+    "author_id": "1840797220162940928",
+    "conversation_id": "2090512486738845784",
+    "created_at": "2026-08-20T18:53:11.000Z",
+    "edit_history_post_ids": [
+     "2090512486738845784"
+    ],
+    "entities": {
+     "urls": [
+      {
+       "display_url": "x.com/i/article/2090…",
+       "end": 23,
+       "expanded_url": "https://x.com/i/article/2090496192136290304",
+       "start": 0,
+       "status": 404,
+       "unwound_url": "https://x.com/i/article/2090496192136290304",
+       "url": "https://t.co/wBLzP25PUm"
+      }
+     ]
+    },
+    "id": "2090512486738845784",
+    "lang": "zxx",
+    "public_metrics": {
+     "bookmark_count": 3307,
+     "impression_count": 1582845,
+     "like_count": 918,
+     "quote_count": 23,
+     "reply_count": 21,
+     "repost_count": 92
+    },
+    "text": "https://t.co/wBLzP25PUm"
+   }
+  ],
+  "media": [
+   {
+    "media_key": "13_2114343754228252672",
+    "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2114343754228252672/img/KOhGYKy2KLSl1Zor.jpg",
+    "type": "video"
+   },
+   {
+    "media_key": "13_2113701897806725120",
+    "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2113701897806725120/img/iIxw9vOqh8dY26sx.jpg",
+    "type": "video"
+   },
+   {
+    "media_key": "3_2104602701552115712",
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HTUNAaNXYAAmCWI.jpg"
+   }
+  ]
+ },
+ "meta": {
+  "result_count": 4,
+  "note": "Pruned 2026-10-26: only the 4 bookmarks Joshua kept are retained; 19 excluded posts (see state/exclusions.json) and their includes were removed."
+ }
+}

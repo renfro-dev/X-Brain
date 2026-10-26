@@ -1,0 +1,153 @@
+{
+ "data": [
+  {
+   "author_id": "326024615",
+   "conversation_id": "2113990724282724742",
+   "created_at": "2026-10-26T08:32:10.000Z",
+   "edit_history_post_ids": [
+    "2114636191697891451"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "See real case studies from Limestone Digital - how AI-native engineering teams help companies build, scale, and modernize faster.",
+      "display_url": "limestonedigital.com/case-studies",
+      "end": 49,
+      "expanded_url": "https://limestonedigital.com/case-studies",
+      "images": [
+       {
+        "height": 630,
+        "url": "https://pbs.twimg.com/news_img/2114636198945730560/kEBapk5Q?format=jpg&name=orig",
+        "width": 1200
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2114636198945730560/kEBapk5Q?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 26,
+      "status": 200,
+      "title": "Case Studies - Limestone Digital",
+      "unwound_url": "https://limestonedigital.com/case-studies",
+      "url": "https://t.co/VGpbU993ph"
+     }
+    ]
+   },
+   "id": "2114636191697891451",
+   "in_reply_to_user_id": "326024615",
+   "referenced_tweets": [
+    {
+     "id": "2113991017506414930",
+     "type": "replied_to"
+    }
+   ],
+   "text": "Explore our case studies: https://t.co/VGpbU993ph",
+   "url": "https://x.com/mardehaym/status/2114636191697891451"
+  },
+  {
+   "author_id": "326024615",
+   "conversation_id": "2113990724282724742",
+   "created_at": "2026-10-24T13:48:29.000Z",
+   "edit_history_post_ids": [
+    "2113991017506414930"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "Subscribe to AI Foundation. A weekly briefing on AI, engineering strategy, data systems, and the operational bottlenecks shaping modern enterprises.",
+      "display_url": "thefoundation.limestonedigital.com/ai-transformat…",
+      "end": 123,
+      "expanded_url": "https://thefoundation.limestonedigital.com/ai-transformation-operations",
+      "images": [
+       {
+        "height": 1200,
+        "url": "https://pbs.twimg.com/news_img/2112558657938374656/7f4KH3-1?format=png&name=orig",
+        "width": 1200
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2112558657938374656/7f4KH3-1?format=png&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 100,
+      "status": 200,
+      "title": "ai-transformation-operations | AI Foundation from Limestone Digital",
+      "unwound_url": "https://thefoundation.limestonedigital.com/ai-transformation-operations",
+      "url": "https://t.co/bEl8G9fhUg"
+     }
+    ]
+   },
+   "id": "2113991017506414930",
+   "in_reply_to_user_id": "326024615",
+   "referenced_tweets": [
+    {
+     "id": "2113990770646786343",
+     "type": "replied_to"
+    }
+   ],
+   "text": "If you found this useful, check out our guide on AI transformation for operations\n\nGet it for free:\nhttps://t.co/bEl8G9fhUg",
+   "url": "https://x.com/mardehaym/status/2113991017506414930"
+  },
+  {
+   "author_id": "326024615",
+   "conversation_id": "2113990724282724742",
+   "created_at": "2026-10-24T13:47:30.000Z",
+   "edit_history_post_ids": [
+    "2113990770646786343"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "display_url": "meetings-na2.hubspot.com/mark-ajzenstadt",
+      "end": 77,
+      "expanded_url": "https://meetings-na2.hubspot.com/mark-ajzenstadt",
+      "start": 54,
+      "status": 200,
+      "unwound_url": "https://meetings-na2.hubspot.com/mark-ajzenstadt",
+      "url": "https://t.co/o3WC81Ihvd"
+     }
+    ]
+   },
+   "id": "2113990770646786343",
+   "in_reply_to_user_id": "326024615",
+   "referenced_tweets": [
+    {
+     "id": "2113990724282724742",
+     "type": "replied_to"
+    }
+   ],
+   "text": "Book a discovery call if you want to ship AI-native: \nhttps://t.co/o3WC81Ihvd",
+   "url": "https://x.com/mardehaym/status/2113990770646786343"
+  },
+  {
+   "author_id": "326024615",
+   "conversation_id": "2113990724282724742",
+   "created_at": "2026-10-24T13:47:19.000Z",
+   "edit_history_post_ids": [
+    "2113990724282724742"
+   ],
+   "id": "2113990724282724742",
+   "note_tweet": {
+    "text": "There are seven main steps for your company to go from tool adoption to agentic org. \n\nMost companies sit on step one, shopping for step seven technology. They need step four discipline.\n\nStep one: tool adoption. AI tools exist across the org, humans run each one. Developer closes the lid, automations die. Somebody goes on vacation, the workflow goes with them.\n\nStep two: context layer. Knowledge graphs per department, each behind its own API gateway. Sales queries engineering through an API. Separated domains keep agents from hallucinating across departmental boundaries.\n\nStep three: harness engineering. Build evaluation criteria, routing logic, and quality gates before you pick a model. The LLM comes in last. Your harness is your IP and your capex. The model underneath is a commodity you swap when something better ships. If changing the LLM breaks your system, you built a dependency, not a platform.\n\nStep four: go headless. Host every automation outside a laptop. It fires on schedule, on conditions, without a human logging in at 9 AM. Companies stall here because nobody forces the migration from “script on my desktop” to “service that runs on its own.”\n\nStep five: governance. RBAC on every knowledge structure from day one. TTL on every agent. Dead agents are tech debt with active API keys. Past 100 tools, you need lifecycle management. Retire anything that hasn’t run in 90 days. Deprecate anything whose eval scores drop below threshold.\n\nStep six: agent-to-agent. Stitch headless instances together within a value chain. Agent A finishes, hands off to Agent B. An LLM sits between them as a quality gate, judging every handoff before it passes through.\n\nStep seven: step functions. Orchestrated, semi or fully automated workflows. Agents handle volume. Humans handle exceptions. The org runs on agent output.\n\nWe walked a VP of Engineering through all seven. \n\nTold him: “You’re on step one. But over a hundred tools means step four is closer than you think.”"
+   },
+   "text": "There are seven main steps for your company to go from tool adoption to agentic org. \n\nMost companies sit on step one, shopping for step seven technology. They need step four discipline.\n\nStep one: tool adoption. AI tools exist across the org, humans run each one. Developer",
+   "url": "https://x.com/mardehaym/status/2113990724282724742"
+  }
+ ],
+ "includes": {
+  "media": [],
+  "posts": [],
+  "users": [
+   {
+    "id": "326024615",
+    "name": "Mark Ajzenstadt",
+    "username": "mardehaym"
+   }
+  ]
+ },
+ "meta": {
+  "result_count": 31
+ }
+}

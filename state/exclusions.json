@@ -1,0 +1,139 @@
+{
+ "schema_version": 1,
+ "description": "Bookmarked posts Joshua chose NOT to keep. Daily sync must never re-capture these ids; treat them as seen for the stop rule.",
+ "exclusions": [
+  {
+   "post_id": "2040196204135587841",
+   "author_handle": "jmilinovich",
+   "url": "https://x.com/jmilinovich/status/2040196204135587841",
+   "excluded_on": "2026-10-26",
+   "reason": "pruned by Joshua before first push"
+  },
+  {
+   "post_id": "2039805659525644595",
+   "author_handle": "karpathy",
+   "url": "https://x.com/karpathy/status/2039805659525644595",
+   "excluded_on": "2026-10-26",
+   "reason": "pruned by Joshua before first push"
+  },
+  {
+   "post_id": "2036195797881028970",
+   "author_handle": "claudeai",
+   "url": "https://x.com/claudeai/status/2036195797881028970",
+   "excluded_on": "2026-10-26",
+   "reason": "pruned by Joshua before first push"
+  },
+  {
+   "post_id": "2033267421490864546",
+   "author_handle": "coreyganim",
+   "url": "https://x.com/coreyganim/status/2033267421490864546",
+   "excluded_on": "2026-10-26",
+   "reason": "pruned by Joshua before first push"
+  },
+  {
+   "post_id": "2029281861902684175",
+   "author_handle": "vibhu",
+   "url": "https://x.com/vibhu/status/2029281861902684175",
+   "excluded_on": "2026-10-26",
+   "reason": "pruned by Joshua before first push"
+  },
+  {
+   "post_id": "2029162337471742319",
+   "author_handle": "ghumare64",
+   "url": "https://x.com/ghumare64/status/2029162337471742319",
+   "excluded_on": "2026-10-26",
+   "reason": "pruned by Joshua before first push"
+  },
+  {
+   "post_id": "2028719589241307635",
+   "author_handle": "heynavtoor",
+   "url": "https://x.com/heynavtoor/status/2028719589241307635",
+   "excluded_on": "2026-10-26",
+   "reason": "pruned by Joshua before first push"
+  },
+  {
+   "post_id": "2023838882505318773",
+   "author_handle": "amirmxt",
+   "url": "https://x.com/amirmxt/status/2023838882505318773",
+   "excluded_on": "2026-10-26",
+   "reason": "pruned by Joshua before first push"
+  },
+  {
+   "post_id": "2022533258257330669",
+   "author_handle": "dimitarangg",
+   "url": "https://x.com/dimitarangg/status/2022533258257330669",
+   "excluded_on": "2026-10-26",
+   "reason": "pruned by Joshua before first push"
+  },
+  {
+   "post_id": "2011875544783339868",
+   "author_handle": "SavannahFeder",
+   "url": "https://x.com/SavannahFeder/status/2011875544783339868",
+   "excluded_on": "2026-10-26",
+   "reason": "pruned by Joshua before first push"
+  },
+  {
+   "post_id": "2012441415398109192",
+   "author_handle": "justsisyphus",
+   "url": "https://x.com/justsisyphus/status/2012441415398109192",
+   "excluded_on": "2026-10-26",
+   "reason": "pruned by Joshua before first push"
+  },
+  {
+   "post_id": "2011107300748968431",
+   "author_handle": "amirmxt",
+   "url": "https://x.com/amirmxt/status/2011107300748968431",
+   "excluded_on": "2026-10-26",
+   "reason": "pruned by Joshua before first push"
+  },
+  {
+   "post_id": "2011061406146187561",
+   "author_handle": "ManusAI",
+   "url": "https://x.com/ManusAI/status/2011061406146187561",
+   "excluded_on": "2026-10-26",
+   "reason": "pruned by Joshua before first push"
+  },
+  {
+   "post_id": "2011523109871108570",
+   "author_handle": "trq212",
+   "url": "https://x.com/trq212/status/2011523109871108570",
+   "excluded_on": "2026-10-26",
+   "reason": "pruned by Joshua before first push"
+  },
+  {
+   "post_id": "1994508603991232746",
+   "author_handle": "amasad",
+   "url": "https://x.com/amasad/status/1994508603991232746",
+   "excluded_on": "2026-10-26",
+   "reason": "pruned by Joshua before first push"
+  },
+  {
+   "post_id": "1875302844544512279",
+   "author_handle": "flynnslick",
+   "url": "https://x.com/flynnslick/status/1875302844544512279",
+   "excluded_on": "2026-10-26",
+   "reason": "pruned by Joshua before first push"
+  },
+  {
+   "post_id": "1860724339936801170",
+   "author_handle": "cryptoklotz",
+   "url": "https://x.com/cryptoklotz/status/1860724339936801170",
+   "excluded_on": "2026-10-26",
+   "reason": "pruned by Joshua before first push"
+  },
+  {
+   "post_id": "1749157850772066330",
+   "author_handle": "0x_Swiper",
+   "url": "https://x.com/0x_Swiper/status/1749157850772066330",
+   "excluded_on": "2026-10-26",
+   "reason": "pruned by Joshua before first push"
+  },
+  {
+   "post_id": "1512463984754139140",
+   "author_handle": "BigCheds",
+   "url": "https://x.com/BigCheds/status/1512463984754139140",
+   "excluded_on": "2026-10-26",
+   "reason": "pruned by Joshua before first push"
+  }
+ ]
+}

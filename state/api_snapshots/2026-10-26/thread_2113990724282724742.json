@@ -1,0 +1,349 @@
+{
+ "data": [
+  {
+   "author_id": "326024615",
+   "created_at": "2026-10-26T08:32:10.000Z",
+   "edit_history_tweet_ids": [
+    "2114636191697891451"
+   ],
+   "id": "2114636191697891451",
+   "in_reply_to_user_id": "326024615",
+   "public_metrics": {
+    "bookmark_count": 8,
+    "impression_count": 3257,
+    "like_count": 6,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "referenced_tweets": [
+    {
+     "id": "2113991017506414930",
+     "type": "replied_to"
+    }
+   ],
+   "text": "Explore our case studies: https://t.co/VGpbU993ph",
+   "url": "https://x.com/mardehaym/status/2114636191697891451"
+  },
+  {
+   "author_id": "326024615",
+   "created_at": "2026-10-24T13:52:13.000Z",
+   "edit_history_tweet_ids": [
+    "2113991959291531270"
+   ],
+   "id": "2113991959291531270",
+   "in_reply_to_user_id": "1643695629665722379",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 7529,
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 1,
+    "retweet_count": 0
+   },
+   "referenced_tweets": [
+    {
+     "id": "2113991126847996011",
+     "type": "replied_to"
+    }
+   ],
+   "text": "@alex_prompter thanks, Alex",
+   "url": "https://x.com/mardehaym/status/2113991959291531270"
+  },
+  {
+   "author_id": "326024615",
+   "created_at": "2026-10-24T13:52:06.000Z",
+   "edit_history_tweet_ids": [
+    "2113991929079689506"
+   ],
+   "id": "2113991929079689506",
+   "in_reply_to_user_id": "380344724",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 5462,
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "referenced_tweets": [
+    {
+     "id": "2113991406251581691",
+     "type": "replied_to"
+    }
+   ],
+   "text": "@free_ai_guides thanks",
+   "url": "https://x.com/mardehaym/status/2113991929079689506"
+  },
+  {
+   "author_id": "326024615",
+   "created_at": "2026-10-24T13:51:58.000Z",
+   "edit_history_tweet_ids": [
+    "2113991897115172884"
+   ],
+   "id": "2113991897115172884",
+   "in_reply_to_user_id": "1657385954594762758",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 6190,
+    "like_count": 3,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "referenced_tweets": [
+    {
+     "id": "2113991741749485602",
+     "type": "replied_to"
+    }
+   ],
+   "text": "@alex_verem 100%",
+   "url": "https://x.com/mardehaym/status/2113991897115172884"
+  },
+  {
+   "author_id": "326024615",
+   "created_at": "2026-10-24T13:48:29.000Z",
+   "edit_history_tweet_ids": [
+    "2113991017506414930"
+   ],
+   "id": "2113991017506414930",
+   "in_reply_to_user_id": "326024615",
+   "public_metrics": {
+    "bookmark_count": 130,
+    "impression_count": 32529,
+    "like_count": 43,
+    "quote_count": 0,
+    "reply_count": 1,
+    "retweet_count": 4
+   },
+   "referenced_tweets": [
+    {
+     "id": "2113990770646786343",
+     "type": "replied_to"
+    }
+   ],
+   "text": "If you found this useful, check out our guide on AI transformation for operations\n\nGet it for free:\nhttps://t.co/bEl8G9fhUg",
+   "url": "https://x.com/mardehaym/status/2113991017506414930"
+  },
+  {
+   "author_id": "326024615",
+   "created_at": "2026-10-24T13:47:30.000Z",
+   "edit_history_tweet_ids": [
+    "2113990770646786343"
+   ],
+   "id": "2113990770646786343",
+   "in_reply_to_user_id": "326024615",
+   "public_metrics": {
+    "bookmark_count": 26,
+    "impression_count": 40968,
+    "like_count": 21,
+    "quote_count": 0,
+    "reply_count": 3,
+    "retweet_count": 2
+   },
+   "referenced_tweets": [
+    {
+     "id": "2113990724282724742",
+     "type": "replied_to"
+    }
+   ],
+   "text": "Book a discovery call if you want to ship AI-native: \nhttps://t.co/o3WC81Ihvd",
+   "url": "https://x.com/mardehaym/status/2113990770646786343"
+  },
+  {
+   "author_id": "326024615",
+   "created_at": "2026-10-24T13:47:19.000Z",
+   "edit_history_tweet_ids": [
+    "2113990724282724742"
+   ],
+   "id": "2113990724282724742",
+   "public_metrics": {
+    "bookmark_count": 11106,
+    "impression_count": 770904,
+    "like_count": 3152,
+    "quote_count": 28,
+    "reply_count": 120,
+    "retweet_count": 245
+   },
+   "text": "There are seven main steps for your company to go from tool adoption to agentic org. \n\nMost companies sit on step one, shopping for step seven technology. They need step four discipline.\n\nStep one: tool adoption. AI tools exist across the org, humans run each one. Developer",
+   "url": "https://x.com/mardehaym/status/2113990724282724742"
+  }
+ ],
+ "includes": {
+  "tweets": [
+   {
+    "author_id": "326024615",
+    "created_at": "2026-10-24T13:48:29.000Z",
+    "edit_history_tweet_ids": [
+     "2113991017506414930"
+    ],
+    "id": "2113991017506414930",
+    "in_reply_to_user_id": "326024615",
+    "public_metrics": {
+     "bookmark_count": 130,
+     "impression_count": 32529,
+     "like_count": 43,
+     "quote_count": 0,
+     "reply_count": 1,
+     "retweet_count": 4
+    },
+    "referenced_tweets": [
+     {
+      "id": "2113990770646786343",
+      "type": "replied_to"
+     }
+    ],
+    "text": "If you found this useful, check out our guide on AI transformation for operations\n\nGet it for free:\nhttps://t.co/bEl8G9fhUg"
+   },
+   {
+    "author_id": "1643695629665722379",
+    "created_at": "2026-10-24T13:48:55.000Z",
+    "edit_history_tweet_ids": [
+     "2113991126847996011"
+    ],
+    "id": "2113991126847996011",
+    "in_reply_to_user_id": "326024615",
+    "public_metrics": {
+     "bookmark_count": 0,
+     "impression_count": 8888,
+     "like_count": 6,
+     "quote_count": 0,
+     "reply_count": 1,
+     "retweet_count": 0
+    },
+    "referenced_tweets": [
+     {
+      "id": "2113990724282724742",
+      "type": "replied_to"
+     }
+    ],
+    "text": "@mardehaym agreed and well laid out"
+   },
+   {
+    "author_id": "380344724",
+    "created_at": "2026-10-24T13:50:01.000Z",
+    "edit_history_tweet_ids": [
+     "2113991406251581691"
+    ],
+    "id": "2113991406251581691",
+    "in_reply_to_user_id": "326024615",
+    "public_metrics": {
+     "bookmark_count": 0,
+     "impression_count": 6240,
+     "like_count": 3,
+     "quote_count": 0,
+     "reply_count": 1,
+     "retweet_count": 0
+    },
+    "referenced_tweets": [
+     {
+      "id": "2113990724282724742",
+      "type": "replied_to"
+     }
+    ],
+    "text": "@mardehaym great share"
+   },
+   {
+    "author_id": "1657385954594762758",
+    "created_at": "2026-10-24T13:51:21.000Z",
+    "edit_history_tweet_ids": [
+     "2113991741749485602"
+    ],
+    "id": "2113991741749485602",
+    "in_reply_to_user_id": "326024615",
+    "public_metrics": {
+     "bookmark_count": 0,
+     "impression_count": 7158,
+     "like_count": 6,
+     "quote_count": 0,
+     "reply_count": 2,
+     "retweet_count": 0
+    },
+    "referenced_tweets": [
+     {
+      "id": "2113990724282724742",
+      "type": "replied_to"
+     }
+    ],
+    "text": "@mardehaym most companies are definitely falling behimd"
+   },
+   {
+    "author_id": "326024615",
+    "created_at": "2026-10-24T13:47:30.000Z",
+    "edit_history_tweet_ids": [
+     "2113990770646786343"
+    ],
+    "id": "2113990770646786343",
+    "in_reply_to_user_id": "326024615",
+    "public_metrics": {
+     "bookmark_count": 26,
+     "impression_count": 40968,
+     "like_count": 21,
+     "quote_count": 0,
+     "reply_count": 3,
+     "retweet_count": 2
+    },
+    "referenced_tweets": [
+     {
+      "id": "2113990724282724742",
+      "type": "replied_to"
+     }
+    ],
+    "text": "Book a discovery call if you want to ship AI-native: \nhttps://t.co/o3WC81Ihvd"
+   },
+   {
+    "author_id": "326024615",
+    "created_at": "2026-10-24T13:47:19.000Z",
+    "edit_history_tweet_ids": [
+     "2113990724282724742"
+    ],
+    "id": "2113990724282724742",
+    "public_metrics": {
+     "bookmark_count": 11106,
+     "impression_count": 770904,
+     "like_count": 3152,
+     "quote_count": 28,
+     "reply_count": 120,
+     "retweet_count": 245
+    },
+    "text": "There are seven main steps for your company to go from tool adoption to agentic org. \n\nMost companies sit on step one, shopping for step seven technology. They need step four discipline.\n\nStep one: tool adoption. AI tools exist across the org, humans run each one. Developer"
+   }
+  ],
+  "users": [
+   {
+    "id": "326024615",
+    "name": "Mark Ajzenstadt",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1217178205863514112/73FfYSrY_normal.jpg",
+    "username": "mardehaym",
+    "verified": false
+   },
+   {
+    "id": "1643695629665722379",
+    "name": "Alex Prompter",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/2066532957049769985/zzC81Zmq_normal.jpg",
+    "username": "alex_prompter",
+    "verified": false
+   },
+   {
+    "id": "380344724",
+    "name": "AI Guides",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1749218350767460353/YdA0hvkG_normal.jpg",
+    "username": "free_ai_guides",
+    "verified": false
+   },
+   {
+    "id": "1657385954594762758",
+    "name": "Alex Veremeyenko",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/2066549522285649920/ZbW4cujK_normal.jpg",
+    "username": "alex_verem",
+    "verified": false
+   }
+  ]
+ },
+ "meta": {
+  "newest_id": "2114636191697891451",
+  "next_token": "b26v89c19zqg8o3juzlwu1v8acmnu7rldxlrxv4gizzp9",
+  "oldest_id": "2113990724282724742",
+  "result_count": 7
+ }
+}
