@@ -1,0 +1,7 @@
+{
+  "alwaysUpdateLinks": false,
+  "newLinkFormat": "absolute",
+  "useMarkdownLinks": false,
+  "showFrontmatter": true,
+  "userIgnoreFilters": [".skills/", "state/api_snapshots/"]
+}
