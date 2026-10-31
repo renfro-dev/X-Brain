@@ -20,3 +20,12 @@ Append-only. Newest entries at the bottom. Format: `## YYYY-MM-DD — <action>`.
 - Removed their `raw/` notes and stripped their data from `state/api_snapshots/2026-10-26/` (non-kept posts, includes and thread files removed).
 - Rebuilt the wiki from the 4 kept sources only: 26 pages — 8 concepts, 7 people, 4 tools, 4 repos, 3 summaries. Pages without a kept source were deleted; remaining pages trimmed to what the kept sources support.
 - Rewrote git history (fresh orphan branch replacing `main`, reflog expired, gc pruned) so pruned content is in no commit.
+
+## 2026-10-31 — sync (+6 bookmarks)
+
+- Read bookmarks for @renfrodotdev via `get_users_bookmarks` (max_results 10, read-only). Page 1 had 6 new ids and 4 already captured. Page 2 held only excluded ids, so paging stopped there. No excluded ids were captured.
+- New raw notes: @m4lkxx (article), @gregisenberg (quote), @hanakoxbt (quote, with a quoted X Article), @guilleflorvs, @Dhruvkumar16797 and @Grow_withAI (posts). API JSON saved in `state/api_snapshots/2026-10-31/`.
+- New wiki pages: concepts `agent-loops-and-graphs` and `ai-native-services`; people `m4lkxx`, `gregisenberg`, `hanakoxbt`, `guilleflorvs`, `dhruvkumar16797`, `grow-withai` and `andrew-ng`; summary `digest-ai-services-business`.
+- Extended: `agent-harness-engineering`, `multi-agent-orchestration`, `verification-and-linting`, `andrej-karpathy`, `claude-opus-5-5`, `digest-agents-and-harnesses`, `vault-digest`.
+- Flagged as unverified: @hanakoxbt's "Karpathy prompt" attribution, the @Dhruvkumar16797 "Andrew Ng course" attribution, and @Grow_withAI as a near-duplicate of the @hayatomaruu relay.
+- Updated `index.md`, `state/sync_state.json`, `bookmarks.base` (new "Agents: loops & graphs" view) and `maps/concept-map.canvas` (2 new concept nodes).

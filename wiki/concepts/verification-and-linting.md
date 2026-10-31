@@ -12,9 +12,11 @@ sources:
   - "[[raw/2026-09-28-rvaniaaaa-2104602707675718102]]"
   - "[[raw/2026-10-25-danikkk_wqs-2114344135415021632]]"
   - "[[raw/2026-10-23-hayatomaruu-2113719510985269442]]"
-source_count: 3
+  - "[[raw/2026-10-25-m4lkxx-2114338456750997922]]"
+  - "[[raw/2026-10-30-hanakoxbt-2116267647100707095]]"
+source_count: 5
 created: 2026-10-26
-updated: 2026-10-26
+updated: 2026-10-31
 ---
 # Verification, Linting & Evidence
 
@@ -26,8 +28,14 @@ LLM-maintained artifacts need checks the model can't talk its way past.
 
 This vault's lint rules (in `CLAUDE.md`) borrow from these. Related: [[wiki/concepts/llm-knowledge-bases|LLM knowledge bases]], [[wiki/concepts/agent-harness-engineering|Agent harness engineering]].
 
+## Added 2026-10-31
+- [[raw/2026-10-25-m4lkxx-2114338456750997922|@m4lkxx]]: "A check is only as strong as the weakest thing it accepts as proof". Watch the check fail once before the fix, and "Writing the check is writing the spec."
+- [[raw/2026-10-30-hanakoxbt-2116267647100707095|@hanakoxbt]]: write the condition first so a program could evaluate it, and don't treat a second model's review as the check ("Two optimists agreeing"). "Absence of an error is not evidence of correctness."
+
 ## Sources
 
 - [[raw/2026-09-28-rvaniaaaa-2104602707675718102]]
 - [[raw/2026-10-25-danikkk_wqs-2114344135415021632]]
 - [[raw/2026-10-23-hayatomaruu-2113719510985269442]]
+- [[raw/2026-10-25-m4lkxx-2114338456750997922]]
+- [[raw/2026-10-30-hanakoxbt-2116267647100707095]]

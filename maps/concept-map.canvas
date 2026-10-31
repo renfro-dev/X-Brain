@@ -117,7 +117,7 @@
    "y": -260,
    "width": 420,
    "height": 140,
-   "text": "# x-brain concept map\n4 X bookmarks → 8 concepts\nOpen [[index]] for the full catalog."
+   "text": "# x-brain concept map\n4 X bookmarks \u2192 8 concepts\nOpen [[index]] for the full catalog."
   },
   {
    "id": "8fadc1a606cb0fb3",
@@ -127,6 +127,26 @@
    "y": -260,
    "width": 300,
    "height": 140
+  },
+  {
+   "id": "277cd33415b57b28",
+   "type": "file",
+   "file": "wiki/concepts/agent-loops-and-graphs.md",
+   "x": 0,
+   "y": 1090,
+   "width": 400,
+   "height": 120,
+   "color": "4"
+  },
+  {
+   "id": "955f34300a53f8c2",
+   "type": "file",
+   "file": "wiki/concepts/ai-native-services.md",
+   "x": 440,
+   "y": 1090,
+   "width": 400,
+   "height": 120,
+   "color": "4"
   }
  ],
  "edges": [
@@ -182,13 +202,31 @@
    "id": "6c307511b2b9437a",
    "fromNode": "17fc695a07a0ca6e",
    "toNode": "bd9c66b3ad3c2d6d",
-   "label": "steps 6–7"
+   "label": "steps 6\u20137"
   },
   {
    "id": "47229389571aa876",
    "fromNode": "3b8faa1837f8a88b",
    "toNode": "bdd640fb06671ad1",
    "label": "nightly compile"
+  },
+  {
+   "id": "bff5eae9d529613a",
+   "fromNode": "1a3d1fa7bc8960a9",
+   "toNode": "277cd33415b57b28",
+   "label": "next layer"
+  },
+  {
+   "id": "7884ad2207c98a5d",
+   "fromNode": "3eb13b9046685257",
+   "toNode": "277cd33415b57b28",
+   "label": "check that can fail"
+  },
+  {
+   "id": "9efd7c22fc77989c",
+   "fromNode": "bd9c66b3ad3c2d6d",
+   "toNode": "277cd33415b57b28",
+   "label": "graphs of workers"
   }
  ]
 }

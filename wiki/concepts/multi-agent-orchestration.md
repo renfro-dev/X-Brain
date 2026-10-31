@@ -12,9 +12,11 @@ sources:
   - "[[raw/2026-10-23-hayatomaruu-2113719510985269442]]"
   - "[[raw/2026-10-24-mardehaym-2113991017506414930]]"
   - "[[raw/2026-10-25-danikkk_wqs-2114344135415021632]]"
-source_count: 3
+  - "[[raw/2026-10-30-hanakoxbt-2116267647100707095]]"
+  - "[[raw/2026-10-27-Dhruvkumar16797-2114897217425449463]]"
+source_count: 5
 created: 2026-10-26
-updated: 2026-10-26
+updated: 2026-10-31
 ---
 # Multi-Agent Orchestration
 
@@ -26,8 +28,14 @@ Coordinating several agents. Thin in the kept sources — three angles:
 
 Related: [[wiki/concepts/agent-harness-engineering|Agent harness engineering]], [[wiki/concepts/agentic-org-maturity|Agentic org maturity]].
 
+## Added 2026-10-31
+- [[raw/2026-10-30-hanakoxbt-2116267647100707095|@hanakoxbt]] (Hanako's "Loops and Graphs" article): give workers isolated contexts, because shared windows make four auditors converge ("four times for one opinion with three echoes"). Use code nodes, not models, for merge/rank/dedupe. See [[wiki/concepts/agent-loops-and-graphs|Agent loops & graphs]].
+- [[raw/2026-10-27-Dhruvkumar16797-2114897217425449463|@Dhruvkumar16797]]: relayed Andrew Ng "Graph Engineering" course, from a single agent to full automation.
+
 ## Sources
 
 - [[raw/2026-10-23-hayatomaruu-2113719510985269442]]
 - [[raw/2026-10-24-mardehaym-2113991017506414930]]
 - [[raw/2026-10-25-danikkk_wqs-2114344135415021632]]
+- [[raw/2026-10-30-hanakoxbt-2116267647100707095]]
+- [[raw/2026-10-27-Dhruvkumar16797-2114897217425449463]]

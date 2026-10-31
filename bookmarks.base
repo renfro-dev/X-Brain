@@ -75,3 +75,10 @@ views:
       - file.name
       - author_handle
       - article_title
+  - type: cards
+    name: "Agents: loops & graphs"
+    filters: 'file.hasTag("topic/agent-graphs")'
+    order:
+      - file.name
+      - author_handle
+      - article_title

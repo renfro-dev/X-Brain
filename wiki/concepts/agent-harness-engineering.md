@@ -11,9 +11,11 @@ tags:
 sources:
   - "[[raw/2026-10-23-hayatomaruu-2113719510985269442]]"
   - "[[raw/2026-10-24-mardehaym-2113991017506414930]]"
-source_count: 2
+  - "[[raw/2026-10-25-m4lkxx-2114338456750997922]]"
+  - "[[raw/2026-10-27-Grow_withAI-2115062331227226349]]"
+source_count: 4
 created: 2026-10-26
-updated: 2026-10-26
+updated: 2026-10-31
 ---
 # Agent Harness Engineering
 
@@ -35,7 +37,13 @@ The "harness" is everything around the model — instructions, tools, permission
 
 Related: [[wiki/concepts/multi-agent-orchestration|Multi-agent orchestration]], [[wiki/concepts/mcp-and-context-management|MCP & context management]], [[wiki/entities/tools/claude-opus-5-5|Claude Opus 5.5]].
 
+## Added 2026-10-31
+- [[raw/2026-10-25-m4lkxx-2114338456750997922|@m4lkxx]]: "Remove the model from your architecture diagram. Everything still on the page is the harness." He prefers "Ten narrow, documented tools… over forty overlapping ones" and says memory and walls live outside the model. Next layer: [[wiki/concepts/agent-loops-and-graphs|Agent loops & graphs]].
+- [[raw/2026-10-27-Grow_withAI-2115062331227226349|@Grow_withAI]] reposts the same "Anthropic engineer… harnesses… dreaming" workshop copy as [[raw/2026-10-23-hayatomaruu-2113719510985269442|@hayatomaruu]], nearly verbatim (Steps 1–5 are the same). This is a second relay, not independent confirmation.
+
 ## Sources
 
 - [[raw/2026-10-23-hayatomaruu-2113719510985269442]]
 - [[raw/2026-10-24-mardehaym-2113991017506414930]]
+- [[raw/2026-10-25-m4lkxx-2114338456750997922]]
+- [[raw/2026-10-27-Grow_withAI-2115062331227226349]]
