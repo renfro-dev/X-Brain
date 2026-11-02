@@ -14,9 +14,11 @@ sources:
   - "[[raw/2026-10-25-danikkk_wqs-2114344135415021632]]"
   - "[[raw/2026-10-30-hanakoxbt-2116267647100707095]]"
   - "[[raw/2026-10-27-Dhruvkumar16797-2114897217425449463]]"
-source_count: 5
+  - "[[raw/2026-11-01-damkina7-2116870392300073128]]"
+  - "[[raw/2026-11-01-suraj_sharma14-2116787322716885503]]"
+source_count: 7
 created: 2026-10-26
-updated: 2026-10-31
+updated: 2026-11-02
 ---
 # Multi-Agent Orchestration
 
@@ -32,6 +34,10 @@ Related: [[wiki/concepts/agent-harness-engineering|Agent harness engineering]], 
 - [[raw/2026-10-30-hanakoxbt-2116267647100707095|@hanakoxbt]] (Hanako's "Loops and Graphs" article): give workers isolated contexts, because shared windows make four auditors converge ("four times for one opinion with three echoes"). Use code nodes, not models, for merge/rank/dedupe. See [[wiki/concepts/agent-loops-and-graphs|Agent loops & graphs]].
 - [[raw/2026-10-27-Dhruvkumar16797-2114897217425449463|@Dhruvkumar16797]]: relayed Andrew Ng "Graph Engineering" course, from a single agent to full automation.
 
+## Added 2026-11-02
+- [[raw/2026-11-01-damkina7-2116870392300073128|@damkina7]]: "Opus thinks. Sonnet builds. The cheap models grind." Opus plans, Sonnet writes code, Haiku scouts, and a critic agent reviews the diff. See [[wiki/concepts/model-routing|Model routing]].
+- [[raw/2026-11-01-suraj_sharma14-2116787322716885503|@suraj_sharma14]]'s interview list asks when to pick single versus multi-agent and how an orchestrator splits work between sub-agents. See [[wiki/concepts/agent-system-design-questions|Agent system design questions]].
+
 ## Sources
 
 - [[raw/2026-10-23-hayatomaruu-2113719510985269442]]
@@ -39,3 +45,5 @@ Related: [[wiki/concepts/agent-harness-engineering|Agent harness engineering]], 
 - [[raw/2026-10-25-danikkk_wqs-2114344135415021632]]
 - [[raw/2026-10-30-hanakoxbt-2116267647100707095]]
 - [[raw/2026-10-27-Dhruvkumar16797-2114897217425449463]]
+- [[raw/2026-11-01-damkina7-2116870392300073128]]
+- [[raw/2026-11-01-suraj_sharma14-2116787322716885503]]

@@ -11,9 +11,11 @@ sources:
   - "[[raw/2026-10-23-hayatomaruu-2113719510985269442]]"
   - "[[raw/2026-10-25-danikkk_wqs-2114344135415021632]]"
   - "[[raw/2026-09-28-rvaniaaaa-2104602707675718102]]"
-source_count: 3
+  - "[[raw/2026-11-01-mojeskoqq-2116963310277202003]]"
+  - "[[raw/2026-11-01-damkina7-2116870392300073128]]"
+source_count: 5
 created: 2026-10-26
-updated: 2026-10-26
+updated: 2026-11-02
 ---
 # Claude Code
 
@@ -21,8 +23,13 @@ Anthropic's agentic coding CLI, the main tool in the kept sources. Features refe
 
 Concepts: [[wiki/concepts/claude-code-ecosystem|Claude Code ecosystem]], [[wiki/concepts/agent-harness-engineering|Agent harness engineering]].
 
+## Added 2026-11-02
+- Memory layers (`CLAUDE.md`, `.claude/rules/`, skills, auto memory) from [[raw/2026-11-01-mojeskoqq-2116963310277202003|@mojeskoqq]] and a per-model settings and subagent setup from [[raw/2026-11-01-damkina7-2116870392300073128|@damkina7]]. See [[wiki/concepts/claude-code-ecosystem|Claude Code ecosystem]].
+
 ## Sources
 
 - [[raw/2026-10-23-hayatomaruu-2113719510985269442]]
 - [[raw/2026-10-25-danikkk_wqs-2114344135415021632]]
 - [[raw/2026-09-28-rvaniaaaa-2104602707675718102]]
+- [[raw/2026-11-01-mojeskoqq-2116963310277202003]]
+- [[raw/2026-11-01-damkina7-2116870392300073128]]

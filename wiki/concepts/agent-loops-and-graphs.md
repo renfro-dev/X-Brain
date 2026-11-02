@@ -14,9 +14,10 @@ sources:
   - "[[raw/2026-10-25-m4lkxx-2114338456750997922]]"
   - "[[raw/2026-10-30-hanakoxbt-2116267647100707095]]"
   - "[[raw/2026-10-27-Dhruvkumar16797-2114897217425449463]]"
-source_count: 3
+  - "[[raw/2026-11-01-hayatomaruu-2117003050090938646]]"
+source_count: 4
 created: 2026-10-31
-updated: 2026-10-31
+updated: 2026-11-02
 ---
 # Agent Loops & Graphs
 
@@ -30,8 +31,12 @@ A recurring Oct 2026 framing: **Prompts/Chat → Agents → Harness → Loops �
 ## Synthesis
 All three agree that reliability comes from structure, not a better model: a check that can fail (see [[wiki/concepts/verification-and-linting|Verification & linting]]), then a graph that parallelizes independent work ([[wiki/concepts/multi-agent-orchestration|Multi-agent orchestration]]).
 
+## Added 2026-11-02
+- [[wiki/entities/people/beamnxw|@beamnxw]]'s article (quoted in [[raw/2026-11-01-hayatomaruu-2117003050090938646|@hayatomaruu]]) gives a clean split: harness = the machinery around the model, loop = the repeated work-and-feedback cycle, graph = explicit workflow topology (nodes, branches, joins, controlled cycles); "environment → feedback → flow". A well-built loop names its trigger, goal, state, action policy, evidence, feedback and stopping rule, and the article says "Do not loop on confidence. Loop on evidence." Graphs are worth it when there are branches, parallel work, approvals or several specialist agents; the graph runs inside the harness and the loops live inside the graph.
+
 ## Sources
 
 - [[raw/2026-10-25-m4lkxx-2114338456750997922]]
 - [[raw/2026-10-30-hanakoxbt-2116267647100707095]]
 - [[raw/2026-10-27-Dhruvkumar16797-2114897217425449463]]
+- [[raw/2026-11-01-hayatomaruu-2117003050090938646]]

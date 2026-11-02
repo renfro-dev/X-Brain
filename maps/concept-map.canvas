@@ -36,7 +36,7 @@
    "x": 900,
    "y": 0,
    "width": 840,
-   "height": 340,
+   "height": 450,
    "label": "Agents & Claude Code",
    "color": "4"
   },
@@ -84,7 +84,7 @@
    "id": "0822e8f36c031199",
    "type": "group",
    "x": 450,
-   "y": 800,
+   "y": 910,
    "width": 840,
    "height": 210,
    "label": "Agentic orgs & ops",
@@ -105,7 +105,7 @@
    "type": "file",
    "file": "wiki/concepts/always-on-agent-infrastructure.md",
    "x": 890,
-   "y": 860,
+   "y": 970,
    "width": 360,
    "height": 90,
    "color": "2"
@@ -117,7 +117,7 @@
    "y": -260,
    "width": 420,
    "height": 140,
-   "text": "# x-brain concept map\n4 X bookmarks \u2192 8 concepts\nOpen [[index]] for the full catalog."
+   "text": "# x-brain concept map\n4 X bookmarks → 8 concepts\nOpen [[index]] for the full catalog."
   },
   {
    "id": "8fadc1a606cb0fb3",
@@ -146,6 +146,26 @@
    "y": 1090,
    "width": 400,
    "height": 120,
+   "color": "4"
+  },
+  {
+   "id": "5752ad4cf2814ba2",
+   "type": "file",
+   "file": "wiki/concepts/model-routing.md",
+   "x": 940,
+   "y": 320,
+   "width": 360,
+   "height": 90,
+   "color": "4"
+  },
+  {
+   "id": "a2ea9ed90da24b51",
+   "type": "file",
+   "file": "wiki/concepts/agent-system-design-questions.md",
+   "x": 1340,
+   "y": 320,
+   "width": 360,
+   "height": 90,
    "color": "4"
   }
  ],
@@ -202,7 +222,7 @@
    "id": "6c307511b2b9437a",
    "fromNode": "17fc695a07a0ca6e",
    "toNode": "bd9c66b3ad3c2d6d",
-   "label": "steps 6\u20137"
+   "label": "steps 6–7"
   },
   {
    "id": "47229389571aa876",
@@ -227,6 +247,18 @@
    "fromNode": "bd9c66b3ad3c2d6d",
    "toNode": "277cd33415b57b28",
    "label": "graphs of workers"
+  },
+  {
+   "id": "8ee943f95de04b3e",
+   "fromNode": "5752ad4cf2814ba2",
+   "toNode": "bd9c66b3ad3c2d6d",
+   "label": "who does what"
+  },
+  {
+   "id": "219ba6a076314b35",
+   "fromNode": "a2ea9ed90da24b51",
+   "toNode": "1a3d1fa7bc8960a9",
+   "label": "checklist"
   }
  ]
 }

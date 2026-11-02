@@ -13,9 +13,12 @@ sources:
   - "[[raw/2026-10-24-mardehaym-2113991017506414930]]"
   - "[[raw/2026-10-25-m4lkxx-2114338456750997922]]"
   - "[[raw/2026-10-27-Grow_withAI-2115062331227226349]]"
-source_count: 4
+  - "[[raw/2026-11-01-damkina7-2116870392300073128]]"
+  - "[[raw/2026-11-01-hayatomaruu-2117003050090938646]]"
+  - "[[raw/2026-10-31-LunarResearcher-2116522516915028254]]"
+source_count: 7
 created: 2026-10-26
-updated: 2026-10-31
+updated: 2026-11-02
 ---
 # Agent Harness Engineering
 
@@ -41,9 +44,20 @@ Related: [[wiki/concepts/multi-agent-orchestration|Multi-agent orchestration]], 
 - [[raw/2026-10-25-m4lkxx-2114338456750997922|@m4lkxx]]: "Remove the model from your architecture diagram. Everything still on the page is the harness." He prefers "Ten narrow, documented tools… over forty overlapping ones" and says memory and walls live outside the model. Next layer: [[wiki/concepts/agent-loops-and-graphs|Agent loops & graphs]].
 - [[raw/2026-10-27-Grow_withAI-2115062331227226349|@Grow_withAI]] reposts the same "Anthropic engineer… harnesses… dreaming" workshop copy as [[raw/2026-10-23-hayatomaruu-2113719510985269442|@hayatomaruu]], nearly verbatim (Steps 1–5 are the same). This is a second relay, not independent confirmation.
 
+## Added 2026-11-02
+- [[raw/2026-10-31-LunarResearcher-2116522516915028254|@LunarResearcher]] relays an unnamed "Anthropic engineer" talk ("You're not supposed to prompt Opus 5.5. You're supposed to build a system that prompts itself"; "90% of our engineers have already built these systems"). Unverified, promotional framing. The quoted article, "Harness Engineering: The Complete Guide to Building AI Agents That Don't Fall Apart", argues many agent failures "are environment failures" and that "A prompt changes one attempt. A harness changes every attempt." It starts each task with a **task contract** (outcome, scope, what must not change, evidence of completion, which actions need approval) and says to give the agent "a map, not a manual".
+- [[raw/2026-11-01-damkina7-2116870392300073128|@damkina7]] quotes his own article "The Harness Is the Machine: The Claude Opus 5.5 Engineering Manifest" ("The model is only the engine / The harness is the machine"). It lists seven harness jobs (define/contract, select/context, act/tools in isolated git worktrees, remember/state as on-disk receipts, verify/sensors, and more) and claims the same model goes from 18% to 89% completion on a multi-file refactor inside a harness. Those numbers are the author's own claim with no cited benchmark.
+- [[raw/2026-11-01-hayatomaruu-2117003050090938646|@hayatomaruu]] (second bookmark from this author) attributes to "Anthropic engineer Andrej Karpathy" the line "Opus 5.5 is just the brain. The /harness is what makes it useful" and pitches smaller models plus tools, graphs and feedback loops. It quotes [[wiki/entities/people/beamnxw|@beamnxw]]'s "Agent Harness Engineering vs. Loop Engineering vs. Graph Engineering", which cites LangChain ("the agent is the model plus the harness") and OpenAI's Agents SDK.
+
+> [!warning] Contradiction
+> [[raw/2026-11-01-hayatomaruu-2117003050090938646|@hayatomaruu]] calls Karpathy an "Anthropic engineer", while his own text and [[wiki/entities/people/andrej-karpathy|Karpathy's page]] describe him as ex-OpenAI and ex-Tesla. Treat the quote and the "16-minute breakdown" as unverified.
+
 ## Sources
 
 - [[raw/2026-10-23-hayatomaruu-2113719510985269442]]
 - [[raw/2026-10-24-mardehaym-2113991017506414930]]
 - [[raw/2026-10-25-m4lkxx-2114338456750997922]]
 - [[raw/2026-10-27-Grow_withAI-2115062331227226349]]
+- [[raw/2026-11-01-damkina7-2116870392300073128]]
+- [[raw/2026-11-01-hayatomaruu-2117003050090938646]]
+- [[raw/2026-10-31-LunarResearcher-2116522516915028254]]

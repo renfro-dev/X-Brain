@@ -29,3 +29,12 @@ Append-only. Newest entries at the bottom. Format: `## YYYY-MM-DD — <action>`.
 - Extended: `agent-harness-engineering`, `multi-agent-orchestration`, `verification-and-linting`, `andrej-karpathy`, `claude-opus-5-5`, `digest-agents-and-harnesses`, `vault-digest`.
 - Flagged as unverified: @hanakoxbt's "Karpathy prompt" attribution, the @Dhruvkumar16797 "Andrew Ng course" attribution, and @Grow_withAI as a near-duplicate of the @hayatomaruu relay.
 - Updated `index.md`, `state/sync_state.json`, `bookmarks.base` (new "Agents: loops & graphs" view) and `maps/concept-map.canvas` (2 new concept nodes).
+
+## 2026-11-02 — sync (+5 bookmarks)
+
+- Read bookmarks for @renfrodotdev via `get_users_bookmarks` (max_results 10, read-only). Page 1 had 5 new ids followed by already-captured ids, so paging stopped. `get_users_bookmark_folders` still returns no folders. No excluded ids were captured.
+- New raw notes: @mojeskoqq, @damkina7, @hayatomaruu and @LunarResearcher (quotes, each with a full quoted X Article and code blocks) and @suraj_sharma14 (post). Added post_ids: 2116963310277202003, 2116787322716885503, 2116870392300073128, 2117003050090938646, 2116522516915028254. API JSON saved in `state/api_snapshots/2026-11-02/`.
+- New wiki pages: concepts `model-routing` and `agent-system-design-questions`; people `mojeskoqq`, `damkina7`, `lunarresearcher` and `suraj-sharma14`.
+- Extended: `agent-harness-engineering`, `agent-loops-and-graphs`, `llm-knowledge-bases`, `claude-code-ecosystem`, `multi-agent-orchestration`, `verification-and-linting`, `hayatomaruu`, `beamnxw`, `andrej-karpathy`, `claude-code`, `claude-opus-5-5`, `obsidian`, and the three affected digests.
+- Flagged as unverified: the Karpathy quotes in @mojeskoqq and @hayatomaruu (the latter also calls him an "Anthropic engineer", recorded as a contradiction), the "Anthropic engineer" relay in @LunarResearcher, and @damkina7's 18% versus 89% completion figures.
+- Updated `index.md`, `state/sync_state.json` and `maps/concept-map.canvas` (2 new concept nodes).

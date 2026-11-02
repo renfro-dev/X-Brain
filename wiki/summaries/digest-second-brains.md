@@ -8,9 +8,10 @@ tags:
 sources:
   - "[[raw/2026-09-28-rvaniaaaa-2104602707675718102]]"
   - "[[raw/2026-10-25-danikkk_wqs-2114344135415021632]]"
-source_count: 2
+  - "[[raw/2026-11-01-mojeskoqq-2116963310277202003]]"
+source_count: 3
 created: 2026-10-26
-updated: 2026-10-26
+updated: 2026-11-02
 ---
 # Digest — Second brains & LLM wikis
 
@@ -22,7 +23,11 @@ updated: 2026-10-26
 
 Pages: [[wiki/concepts/llm-knowledge-bases|LLM knowledge bases]] · [[wiki/concepts/verification-and-linting|Verification & linting]] · [[wiki/entities/tools/obsidian|Obsidian]] · [[wiki/entities/repos/kepano-obsidian-skills|obsidian-skills]] · [[wiki/entities/repos/agricidaniel-claude-obsidian|claude-obsidian]] · [[wiki/entities/repos/eugeniughelbur-obsidian-second-brain|obsidian-second-brain]] · [[wiki/entities/repos/coleam00-second-brain-starter|second-brain-starter]]
 
+## Added 2026-11-02
+- [[raw/2026-11-01-mojeskoqq-2116963310277202003|@mojeskoqq]]: the four Claude Code memory layers and the rule to load each piece of knowledge only when needed. See [[wiki/concepts/llm-knowledge-bases|LLM knowledge bases]].
+
 ## Sources
 
 - [[raw/2026-09-28-rvaniaaaa-2104602707675718102]]
 - [[raw/2026-10-25-danikkk_wqs-2114344135415021632]]
+- [[raw/2026-11-01-mojeskoqq-2116963310277202003]]

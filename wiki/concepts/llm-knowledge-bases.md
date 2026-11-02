@@ -12,9 +12,10 @@ tags:
 sources:
   - "[[raw/2026-09-28-rvaniaaaa-2104602707675718102]]"
   - "[[raw/2026-10-25-danikkk_wqs-2114344135415021632]]"
-source_count: 2
+  - "[[raw/2026-11-01-mojeskoqq-2116963310277202003]]"
+source_count: 3
 created: 2026-10-26
-updated: 2026-10-26
+updated: 2026-11-02
 ---
 # LLM Knowledge Bases (Second Brain / LLM Wiki)
 
@@ -57,7 +58,12 @@ Using an LLM to **compile** a personal wiki of linked markdown from raw sources,
 
 Related: [[wiki/concepts/claude-code-ecosystem|Claude Code ecosystem]], [[wiki/entities/tools/obsidian|Obsidian]].
 
+## Added 2026-11-02
+- [[raw/2026-11-01-mojeskoqq-2116963310277202003|@mojeskoqq]] repeats the "Karpathy second brain" pitch (point [[wiki/entities/tools/claude-code|Claude Code]] at a folder with `CLAUDE.md`, `/raw` and `/wiki`, drop files in and say "ingest"). The opening Karpathy quote about "every AI conversation they never saved" is not sourced and is likely invented hype; treat it as unverified.
+- His quoted article, "Claude Second Brain 2.0: The Complete Guide", is the more useful part. It says Claude Code memory has **four layers**: `CLAUDE.md` (the map, loads every session, keep it under 200 lines), `.claude/rules/` (rules that load only when matching files are touched, via `paths:`), skills (procedures that load only when invoked), and auto memory (notes Claude writes itself from your corrections). The golden rule: "put each piece of knowledge in the layer that loads only when it's needed." It also disputes two lines from the earlier viral guide: that `CLAUDE.md` sits in the system prompt (it says the docs deliver it as a user message) and that missing info makes the agent report failure instead of hallucinating.
+
 ## Sources
 
 - [[raw/2026-09-28-rvaniaaaa-2104602707675718102]]
 - [[raw/2026-10-25-danikkk_wqs-2114344135415021632]]
+- [[raw/2026-11-01-mojeskoqq-2116963310277202003]]

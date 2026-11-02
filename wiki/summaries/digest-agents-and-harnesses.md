@@ -12,9 +12,13 @@ sources:
   - "[[raw/2026-10-30-hanakoxbt-2116267647100707095]]"
   - "[[raw/2026-10-27-Dhruvkumar16797-2114897217425449463]]"
   - "[[raw/2026-10-27-Grow_withAI-2115062331227226349]]"
-source_count: 6
+  - "[[raw/2026-11-01-damkina7-2116870392300073128]]"
+  - "[[raw/2026-11-01-hayatomaruu-2117003050090938646]]"
+  - "[[raw/2026-10-31-LunarResearcher-2116522516915028254]]"
+  - "[[raw/2026-11-01-suraj_sharma14-2116787322716885503]]"
+source_count: 10
 created: 2026-10-26
-updated: 2026-10-31
+updated: 2026-11-02
 ---
 # Digest — Agent harnesses & agentic orgs
 
@@ -33,6 +37,14 @@ Four new bookmarks describe the ladder above the harness:
 - [[raw/2026-10-27-Grow_withAI-2115062331227226349|@Grow_withAI]]: a near-duplicate relay of the "Anthropic engineer harness" workshop.
 → [[wiki/concepts/agent-loops-and-graphs|Agent loops & graphs]]
 
+## Added 2026-11-02
+Four new agent bookmarks, all on the same message: the system around the model matters more than the model.
+- Harness guides: [[raw/2026-10-31-LunarResearcher-2116522516915028254|@LunarResearcher]] (task contracts, "a map, not a manual") and [[raw/2026-11-01-damkina7-2116870392300073128|@damkina7]] (seven harness jobs, isolated worktrees, exit-code checks). See [[wiki/concepts/agent-harness-engineering|Agent harness engineering]].
+- Harness versus loop versus graph: [[raw/2026-11-01-hayatomaruu-2117003050090938646|@hayatomaruu]] quoting @beamnxw. See [[wiki/concepts/agent-loops-and-graphs|Agent loops & graphs]].
+- Right model per job: [[raw/2026-11-01-damkina7-2116870392300073128|@damkina7]]. See [[wiki/concepts/model-routing|Model routing]].
+- A 25-question design checklist: [[raw/2026-11-01-suraj_sharma14-2116787322716885503|@suraj_sharma14]]. See [[wiki/concepts/agent-system-design-questions|Agent system design questions]].
+Caution: two of these lean on unverified "Anthropic engineer" or Karpathy quotes.
+
 ## Sources
 
 - [[raw/2026-10-23-hayatomaruu-2113719510985269442]]
@@ -41,3 +53,7 @@ Four new bookmarks describe the ladder above the harness:
 - [[raw/2026-10-30-hanakoxbt-2116267647100707095]]
 - [[raw/2026-10-27-Dhruvkumar16797-2114897217425449463]]
 - [[raw/2026-10-27-Grow_withAI-2115062331227226349]]
+- [[raw/2026-11-01-damkina7-2116870392300073128]]
+- [[raw/2026-11-01-hayatomaruu-2117003050090938646]]
+- [[raw/2026-10-31-LunarResearcher-2116522516915028254]]
+- [[raw/2026-11-01-suraj_sharma14-2116787322716885503]]

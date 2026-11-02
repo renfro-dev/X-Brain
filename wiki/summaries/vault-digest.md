@@ -16,9 +16,14 @@ sources:
   - "[[raw/2026-10-30-guilleflorvs-2116109740832936033]]"
   - "[[raw/2026-10-27-Dhruvkumar16797-2114897217425449463]]"
   - "[[raw/2026-10-27-Grow_withAI-2115062331227226349]]"
-source_count: 10
+  - "[[raw/2026-11-01-mojeskoqq-2116963310277202003]]"
+  - "[[raw/2026-11-01-suraj_sharma14-2116787322716885503]]"
+  - "[[raw/2026-11-01-damkina7-2116870392300073128]]"
+  - "[[raw/2026-11-01-hayatomaruu-2117003050090938646]]"
+  - "[[raw/2026-10-31-LunarResearcher-2116522516915028254]]"
+source_count: 15
 created: 2026-10-26
-updated: 2026-10-31
+updated: 2026-11-02
 ---
 # Vault digest
 
@@ -36,6 +41,13 @@ Capture notes: types — 3 quote, 1 thread; 3 quoted X Articles captured in full
 4. **AI-native services / SaaS** (2): [[raw/2026-10-30-guilleflorvs-2116109740832936033|@guilleflorvs]], [[raw/2026-10-30-gregisenberg-2116212861466755509|@gregisenberg]]. See [[wiki/summaries/digest-ai-services-business|AI services digest]].
 Capture notes: 1 article ([[raw/2026-10-25-m4lkxx-2114338456750997922|@m4lkxx]], with code blocks), 2 quotes (one with a quoted X Article), 3 posts. Two videos are captured only as media keys, and their transcripts are not in the vault.
 
+## Added 2026-11-02
+Sync 2026-11-02 (+5, now 15 bookmarks):
+5. **Harness engineering, round two** (3): [[raw/2026-10-31-LunarResearcher-2116522516915028254|@LunarResearcher]], [[raw/2026-11-01-damkina7-2116870392300073128|@damkina7]], [[raw/2026-11-01-hayatomaruu-2117003050090938646|@hayatomaruu]], plus a new [[wiki/concepts/model-routing|Model routing]] page.
+6. **Second brain memory layers** (1): [[raw/2026-11-01-mojeskoqq-2116963310277202003|@mojeskoqq]].
+7. **Agent design interview checklist** (1): [[raw/2026-11-01-suraj_sharma14-2116787322716885503|@suraj_sharma14]], new [[wiki/concepts/agent-system-design-questions|page]].
+Capture notes: 4 quotes, each with a full quoted X Article and code blocks, and 1 post. Four videos are captured only as media links; their transcripts are not in the vault.
+
 ## Sources
 
 - [[raw/2026-10-25-danikkk_wqs-2114344135415021632]]
@@ -48,3 +60,8 @@ Capture notes: 1 article ([[raw/2026-10-25-m4lkxx-2114338456750997922|@m4lkxx]],
 - [[raw/2026-10-30-guilleflorvs-2116109740832936033]]
 - [[raw/2026-10-27-Dhruvkumar16797-2114897217425449463]]
 - [[raw/2026-10-27-Grow_withAI-2115062331227226349]]
+- [[raw/2026-11-01-mojeskoqq-2116963310277202003]]
+- [[raw/2026-11-01-suraj_sharma14-2116787322716885503]]
+- [[raw/2026-11-01-damkina7-2116870392300073128]]
+- [[raw/2026-11-01-hayatomaruu-2117003050090938646]]
+- [[raw/2026-10-31-LunarResearcher-2116522516915028254]]

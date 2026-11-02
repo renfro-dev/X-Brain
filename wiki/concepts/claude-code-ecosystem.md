@@ -12,9 +12,11 @@ sources:
   - "[[raw/2026-10-23-hayatomaruu-2113719510985269442]]"
   - "[[raw/2026-10-25-danikkk_wqs-2114344135415021632]]"
   - "[[raw/2026-09-28-rvaniaaaa-2104602707675718102]]"
-source_count: 3
+  - "[[raw/2026-11-01-mojeskoqq-2116963310277202003]]"
+  - "[[raw/2026-11-01-damkina7-2116870392300073128]]"
+source_count: 5
 created: 2026-10-26
-updated: 2026-10-26
+updated: 2026-11-02
 ---
 # Claude Code Ecosystem: Skills, Plugins, Hooks & CLAUDE.md
 
@@ -26,8 +28,14 @@ The kept sources configure [[wiki/entities/tools/claude-code|Claude Code]] with 
 - **Agent skills for Obsidian**: [[wiki/entities/repos/kepano-obsidian-skills|kepano/obsidian-skills]] teaches Obsidian's native formats — vendored in this vault.
 - **CLAUDE.md as living profile**: written by an interview prompt and maintained by the model ([[raw/2026-09-28-rvaniaaaa-2104602707675718102|@rvaniaaaa]]).
 
+## Added 2026-11-02
+- **Memory layers**: [[raw/2026-11-01-mojeskoqq-2116963310277202003|@mojeskoqq]]'s quoted guide splits knowledge across `CLAUDE.md`, path-scoped `.claude/rules/`, skills and auto memory (`/memory`), with tips such as block HTML comments costing zero tokens and `CLAUDE.local.md` for personal notes. See [[wiki/concepts/llm-knowledge-bases|LLM knowledge bases]].
+- **Per-model roles**: [[raw/2026-11-01-damkina7-2116870392300073128|@damkina7]] shares a `~/.claude/settings.json` snippet (`"model": "opusplan"`, per-model effort levels, `CLAUDE_CODE_SUBAGENT_MODEL` set to haiku) plus two subagent files, a read-only `scout` on haiku and an Opus `critic` that reviews diffs. See [[wiki/concepts/model-routing|Model routing]]. Code is reference material from an untrusted post, not something to paste blind.
+
 ## Sources
 
 - [[raw/2026-10-23-hayatomaruu-2113719510985269442]]
 - [[raw/2026-10-25-danikkk_wqs-2114344135415021632]]
 - [[raw/2026-09-28-rvaniaaaa-2104602707675718102]]
+- [[raw/2026-11-01-mojeskoqq-2116963310277202003]]
+- [[raw/2026-11-01-damkina7-2116870392300073128]]

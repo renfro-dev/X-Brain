@@ -1,0 +1,795 @@
+{
+ "data": [
+  {
+   "attachments": {
+    "media_keys": [
+     "13_2116959813636874240"
+    ]
+   },
+   "author_id": "2058253770492956672",
+   "conversation_id": "2116963310277202003",
+   "created_at": "2026-11-01T18:39:19.000Z",
+   "edit_history_post_ids": [
+    "2116963310277202003"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "display_url": "pic.x.com/IgOb1tG9rz",
+      "end": 298,
+      "expanded_url": "https://x.com/mojeskoqq/status/2116963310277202003/video/1",
+      "media_key": "13_2116959813636874240",
+      "start": 275,
+      "url": "https://t.co/IgOb1tG9rz"
+     },
+     {
+      "display_url": "x.com/mojeskoqq/stat…",
+      "end": 322,
+      "expanded_url": "https://twitter.com/mojeskoqq/status/2116176596466032817",
+      "start": 299,
+      "url": "https://t.co/E9LI9YCmMX"
+     }
+    ]
+   },
+   "id": "2116963310277202003",
+   "lang": "en",
+   "note_tweet": {
+    "text": "this is f*cking insane. andrej karpathy: \"the biggest regret of every engineer in my field right now is every AI conversation they never saved, and in 10 years the ones who started saving in 2024 will be running circles around the rest of us\"\n\nandrej karpathy, co-founder of openai, pulled 16M views on one idea: stop using AI to write code, use it to build a second brain that remembers every article, pdf, transcript and conversation you ever fed it\n\nyou point claude code at a folder, drop anything into it, and claude reads it, cross-links it with everything already there, and writes it into a living wiki. your knowledge finally compounds instead of leaking out of your head every friday\n\nthe stack:\n\n→ brew install obsidian, mkdir ~/vault, cd ~/vault\n→ run claude in that folder and type \"init a knowledge vault with CLAUDE.md as the rules, /raw for sources, /wiki for your pages\"\n→ drop any file into /raw (youtube transcript, meeting notes, 400-page pdf, screenshot of a tweet) and type \"ingest\"\n→ claude writes a wiki page, links it to 5 existing ones automatically, updates CLAUDE.md with any new pattern it noticed about how you think\n→ never open a blank claude chat again. every question goes through the vault, every answer cites your own sources with dates and links\n\n5 minutes to set up. compounding knowledge from that evening forward\n\nthe ugly part most will scroll past: in 10 years the engineers who started this in 2024 will remember every book, every podcast, every meeting with receipts. you will remember none of them. karpathy already picked which side he is on and you are still not on his\n\nfull step-by-step is in the article below\n\nbookmark this before you waste another monday"
+   },
+   "public_metrics": {
+    "bookmark_count": 7528,
+    "impression_count": 311030,
+    "like_count": 2915,
+    "quote_count": 20,
+    "reply_count": 96,
+    "repost_count": 246
+   },
+   "referenced_tweets": [
+    {
+     "id": "2116176596466032817",
+     "type": "quoted"
+    }
+   ],
+   "text": "this is f*cking insane. andrej karpathy: \"the biggest regret of every engineer in my field right now is every AI conversation they never saved, and in 10 years the ones who started saving in 2024 will be running circles around the rest of us\"\n\nandrej karpathy, co-founder of https://t.co/IgOb1tG9rz https://t.co/E9LI9YCmMX",
+   "url": "https://x.com/mojeskoqq/status/2116963310277202003"
+  },
+  {
+   "author_id": "1042797252765528064",
+   "conversation_id": "2116787322716885503",
+   "created_at": "2026-11-01T07:00:00.000Z",
+   "edit_history_post_ids": [
+    "2116787322716885503"
+   ],
+   "id": "2116787322716885503",
+   "lang": "en",
+   "note_tweet": {
+    "text": "Got an AI engineer interview coming up?\n\nThese 25 questions come up again and again. Prep them and you'll walk in ready:\n\n• What's the difference between a chatbot and an agent?\n• How does an agent decide which tool to use?\n• Explain the reasoning loop: think, act, observe, repeat\n• When would you use RAG instead of fine-tuning?\n• How do embeddings and vector databases work together?\n• How do you handle a context window that's too small?\n• Short-term vs long-term memory: how would you design both?\n• What is MCP and why does it matter?\n• Single agent or multi-agent: when do you pick each?\n• How does an orchestrator split work between sub-agents?\n• How do you stop an agent from looping forever?\n• What guardrails would you add before giving it real tools?\n• Where should a human approve actions?\n• How do you evaluate whether an agent actually works?\n• What metrics would you track in production?\n• How do you debug an agent that gave a wrong answer?\n• How do you reduce hallucinations?\n• How do you cut token cost without hurting quality?\n• How do you reduce latency in a multi-step agent?\n• How would you handle a tool call that fails?\n• How do you protect against prompt injection?\n• How would you design an agent that books flights?\n• How would you design a customer support agent?\n• What breaks first when you scale agents to 1M users?\n• Tell me about an agent you built and what failed\n\nMost candidates can explain an LLM.\nVery few can design a system around one.\n\nBookmark this and send it to someone with an interview this month."
+   },
+   "public_metrics": {
+    "bookmark_count": 973,
+    "impression_count": 31404,
+    "like_count": 575,
+    "quote_count": 4,
+    "reply_count": 13,
+    "repost_count": 76
+   },
+   "text": "Got an AI engineer interview coming up?\n\nThese 25 questions come up again and again. Prep them and you'll walk in ready:\n\n• What's the difference between a chatbot and an agent?\n• How does an agent decide which tool to use?\n• Explain the reasoning loop: think, act, observe,",
+   "url": "https://x.com/suraj_sharma14/status/2116787322716885503"
+  },
+  {
+   "attachments": {
+    "media_keys": [
+     "3_2116870186007457792"
+    ]
+   },
+   "author_id": "1243664142223003648",
+   "conversation_id": "2116870392300073128",
+   "created_at": "2026-11-01T12:30:05.000Z",
+   "edit_history_post_ids": [
+    "2116870392300073128"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "display_url": "pic.x.com/EGWWP52j7M",
+      "end": 299,
+      "expanded_url": "https://x.com/damkina7/status/2116870392300073128/photo/1",
+      "media_key": "3_2116870186007457792",
+      "start": 276,
+      "url": "https://t.co/EGWWP52j7M"
+     },
+     {
+      "display_url": "x.com/damkina7/statu…",
+      "end": 323,
+      "expanded_url": "https://twitter.com/damkina7/status/2115794667706957858",
+      "start": 300,
+      "url": "https://t.co/cdSCa3qxXR"
+     }
+    ]
+   },
+   "id": "2116870392300073128",
+   "lang": "en",
+   "note_tweet": {
+    "text": "i still can't comprehend why senior engineers run claude code on default configuration.\n\none settings change and every model gets its own job:\n\n→ opus 5.5 architects every plan and unblocks when stuck\n→ sonnet 5.5 writes the production code\n→ haiku scouts file paths and line numbers with zero overhead\n→ a critic agent tears your diff apart before you merge\n\nOpus thinks. Sonnet builds. The cheap models grind.\n\npaste this into claude code \n\nAdd this to ~/.claude/settings.json. Keep every hook, permission and plugin I already have. Then create the two agent files below and show me the diff.\n\n```json\n{\n  \"model\": \"opusplan\",\n  \"advisorModel\": \"opus\",\n  \"effortLevel\": \"medium\",\n  \"modelSettings\": {\n    \"claude-opus-5-5\": { \"effortLevel\": \"high\" },\n    \"claude-sonnet-5-5\": { \"effortLevel\": \"medium\" }\n  },\n  \"env\": {\n    \"CLAUDE_CODE_SUBAGENT_MODEL\": \"haiku\"\n  }\n}\n```\n\n~/.claude/agents/scout.md\n```\n---\nname: scout\ndescription: finds code fast. returns file paths and line numbers only.\nmodel: haiku\ntools: Read, Grep, Glob\n---\nLocate exactly what was asked. Return file:line. No fixes. No opinions.\n```\n\n~/.claude/agents/critic.md\n```\n---\nname: critic\ndescription: reviews a diff or plan before any task is called done\nmodel: opus\ntools: Read, Grep, Bash\n---\nAssume this is broken. Find how it fails. One line per issue, worst first.\n```"
+   },
+   "public_metrics": {
+    "bookmark_count": 981,
+    "impression_count": 43076,
+    "like_count": 512,
+    "quote_count": 1,
+    "reply_count": 17,
+    "repost_count": 45
+   },
+   "referenced_tweets": [
+    {
+     "id": "2115794667706957858",
+     "type": "quoted"
+    }
+   ],
+   "text": "i still can't comprehend why senior engineers run claude code on default configuration.\n\none settings change and every model gets its own job:\n\n→ opus 5.5 architects every plan and unblocks when stuck\n→ sonnet 5.5 writes the production code\n→ haiku scouts file paths and line https://t.co/EGWWP52j7M https://t.co/cdSCa3qxXR",
+   "url": "https://x.com/damkina7/status/2116870392300073128"
+  },
+  {
+   "attachments": {
+    "media_keys": [
+     "13_2116918922662350848"
+    ]
+   },
+   "author_id": "2034484005526274048",
+   "conversation_id": "2117003050090938646",
+   "created_at": "2026-11-01T21:17:13.000Z",
+   "edit_history_post_ids": [
+    "2117003050090938646"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "display_url": "pic.x.com/VLNNKWz23P",
+      "end": 300,
+      "expanded_url": "https://x.com/hayatomaruu/status/2117003050090938646/video/1",
+      "media_key": "13_2116918922662350848",
+      "start": 277,
+      "url": "https://t.co/VLNNKWz23P"
+     },
+     {
+      "display_url": "x.com/beamnxw/status…",
+      "end": 324,
+      "expanded_url": "https://twitter.com/beamnxw/status/2081022966645535079",
+      "start": 301,
+      "url": "https://t.co/pll0ThhDCG"
+     }
+    ]
+   },
+   "id": "2117003050090938646",
+   "lang": "en",
+   "note_tweet": {
+    "text": "Anthropic engineer Andrej Karpathy (ex-OpenAI, ex-Tesla AI lead):\n\n“Agents aren’t magic. Opus 5.5 is just the brain. The /harness is what makes it useful.\n\nGive a smaller model the right tools, graphs, and feedback loops, and you can turn wasted capacity into a self-improving agent.”\n\nThat’s the idea behind Karpathy’s 16-minute breakdown: stop obsessing over model size and start building the system around the model.\n\nBig model → small model → right tools → closed loop → self-improving agent\n\nThe model can have enormous capacity, but most of it is wasted if you keep feeding it work it doesn’t need.\n\nThe harness changes the equation. It gives the model tools, captures what happens, and loops the results back into the next run.\n\nMost people keep paying for a bigger model. The real edge is building the loop that makes a smaller one useful.\n\nMore valuable than another $2000 AI course.\n\nBookmark the conversation, then read the “Harness, Loops, Graphs” guide below ↓"
+   },
+   "public_metrics": {
+    "bookmark_count": 482,
+    "impression_count": 32368,
+    "like_count": 291,
+    "quote_count": 1,
+    "reply_count": 6,
+    "repost_count": 38
+   },
+   "referenced_tweets": [
+    {
+     "id": "2081022966645535079",
+     "type": "quoted"
+    }
+   ],
+   "text": "Anthropic engineer Andrej Karpathy (ex-OpenAI, ex-Tesla AI lead):\n\n“Agents aren’t magic. Opus 5.5 is just the brain. The /harness is what makes it useful.\n\nGive a smaller model the right tools, graphs, and feedback loops, and you can turn wasted capacity into a self-improving https://t.co/VLNNKWz23P https://t.co/pll0ThhDCG",
+   "url": "https://x.com/hayatomaruu/status/2117003050090938646"
+  },
+  {
+   "attachments": {
+    "media_keys": [
+     "13_2116518594754322432"
+    ]
+   },
+   "author_id": "1734057981975642113",
+   "conversation_id": "2116522516915028254",
+   "created_at": "2026-10-31T13:27:45.000Z",
+   "edit_history_post_ids": [
+    "2116522516915028254"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "display_url": "pic.x.com/5RpaPtjbs3",
+      "end": 303,
+      "expanded_url": "https://x.com/LunarResearcher/status/2116522516915028254/video/1",
+      "media_key": "13_2116518594754322432",
+      "start": 280,
+      "url": "https://t.co/5RpaPtjbs3"
+     },
+     {
+      "display_url": "x.com/LunarResearche…",
+      "end": 327,
+      "expanded_url": "https://twitter.com/LunarResearcher/status/2096570562625655088",
+      "start": 304,
+      "url": "https://t.co/RGGgOZKlUD"
+     }
+    ]
+   },
+   "id": "2116522516915028254",
+   "lang": "en",
+   "note_tweet": {
+    "text": "This is f*cking insane. Anthropic engineer:\n\n\"You're not supposed to prompt Opus 5.5\n\nYou're supposed to build a system that prompts itself. At Anthropic, 90% of our engineers have already built these systems\"\n\nIn 30 minutes, she walks through exactly how Anthropic builds agents that remember, fix their own mistakes and get sharper with every run.\n\nBetter than any $1000-$2000 agent course I've seen.\n\nWatch it, then read the article below ↓"
+   },
+   "public_metrics": {
+    "bookmark_count": 30188,
+    "impression_count": 1576310,
+    "like_count": 8832,
+    "quote_count": 41,
+    "reply_count": 219,
+    "repost_count": 661
+   },
+   "referenced_tweets": [
+    {
+     "id": "2096570562625655088",
+     "type": "quoted"
+    }
+   ],
+   "text": "This is f*cking insane. Anthropic engineer:\n\n\"You're not supposed to prompt Opus 5.5\n\nYou're supposed to build a system that prompts itself. At Anthropic, 90% of our engineers have already built these systems\"\n\nIn 30 minutes, she walks through exactly how Anthropic builds agents https://t.co/5RpaPtjbs3 https://t.co/RGGgOZKlUD",
+   "url": "https://x.com/LunarResearcher/status/2116522516915028254"
+  }
+ ],
+ "includes": {
+  "users": [
+   {
+    "id": "2058253770492956672",
+    "name": "mojesko",
+    "username": "mojeskoqq"
+   },
+   {
+    "id": "1042797252765528064",
+    "name": "Suraj Sharma",
+    "username": "suraj_sharma14"
+   },
+   {
+    "id": "1243664142223003648",
+    "name": "damkin",
+    "username": "damkina7"
+   },
+   {
+    "id": "2034484005526274048",
+    "name": "hayato",
+    "username": "hayatomaruu"
+   },
+   {
+    "id": "1829032796481888256",
+    "name": "beamnxw ./",
+    "username": "beamnxw"
+   },
+   {
+    "id": "1734057981975642113",
+    "name": "Lunar",
+    "username": "LunarResearcher"
+   }
+  ],
+  "posts": [
+   {
+    "article": {
+     "cover_media": "3_2116173024223477760",
+     "entities": {
+      "code": [
+       {
+        "code": "# Second brain: map\n<!-- For humans: last cleaned 2026-10-29. Keep this file under 200 lines. -->\n\n## Where things live\n- notes/: one topic per file, named after the topic\n- people/: one file per person or company\n- projects/: status, last stop, next step\n- decisions.md: every choice I make, with the reason\n\n## How to answer\n- Look up the file before answering. Quote the file name you used.\n- If no file covers it, say so and suggest which file to create.\n\n## Naming\n- lowercase-with-hyphens.md, one topic per file\n\n## Always in focus\n- Current priorities: @projects/now.md",
+        "content": "```\n# Second brain: map\n<!-- For humans: last cleaned 2026-10-29. Keep this file under 200 lines. -->\n\n## Where things live\n- notes/: one topic per file, named after the topic\n- people/: one file per person or company\n- projects/: status, last stop, next step\n- decisions.md: every choice I make, with the reason\n\n## How to answer\n- Look up the file before answering. Quote the file name you used.\n- If no file covers it, say so and suggest which file to create.\n\n## Naming\n- lowercase-with-hyphens.md, one topic per file\n\n## Always in focus\n- Current priorities: @projects/now.md\n```",
+        "language": "none"
+       },
+       {
+        "code": "---\npaths:\n  - \"drafts/**\"\n---\n# Writing voice\n- Short sentences. No filler openers.\n- Every claim needs a source line under it",
+        "content": "```\n---\npaths:\n  - \"drafts/**\"\n---\n# Writing voice\n- Short sentences. No filler openers.\n- Every claim needs a source line under it\n```",
+        "language": "none"
+       },
+       {
+        "code": "---\nname: weekly-review\ndescription: Use when I ask for a weekly review of my second brain.\n---\n1. Read every file in projects/.\n2. List what moved this week, what is stuck, and the next step for each.\n3. Check people/ for anyone with \"Last contact\" older than 30 days.\n4. Append today's decisions to decisions.md with the reason.\n5. Write the review to notes/weekly-review-YYYY-MM-DD.md.",
+        "content": "```\n---\nname: weekly-review\ndescription: Use when I ask for a weekly review of my second brain.\n---\n1. Read every file in projects/.\n2. List what moved this week, what is stuck, and the next step for each.\n3. Check people/ for anyone with \"Last contact\" older than 30 days.\n4. Append today's decisions to decisions.md with the reason.\n5. Write the review to notes/weekly-review-YYYY-MM-DD.md.\n```",
+        "language": "none"
+       },
+       {
+        "code": "Set up a second brain in this folder, following the Claude Code memory docs:\n\n1. Create folders: notes/, people/, projects/, drafts/.\n2. Create CLAUDE.md under 200 lines: where things live, naming rule\n   (lowercase-with-hyphens.md, one topic per file), and \"look up the\n   file before answering, quote the file name, say so if no file covers it\".\n   Add one HTML comment at the top for humans.\n3. Create .claude/rules/people.md with paths: \"people/**\"\n   (sections: Who, How we met, Last contact, Open threads;\n   never store passwords, card or ID numbers).\n4. Create .claude/rules/writing.md with paths: \"drafts/**\"\n   (short sentences, a source line under every claim).\n5. Create .claude/skills/weekly-review/SKILL.md with name and description\n   frontmatter: review projects/, flag people with Last contact older\n   than 30 days, log decisions, save the review to notes/.\n6. Create decisions.md and projects/now.md, and import @projects/now.md\n   from CLAUDE.md.\n7. Create CLAUDE.local.md for my private notes and add it to .gitignore.\n\nShow me the file tree when done. Don't invent content for my notes.",
+        "content": "```\nSet up a second brain in this folder, following the Claude Code memory docs:\n\n1. Create folders: notes/, people/, projects/, drafts/.\n2. Create CLAUDE.md under 200 lines: where things live, naming rule\n   (lowercase-with-hyphens.md, one topic per file), and \"look up the\n   file before answering, quote the file name, say so if no file covers it\".\n   Add one HTML comment at the top for humans.\n3. Create .claude/rules/people.md with paths: \"people/**\"\n   (sections: Who, How we met, Last contact, Open threads;\n   never store passwords, card or ID numbers).\n4. Create .claude/rules/writing.md with paths: \"drafts/**\"\n   (short sentences, a source line under every claim).\n5. Create .claude/skills/weekly-review/SKILL.md with name and description\n   frontmatter: review projects/, flag people with Last contact older\n   than 30 days, log decisions, save the review to notes/.\n6. Create decisions.md and projects/now.md, and import @projects/now.md\n   from CLAUDE.md.\n7. Create CLAUDE.local.md for my private notes and add it to .gitignore.\n\nShow me the file tree when done. Don't invent content for my notes.\n```",
+        "language": "none"
+       },
+       {
+        "code": "---\npaths:\n  - \"people/**\"\n---\n# People cards\n- Sections: Who, How we met, Last contact (date), Open threads\n- Update \"Last contact\" every time you edit a card\n- Never store passwords, card numbers or ID numbers here",
+        "content": "```\n---\npaths:\n  - \"people/**\"\n---\n# People cards\n- Sections: Who, How we met, Last contact (date), Open threads\n- Update \"Last contact\" every time you edit a card\n- Never store passwords, card numbers or ID numbers here\n```",
+        "language": "none"
+       },
+       {
+        "code": "second-brain/\n├── CLAUDE.md            # Layer 1: the map (keep under 200 lines)\n├── CLAUDE.local.md      # your private notes for this folder (gitignore it)\n├── decisions.md         # log of choices and why\n├── notes/               # one topic per file\n├── people/              # one person or company per file\n├── projects/            # status, where you paused, next step\n├── drafts/              # writing in progress\n└── .claude/\n    ├── rules/           # Layer 2: load only when needed\n    │   ├── people.md    # paths: people/**\n    │   └── writing.md   # paths: drafts/**\n    └── skills/          # Layer 3: playbooks\n        └── weekly-review/\n            └── SKILL.md",
+        "content": "```\nsecond-brain/\n├── CLAUDE.md            # Layer 1: the map (keep under 200 lines)\n├── CLAUDE.local.md      # your private notes for this folder (gitignore it)\n├── decisions.md         # log of choices and why\n├── notes/               # one topic per file\n├── people/              # one person or company per file\n├── projects/            # status, where you paused, next step\n├── drafts/              # writing in progress\n└── .claude/\n    ├── rules/           # Layer 2: load only when needed\n    │   ├── people.md    # paths: people/**\n    │   └── writing.md   # paths: drafts/**\n    └── skills/          # Layer 3: playbooks\n        └── weekly-review/\n            └── SKILL.md\n```",
+        "language": "none"
+       }
+      ],
+      "mentions": [
+       {
+        "end": 90,
+        "start": 80,
+        "username": "mojeskoqq"
+       },
+       {
+        "end": 17,
+        "start": 7,
+        "username": "mojeskoqq"
+       }
+      ]
+     },
+     "media_entities": [
+      "3_2116175161917587456",
+      "3_2116175398296076288"
+     ],
+     "plain_text": "Every session you start, Claude forgets you. Here's how to stop losing everything you taught it.\nBe honest. How many times have you explained the same thing to Claude?\nYour folder layout. Your naming rules. \"No, not like that, like THIS.\" You fix it on Monday. On Tuesday you open a new session and it's gone. You fix it again. And again.\nThat isn't a bug. It's how it works: every Claude Code session starts with a fresh context window. Everything you said in chat, every correction, every \"remember this\" you never wrote down, disappears the moment the session ends.\nYou're not building anything. You're re-teaching the same intern every morning, and paying for the tokens every time.\nThe viral \"second brain\" guide tried to fix this. It got one thing right: you don't need Obsidian, Notion or another $20/month app. Plain Markdown files and one map file.\nBut it stopped at layer one. And two of its key lines are wrong.\nClaude Code has four memory layers. Most people use one, stuff it until Claude stops listening, and then decide \"AI memory doesn't work.\"\nIt works. You just set up a quarter of it.\nReading time: 6 minutes. Setup: about 10. After that you never explain the same thing twice.\nBookmark it now. The copy-paste setup prompt is near the end, and you'll want it open when you build.\n \n\nThe Short Answer\nA second brain in Claude Code is four layers, each loading at a different moment:\nCLAUDE.md, the map. You write it. Loads every session. For rules and facts Claude needs every single time.\n.claude/rules/, the reflexes. You write them. Load only when Claude touches matching files. For rules about one folder or one file type.\nSkills, the playbooks. You write them. Load only when invoked or relevant. For multi-step procedures.\nAuto memory, the diary. Claude writes it. Loads every session (first 200 lines / 25KB). For your corrections and preferences, learned automatically.\n \nThe golden rule: put each piece of knowledge in the layer that loads only when it's needed. That's how your brain stays big while Claude's context stays small.\n \n\nWhat You Need\nClaude Code. Some features below need a recent version; the version is noted where it matters.\nA folder. Any folder. Plain .md files.\n10 minutes. You fill the rest in as you go.\nNo installs, no plugins, no database.\n \n\nFirst, the 2 Myths From the Viral Guide\nThat guide has 13 million views. Which means a lot of people built their setup on these two lines, and are now wondering why Claude still ignores them.\n \nMyth 1: \"CLAUDE.md is loaded into the system prompt.\" The docs say: \"CLAUDE.md content is delivered as a user message after the system prompt, not as part of the system prompt itself.\" Claude reads it and tries to follow it, but there's no guarantee of strict compliance, especially for vague or conflicting instructions.\nMyth 2: \"If the info isn't there, the agent reports a failure instead of hallucinating.\" Nothing in the docs promises that. Anthropic is explicit: Claude treats memory files \"as context, not enforced configuration.\" If something must never happen, don't write a polite sentence in CLAUDE.md. Use a PreToolUse hook, which runs as a shell command and applies no matter what Claude decides.\nTranslation: if your \"never do this\" lives only in CLAUDE.md, you're hoping, not protected.\nNow let's build it properly.\n \n\nThe Skeleton\n \nLayer 4 (auto memory) you don't create. Claude does. Open it any time with /memory.\nThe one-topic-per-file discipline from the viral guide still stands: tax-policy.md, not notes.md. ivan-petrov.md, not note-12.md. Lowercase, hyphens.\n \n\nLayer 1: CLAUDE.md, the Map (Under 200 Lines)\nThis is where everyone overdoes it. You get burned once, so you add a rule. Then another. Six months later your CLAUDE.md is a 600-line wall, and Claude follows less of it than when it was 50.\nThat's not paranoia, that's the docs. Their target: under 200 lines per CLAUDE.md. Longer files \"consume more context and reduce adherence.\" In plain words: the bigger your map, the worse Claude follows it.\nSo the map holds only what Claude needs in every session: where things live, naming rules, how to answer.\n \nThree tricks hiding in that example:\nHTML comments cost zero tokens. Block-level <!-- ... --> comments are stripped before CLAUDE.md is injected into context. Leave notes for yourself or your team for free.\nImports organize, they don’t save. The import line in that example pulls projects/now.md into context, and imports can chain up to 4 hops deep. But the docs are clear: imports “don’t reduce its context cost.” Everything you import loads every session. Import only what truly must always be in focus.\nBackticks turn an import off. Wrap the path in backticks and Claude reads it as plain text. Leave it bare after the @ sign and Claude imports the file.\nDon't want to write it from scratch? Run /init and Claude drafts a starter CLAUDE.md. Set CLAUDE_CODE_NEW_INIT=1 first and /init turns interactive: it asks whether to set up CLAUDE.md, skills and hooks, explores with a subagent, and shows you a proposal before writing anything.\nPersonal layer: CLAUDE.local.md sits next to CLAUDE.md, loads the same way, and is meant for you only. Add it to .gitignore. Global layer: ~/.claude/CLAUDE.md applies to every project on your machine.\n \n\nLayer 2: Rules That Load Themselves\nIf all your rules live in CLAUDE.md, every one of them gets shoved into every single session. Your writing rules load when you ask about taxes. Your people rules load when you're fixing a typo. You pay for all of it, every time.\nThis layer ends that.\nPut Markdown files in .claude/rules/. Add a paths: field and the rule loads only when Claude reads, writes or edits a matching file. The rest of the time it costs nothing.\n.claude/rules/people.md:\n \n.claude/rules/writing.md:\n \nAsk about your dentist and the people rules switch on. Ask about your draft and the writing rules switch on. Ask about taxes and neither one loads.\nRules without paths load at launch, like CLAUDE.md. Personal rules in ~/.claude/rules/ apply to every project you open.\n \n\nLayer 3: Skills, the Playbooks\nCLAUDE.md is for facts. Anything that is a procedure (\"every Friday, do these 6 steps\") belongs in a skill. The docs: skills \"only load when you invoke them or when Claude determines they're relevant to your prompt.\"\n.claude/skills/weekly-review/SKILL.md:\n \nNow \"do my weekly review\" runs the whole routine, and the other 6 days of the week those steps take zero context.\n \n\nLayer 4: Auto Memory, the Brain That Writes Itself\nThis is the part the viral guide never mentions, and the one that hurts most to miss.\nThink about every time you corrected Claude and it said \"got it.\" Without auto memory, \"got it\" lasted until the session closed. Every one of those corrections is gone. You taught it, and you lost it.\nClaude Code keeps auto memory: notes Claude writes itself, based on your corrections and preferences. It loads every session (the first 200 lines or 25KB), it's per repository and shared across worktrees, and it's all plain Markdown you can read, edit or delete.\nHow to feed it:\nSay \"remember that I always want sources under every claim\" → Claude saves it to auto memory.\nSay \"add this to CLAUDE.md\" → it goes into your map instead.\nRun /memory → see every memory file, toggle auto memory on or off, open the auto memory folder.\nRule of thumb: you write the map, Claude writes the diary.\nQuick pause. If you just realized half your corrections never got saved, follow @mojeskoqq. I break down Claude Code features like this one, checked against the official docs and explained in plain words.\n \n\nThe One-Prompt Setup\nToo lazy to build it by hand? Open Claude Code in an empty folder and paste this:\n \nThen run /context and check that CLAUDE.md shows up under \"Memory files\".\n \n\nHow Claude Actually Loads All This\nKnowing the load order is what separates a second brain from a junk drawer.\nAt launch: every CLAUDE.md and CLAUDE.local.md from your working folder and every folder above it, ordered from the top of the drive down. Within each folder, CLAUDE.local.md comes after CLAUDE.md. Files are concatenated, not overridden.\nAlso at launch: rules without paths, plus your auto memory.\nOn demand: a CLAUDE.md inside a subfolder loads the first time Claude touches a file in that subfolder. Path-scoped rules load the same way.\nAfter /compact: your project-root CLAUDE.md is re-read from disk and comes back. Instructions you only typed in chat do not. That rule you spent 20 minutes explaining an hour ago? Compacted away. If it matters, write it down.\nOne limit to know: on-demand files over a per-file size limit get cut (40,000 characters on a 200K context window). Claude gets the start plus a note to read the rest.\n \n\nThe 5 Commands That Keep It Healthy\n/init: drafts a starter CLAUDE.md (interactive with CLAUDE_CODE_NEW_INIT=1).\n/memory: lists and opens every memory file, toggles auto memory.\n/context: shows what actually loaded, under \"Memory files\".\n/doctor prompt-audit: finds outdated, broken or contradicting instructions and changes nothing until you approve (v2.1.283+).\n\"remember …\": saves a preference straight into auto memory.\nRun /context once after setup. If a file isn't listed under Memory files, Claude can't see it.\n \n\nCommon Pitfalls\nA huge CLAUDE.md. Less adherence, more context burned every session. → Keep it under 200 lines, move the rest to rules and skills.\nImporting everything with @. Imports load every time, no savings. → Import only the always-on core.\nTwo files that disagree. Claude \"may pick one arbitrarily.\" → Run /doctor prompt-audit.\n\"Never do X\" written in CLAUDE.md. It's context, not enforcement. → Use a PreToolUse hook.\nAn important rule typed only in chat. Gone after /compact. → Put it in CLAUDE.md.\nOne giant notes.md. Claude can't find anything. → One topic per file.\n \n\nThe 60-Second Audit: How Much Are You Losing Right Now?\nDon't build anything yet. Open your current project and answer five questions. Every \"no\" is something leaking out of every session you run.\nDoes Claude even see your CLAUDE.md? Run /context and look under \"Memory files\". Not listed? Then every rule you wrote in there has never reached Claude. Not once.\nIs it under 200 lines? Count. If it's longer, you're paying every session for a map Claude follows worse with every line you add.\nIs anything in your auto memory? Run /memory and open the auto memory folder. Empty, or switched off? Then every \"no, do it like this\" you've ever typed is gone.\nWhere does your most important \"never\" live? If it's a sentence in CLAUDE.md, it's a wish. Docs: context, not enforcement. A PreToolUse hook is the only version that can't be ignored.\nDo your files contradict each other? Run /doctor prompt-audit (v2.1.283+). If two files disagree, Claude \"may pick one arbitrarily\", and you'll never know which one it picked.\nThree or more \"no\"? You don't have a second brain. You have a notes folder Claude glances at.\n \n\nTwo Versions of Tomorrow Morning\nWithout it: you open a new session. Claude doesn't know your folders, your naming, your \"never do this\". You type the same three paragraphs you typed yesterday. It makes the mistake you corrected last week. You correct it again. The tokens you spent teaching it last time? Gone with the session.\nWith it: you open a new session and just ask. Claude already knows where things live, which rules apply to the file it's touching, and every correction you ever made. The playbook runs when you say its name. Nothing you taught it is lost.\nSame Claude. Same price per token. The only difference is the 10 minutes you spend tonight.\nPaste the One-Prompt Setup before you close this tab. Then do three things:\nBookmark this. In a month you'll want to run the audit again.\nFollow @mojeskoqq for more Claude Code setups like this, tested and explained in plain words.\nRepost it for the friend who still re-explains their folder layout to Claude every morning.\nAnd reply with your audit score. How many \"no\" did you get?",
+     "preview_text": "Every session you start, Claude forgets you. Here's how to stop losing everything you taught it.\nBe honest. How many times have you explained the same thing to Claude?\nYour folder layout. Your naming",
+     "title": "Claude Second Brain 2.0: The Complete Guide"
+    },
+    "article_title": {
+     "title": "Claude Second Brain 2.0: The Complete Guide"
+    },
+    "author_id": "2058253770492956672",
+    "conversation_id": "2116176596466032817",
+    "created_at": "2026-10-30T14:33:11.000Z",
+    "edit_history_post_ids": [
+     "2116176596466032817"
+    ],
+    "entities": {
+     "urls": [
+      {
+       "display_url": "x.com/i/article/2116…",
+       "end": 23,
+       "expanded_url": "https://x.com/i/article/2116171039046799360",
+       "start": 0,
+       "status": 404,
+       "unwound_url": "https://x.com/i/article/2116171039046799360",
+       "url": "https://t.co/YBUeYgXyjc"
+      }
+     ]
+    },
+    "id": "2116176596466032817",
+    "lang": "zxx",
+    "public_metrics": {
+     "bookmark_count": 1622,
+     "impression_count": 449255,
+     "like_count": 378,
+     "quote_count": 13,
+     "reply_count": 14,
+     "repost_count": 36
+    },
+    "text": "https://t.co/YBUeYgXyjc"
+   },
+   {
+    "article": {
+     "cover_media": "3_2115781773195939840",
+     "entities": {
+      "code": [
+       {
+        "code": "┌────────────────────────────────────────────────────────┐\n│               THE COGNITIVE ARCHITECTURE               │\n├─────────────────────────┬──────────────────────────────┤\n│ 1. THE HANDS (Worker)   │ Claude Sonnet 5.5            │\n│                         │ Isolated git worktree        │\n│                         │ Hard turn limit: 3 attempts  │\n├─────────────────────────┼──────────────────────────────┤\n│ 2. THE BRAIN (Auditor)  │ Claude Opus 5.5              │\n│                         │ Clean cold context           │\n│                         │ Inspects raw git diffs       │\n├─────────────────────────┼──────────────────────────────┤\n│ 3. THE HISTORY (State)  │ Durable disk receipts        │\n│                         │ receipt.md checkpoints       │\n│                         │ Zero-loss session resume     │\n└─────────────────────────┴──────────────────────────────┘",
+        "content": "```\n┌────────────────────────────────────────────────────────┐\n│               THE COGNITIVE ARCHITECTURE               │\n├─────────────────────────┬──────────────────────────────┤\n│ 1. THE HANDS (Worker)   │ Claude Sonnet 5.5            │\n│                         │ Isolated git worktree        │\n│                         │ Hard turn limit: 3 attempts  │\n├─────────────────────────┼──────────────────────────────┤\n│ 2. THE BRAIN (Auditor)  │ Claude Opus 5.5              │\n│                         │ Clean cold context           │\n│                         │ Inspects raw git diffs       │\n├─────────────────────────┼──────────────────────────────┤\n│ 3. THE HISTORY (State)  │ Durable disk receipts        │\n│                         │ receipt.md checkpoints       │\n│                         │ Zero-loss session resume     │\n└─────────────────────────┴──────────────────────────────┘\n```",
+        "language": "none"
+       },
+       {
+        "code": "+---------------+-----------------------------+-------------------------------+------------------------------+\n| PHASE         | HARNESS INVARIANT           | INFRASTRUCTURE IMPLEMENTATION | FAILURE MODE WITHOUT HARNESS |\n+---------------+-----------------------------+-------------------------------+------------------------------+\n| 01 / CONTRACT | Bounded scope before tok 1  | Contract spec, turn ceiling   | Unbounded repo wandering     |\n| 02 / CONTEXT  | Surgical AST slice          | Symbol resolver, path rules   | Context overflow & drift     |\n| 03 / TOOLS    | Isolated write operations   | Git worktrees, sandboxes      | Dirty writes & broken tree   |\n| 04 / STATE    | Durable disk-backed memory  | receipt.md checkpoints        | Catastrophic state loss      |\n| 05 / SENSORS  | Zero trust in model claims  | Compiler stdout (pyright)     | Hallucinated test passes     |\n| 06 / POLICY   | Blast radius boundaries     | Stripped network & secrets    | Token leaks & bad deletes    |\n| 07 / TRACES   | Forensic audit trace        | diff manifest, dollar audit   | Unauditable chat noise       |\n+---------------+-----------------------------+-------------------------------+------------------------------+",
+        "content": "```\n+---------------+-----------------------------+-------------------------------+------------------------------+\n| PHASE         | HARNESS INVARIANT           | INFRASTRUCTURE IMPLEMENTATION | FAILURE MODE WITHOUT HARNESS |\n+---------------+-----------------------------+-------------------------------+------------------------------+\n| 01 / CONTRACT | Bounded scope before tok 1  | Contract spec, turn ceiling   | Unbounded repo wandering     |\n| 02 / CONTEXT  | Surgical AST slice          | Symbol resolver, path rules   | Context overflow & drift     |\n| 03 / TOOLS    | Isolated write operations   | Git worktrees, sandboxes      | Dirty writes & broken tree   |\n| 04 / STATE    | Durable disk-backed memory  | receipt.md checkpoints        | Catastrophic state loss      |\n| 05 / SENSORS  | Zero trust in model claims  | Compiler stdout (pyright)     | Hallucinated test passes     |\n| 06 / POLICY   | Blast radius boundaries     | Stripped network & secrets    | Token leaks & bad deletes    |\n| 07 / TRACES   | Forensic audit trace        | diff manifest, dollar audit   | Unauditable chat noise       |\n+---------------+-----------------------------+-------------------------------+------------------------------+\n```",
+        "language": "none"
+       },
+       {
+        "code": "# .claude/rules\ncontracts:\n  - path: \"src/auth/**\"\n    rules:\n      - \"Never expose raw tokens in error logs\"\n      - \"All session mutations must acquire Redis lock\"\n    sensors:\n      - \"npm run test:auth\"\n      - \"npm run typecheck\"",
+        "content": "```yaml\n# .claude/rules\ncontracts:\n  - path: \"src/auth/**\"\n    rules:\n      - \"Never expose raw tokens in error logs\"\n      - \"All session mutations must acquire Redis lock\"\n    sensors:\n      - \"npm run test:auth\"\n      - \"npm run typecheck\"\n```",
+        "language": "yaml"
+       },
+       {
+        "code": "git worktree add -b patch/session-fix .worktrees/patch-482 HEAD",
+        "content": "```bash\ngit worktree add -b patch/session-fix .worktrees/patch-482 HEAD\n```",
+        "language": "bash"
+       },
+       {
+        "code": "git worktree add -b patch/task-482 .worktrees/patch-482 HEAD",
+        "content": "```bash\ngit worktree add -b patch/task-482 .worktrees/patch-482 HEAD\n```",
+        "language": "bash"
+       },
+       {
+        "code": "#!/usr/bin/env bash\nset -euo pipefail\n\necho \"=== SENSOR SUITE EXECUTION ===\"\n\n# 1. Static AST type verification\npyright src/auth/session.py || {\n  echo \"SENSOR FAILED: Type invariants violated. Patch rejected.\"\n  git restore .\n  exit 1\n}\n\n# 2. Hermetic unit suite with strict timeout\npytest tests/auth/ -q --timeout=10 || {\n  echo \"SENSOR FAILED: Regression detected in auth suite.\"\n  git restore .\n  exit 2\n}\n\necho \"=== SENSORS PASSED: PROCEEDING TO AUDIT ===\"",
+        "content": "```bash\n#!/usr/bin/env bash\nset -euo pipefail\n\necho \"=== SENSOR SUITE EXECUTION ===\"\n\n# 1. Static AST type verification\npyright src/auth/session.py || {\n  echo \"SENSOR FAILED: Type invariants violated. Patch rejected.\"\n  git restore .\n  exit 1\n}\n\n# 2. Hermetic unit suite with strict timeout\npytest tests/auth/ -q --timeout=10 || {\n  echo \"SENSOR FAILED: Regression detected in auth suite.\"\n  git restore .\n  exit 2\n}\n\necho \"=== SENSORS PASSED: PROCEEDING TO AUDIT ===\"\n```",
+        "language": "bash"
+       },
+       {
+        "code": "# AGENT EXECUTION RECEIPT // RUN-48291\n- Model: Claude Sonnet 5.5 (Worker) / Claude Opus 5.5 (Auditor)\n- Target: auth/session_manager.py\n- Input Hash: e9a1f0c2\n- Status: PASSED (exit code 0)\n\n## Verified Invariants:\n1. Redis lock timeout bounded to 500ms (checked via unit test)\n2. Zero new dependencies introduced in requirements.txt\n3. Pyright strict type check: 0 errors\n\n## Forensic Trace:\n- Files modified: 2 (+48 lines, -12 lines)\n- Total tokens: 34,210 ($0.11)\n- Sensor runtime: 3.4s\n- Worktree SHA: d83b7e1",
+        "content": "```markdown\n# AGENT EXECUTION RECEIPT // RUN-48291\n- Model: Claude Sonnet 5.5 (Worker) / Claude Opus 5.5 (Auditor)\n- Target: auth/session_manager.py\n- Input Hash: e9a1f0c2\n- Status: PASSED (exit code 0)\n\n## Verified Invariants:\n1. Redis lock timeout bounded to 500ms (checked via unit test)\n2. Zero new dependencies introduced in requirements.txt\n3. Pyright strict type check: 0 errors\n\n## Forensic Trace:\n- Files modified: 2 (+48 lines, -12 lines)\n- Total tokens: 34,210 ($0.11)\n- Sensor runtime: 3.4s\n- Worktree SHA: d83b7e1\n```",
+        "language": "markdown"
+       }
+      ],
+      "mentions": [
+       {
+        "end": 39,
+        "start": 30,
+        "username": "damkina7"
+       }
+      ],
+      "urls": [
+       {
+        "text": "https://t.me/+9Iva9tNocMQ4NjY6"
+       }
+      ]
+     },
+     "media_entities": [
+      "3_2115788410132508672",
+      "3_2115788258701361152"
+     ],
+     "plain_text": "Why prompt engineering is dead and how to build autonomous agents that never break\n \nThe Illusion of \"Prompting\" vs. The Engineering Chassis\nMost people respond to a failing agent by changing the prompt\nThen they change the model\nThen they add a larger context window\nThe agent still forgets decisions\nIt still uses the wrong tool\nIt still skips verification.\nIt still gets stuck in the same loop\n\nThe problem is not the intelligence of Claude Opus 5.5\nThe problem is the environment around it\nThat environment is the harness\nAnd designing it is harness engineering\nThe model is only the engine\n\nThe harness is the machine\n \n1. The Same Model, Two Different Universes\nRun it in a standard chat window:\nIt produces plausible-looking code that ignores schema invariants\nIt attempts to modify 14 files at once, exhausts its token window midway, and leaves the workspace half-broken\nIt confidently asserts: \"All tests passed successfully,\" without ever executing a test runner\nTotal task completion rate on complex multi-file refactoring: 18%\nNow run the exact same Claude Sonnet 5.5 inside a disciplined engineering harness:\nThe input contract enforces path bounds and deterministic acceptance criteria before token 1 is generated\nActions execute in isolated git worktrees, physically segregated from the working branch\nStatic typecheckers, linters, and compiler hooks intercept syntax errors before files are written to disk\nAdversarial review by Claude Opus 5.5 in a cold context inspects raw git diffs and test receipts before commit\nTotal task completion rate on the identical refactoring: 89%\nThe difference is zero parameters, zero fine-tuning, and zero prompt adjectives. The difference is substrate design\n \n2. The Seven Invariant Jobs of the Agent Harness\nEvery robust production harness executes seven non-negotiable architectural responsibilities:\n \n \nDetailed Breakdown of the Seven Invariants\n1. DEFINE (Contract)\nCore Purpose: Bound the scope before generating token 1\nArchitectural Invariant: The contract enforces explicit target file lists, deterministic exit conditions, and an iteration ceiling\nHarness Implementation: The harness rejects unconstrained requests. If an agent attempts to write outside designated paths, the tool sandbox denies filesystem access\nFailure Mode Without Harness: The model wanders into neighboring packages, consumes 80,000 tokens on recursive file search, and edits unrelated utilities\n2. SELECT (Context)\nCore Purpose: Provide a high-fidelity topological map rather than a raw dump\nArchitectural Invariant: The context window receives only AST symbol signatures, import hierarchies, and localized path policies\nHarness Implementation: Dynamic scoping via .claude/rules. System instructions are capped at 150 lines\nFailure Mode Without Harness: A 3,000-line source file is dumped into the prompt. By step 15, the model forgets initial invariants and generates broken interfaces\n3. ACT (Tools)\nCore Purpose: Quarantine all destructive actions\nArchitectural Invariant: The model never writes directly to the primary checkout or main branch\nHarness Implementation: Every task executes inside an ephemeral git worktree:\n \nCommands run under an explicit whitelist of approved system binaries\nFailure Mode Without Harness: The model clobbers user work, introduces merge conflicts, or alters host configurations\n4. REMEMBER (State)\nCore Purpose: Externalize cognitive state to durable storage\nArchitectural Invariant: Progress is materialized directly on disk\nHarness Implementation: Every verified checkpoint writes an immutable receipt.md. If a connection drops, the subsequent run resumes seamlessly from disk state\nFailure Mode Without Harness: A broken socket drops 40 minutes of agent reasoning, requiring a full restart\n5. VERIFY (Sensors)\nCore Purpose: Evaluate verifiable evidence, not conversational prose\nArchitectural Invariant: No diff is merged without automated sensor validation returning exit code 0\n\nHarness Implementation: The sensor pipeline automatically executes:\nAST syntax parsing\n\nStrict typechecking (pyright or tsc --noEmit)\n\nBounded unit test execution\n\nFailure Mode Without Harness: The model encounters a syntax error internally but assures the user that \"everything is working smoothly.\"\n6. AUTHORIZE (Policy)\nCore Purpose: Enforce blast-radius control outside token generation\nArchitectural Invariant: High-risk actions require cryptographic tokens or human confirmation\nHarness Implementation: Production credentials and raw API secrets are stripped from execution containers. Socket egress is locked at the OS kernel level\nFailure Mode Without Harness: The model invokes curl to unauthorized external endpoints or logs secret credentials\n7. EXPLAIN (Traces)\nCore Purpose: Guarantee forensic auditability for every automated change\nArchitectural Invariant: Every commit carries a machine-readable audit receipt\nHarness Implementation: Comprehensive recording of token budgets, dollar costs, starting commit SHAs, and raw sensor outputs\nFailure Mode Without Harness: Cryptic commits with vague messages like \"fix bug\" that break CI unnoticed weeks later \n \nAxiom: One model call is just an event. The harness is the system\n \n3. Instructions Must Become Infrastructure\nThe most pervasive anti-pattern in AI engineering is writing behavioral rules in natural language prompts:\n\"Please do not touch files outside src/components\"\n\"Remember to format code with Prettier\"\n\"Ensure you do not delete type definitions\"\nThis is cargo-cult engineering. A probabilistic model under token pressure will eventually ignore soft instructions\nIn a mature harness, instructions are compiled into deterministic infrastructure\nStep 1: Path-Scoped Rules (.claude/rules)\nInstead of bloated system prompts, rules attach exclusively to target paths:\n \nStep 2: Deterministic Pre-Commit Compiler Hook (.claude/hooks/pre-verify.sh)\nNever ask the model to run tests voluntarily. The harness intercepts tool writes automatically:\n \nRule: Rules belong in compilers, linters, and OS permissions, not in English prose\n \n4. Separate the Brain, the Hands, and the History\nNever let a single agent serve as architect, builder, auditor, and archivist simultaneously\n\nDoing so guarantees cognitive contamination: the model falls in love with its own flawed diffs\nA frontier architecture separates responsibilities across three distinct planes:\n \n1. The Hands (Worker Plane): Claude Sonnet 5.5\nOptimized for velocity, tool calling, and high-frequency code edits. It works exclusively inside an isolated git worktree:\n \nClaude Sonnet 5.5 operates under a hard turn limit (maximum 3 self-correction iterations)\n\nIt has zero permission to merge into main and cannot inspect root secrets\n2. The Brain (Auditor Plane): Claude Opus 5.5\nOperates in a completely cold, unpolluted context window\n\nIt has no access to the worker's chat history or rationalizations\n\nIt receives only three raw artifacts:\nThe original bounded contract\nThe raw git diff generated in the worktree\nThe sensor stdout logs\nClaude Opus 5.5 evaluates the diff adversarially\n \nIt specifically searches for hallucinated edge cases, silent signature breaks, and unhandled exceptions.\n\nIf any invariant is violated, it rejects the patch with a surgical failure classification\n3. The History (Substrate Plane): Durable Disk State\nNeither model is trusted to remember context across hours\n\nAll state is serialized to disk as structured markdown receipts (receipt.md)\n\nIf the process crashes or token limits trigger a reset, the next session resumes seamlessly from disk state\n \n5. Failure Becomes Infrastructure\nWhen an agent fails, junior engineers prompt-engineer a patch for that specific run\n\nSenior harness engineers fix the entire failure class\n \nEvery failure must execute a closed-loop immunization cycle:\nRUN: The agent produces code in a sandboxed branch\nOBSERVE: Sensors capture compilation errors, assertion failures, or linter warnings\nCLASSIFY: The harness categorizes the root cause (context gap, tool deficiency, or permission boundary)\nREPAIR: The agent patches the local branch under strict step bounds (max 3 attempts)\n\nVERIFY: Sensors re-run. If tests fail twice on the same error, execution halts immediately to prevent token burn\nACCEPT: If tests pass, the patch is accepted with a forensic change receipt\nMost importantly, the harness updates its own permanent substrate:\nMissing domain knowledge becomes a project-scoped guide\nAn uncaught edge case becomes a regression test fixture\nA clumsy shell operation becomes a purpose-built CLI tool\n\n \nPrinciple: The patch fixes one run\n\nThe harness change improves every run after it\n \n6. The Production Change Receipt Standard\nAutonomous agents must never leave unrecorded commits\n\nEvery finished run must generate an immutable receipt.md at the repository root:\n \nIf an engineer cannot read a receipt in 15 seconds and verify why a change was made, the agent run is rejected by CI\n \n7. The Pre-Flight Harness Checklist\nBefore allowing any frontier agent (Claude Sonnet 5.5 or GPT-6 Astra) to run unattended overnight, verify this 8-point checklist:\nTask Contract: Is the input spec bounded to fewer than 5 files with explicit acceptance criteria?\nIsolation: Is execution locked to an isolated git worktree with no write access to main?\nSensor Gating: Are linters, typecheckers, and test suites wired to block changes on exit code != 0?\nLoop Breaker: Is there a hard ceiling (e.g., max 3 identical sensor failures) to halt runaway loops?\nContext Budget: Is context loading restricted to under 150 lines of instructions plus path-relevant AST symbols?\nAdversarial Audit: Does an independent auditor model inspect raw git diffs before PR creation?\nBlast Radius: Are credentials, network egress, and database writes completely stripped from tools?\nDurable State: Is session progress written to disk so crashes resume without loss?\nStop prompting. Start building harnesses\n \n-> Join my Telegram\n\n→ Follow @damkina7 for deep architectural teardowns of frontier AI systems\n\n-> Bookmark this article so you have the pre-flight checklist ready before your next autonomous run",
+     "preview_text": "Why prompt engineering is dead and how to build autonomous agents that never break\n \nThe Illusion of \"Prompting\" vs. The Engineering Chassis\nMost people respond to a failing agent by changing the",
+     "title": "The Harness Is the Machine: The Claude Opus 5.5 Engineering Manifest "
+    },
+    "article_title": {
+     "title": "The Harness Is the Machine: The Claude Opus 5.5 Engineering Manifest "
+    },
+    "author_id": "1243664142223003648",
+    "conversation_id": "2115794667706957858",
+    "created_at": "2026-10-29T13:15:33.000Z",
+    "edit_history_post_ids": [
+     "2115794667706957858"
+    ],
+    "entities": {
+     "urls": [
+      {
+       "display_url": "x.com/i/article/2115…",
+       "end": 23,
+       "expanded_url": "https://x.com/i/article/2115779443717193728",
+       "start": 0,
+       "status": 404,
+       "unwound_url": "https://x.com/i/article/2115779443717193728",
+       "url": "https://t.co/mlFd0D1HQv"
+      }
+     ]
+    },
+    "id": "2115794667706957858",
+    "lang": "zxx",
+    "public_metrics": {
+     "bookmark_count": 132,
+     "impression_count": 55306,
+     "like_count": 50,
+     "quote_count": 1,
+     "reply_count": 7,
+     "repost_count": 7
+    },
+    "text": "https://t.co/mlFd0D1HQv"
+   },
+   {
+    "article": {
+     "cover_media": "3_2080693379633995776",
+     "entities": {
+      "code": [
+       {
+        "code": "",
+        "content": "| Symptom                                                      | Start with      | Likely fix                                                        |\n| ------------------------------------------------------------ | --------------- | ----------------------------------------------------------------- |\n| The agent cannot access the right data or tool safely.       | Harness         | Tool contract, permissions, sandbox, context injection.           |\n| The agent forgets progress across sessions.                  | Harness         | Durable state, checkpointing, progress artifacts, compaction.     |\n| The first attempt is often close but not reliable.           | Loop            | External grader, deterministic tests, feedback and bounded retry. |\n| The agent keeps working after success or stops before proof. | Loop            | Evidence-based terminal states and budget-aware stop rules.       |\n| Several specialists must run in a controlled order.          | Graph           | Explicit nodes, edges, routing conditions and joins.              |\n| Failures are hard to locate in a multi-step process.         | Graph + harness | Stateful traces aligned with graph nodes and transitions.         |\n| The workflow changes too often for a fixed diagram.          | Simpler harness | Keep control model-driven; delay graph formalization.             |\n",
+        "language": "none"
+       }
+      ],
+      "mentions": [
+       {
+        "end": 15,
+        "start": 7,
+        "username": "beamnxw"
+       }
+      ],
+      "urls": [
+       {
+        "text": "https://www.microsoft.com/en-us/research/blog/introducing-autogen-studio-a-low-code-interface-for-building-multi-agent-workflows/"
+       },
+       {
+        "text": "https://developers.openai.com/api/docs/guides/agents"
+       },
+       {
+        "text": "https://resources.anthropic.com/building-effective-ai-agents"
+       },
+       {
+        "text": "https://x.com/@beamnxw"
+       },
+       {
+        "text": "https://www.langchain.com/blog/langchain-langgraph-1dot0"
+       },
+       {
+        "text": "https://openai.com/business/guides-and-resources/a-practical-guide-to-building-ai-agents"
+       },
+       {
+        "text": "https://microsoft.github.io/autogen/stable//user-guide/agentchat-user-guide/graph-flow.html"
+       },
+       {
+        "text": "https://t.me/beamnxw11"
+       },
+       {
+        "text": "https://www.langchain.com/blog/the-anatomy-of-an-agent-harness"
+       },
+       {
+        "text": "https://www.langchain.com/blog/how-to-build-a-custom-agent-harness"
+       },
+       {
+        "text": "https://www.langchain.com/blog/the-art-of-loop-engineering"
+       }
+      ]
+     },
+     "media_entities": [
+      "3_2081018635196256256",
+      "3_2081012312635219968",
+      "3_2081018890004426752",
+      "13_2081022205840781313",
+      "3_2081016756932349952",
+      "3_2081013382769946625",
+      "3_2081011502958473216"
+     ],
+     "plain_text": "A practical guide to the three architecture layers people keep mixing together\n \nThe confusion is understandable. All three ideas sit around the same model, all three influence reliability, and all three can contain \"loops.\" But they are not synonyms. They describe different engineering decisions, and the distinction matters the moment an agent leaves a demo notebook and starts touching files, APIs, customers, or production code\nTHE 30-SECOND ANSWER\nHarness engineering builds the machinery around the model\nLoop engineering designs the repeated work-and-feedback cycle\nGraph engineering makes the workflow topology explicit: nodes, branches, joins, state transitions and controlled cycles\nThe clean mental model is environment → feedback → flow\n \nWhy these terms suddenly matter\nA raw language model cannot create text, maintain a state for a project, run a test suite, look at a browser, enforce an approval rule, or restart a failed job. Those capabilities come from the environment it's in. As agentic software matures, a standard engineering stack is finally coming together. At the foundation is the agent harness, the code that actually runs the models. Next are the loops, which handle the repeating execution and quality checks. Finally, graphs map out the structured paths that guide the entire process\nLabels are still not consistently standardized. In the current framework, the term \"agent harness\" is now starting to take on a rather specific definition. The term \"loop engineering\" arose as a newer term among practitioners in 2026. Graph engineering should be understood practically rather than as an academic field; it is just the process of creating agent workflows as explicit directed graphs or state machines. This practical distinction is helpful because it prevents a buzzword from hiding the real design question\n \n \nAgent Harness Engineering\nAccording to Langchain, the agent is the model plus the harness, and the harness is the code, configuration and execution logic outside the model. In practice, this includes the system prompt, tool definitions, memory, filesystems, sandboxes, model routing, handoffs, middleware hooks, compaction, permissions, logging and verification interfaces\nOpenAI's Agents SDK describes the same operational core from a runtime perspective: the runner calls the model, executes tool calls, handles handoffs, carries state and stops only when the run reaches a real terminal condition\n \nThe word harness is useful because it shifts attention away from model worship. Two teams can use the same foundation model and get very different outcomes because one gives the model clean tools, a stable workspace, constrained permissions and observable state, while the other gives it a vague prompt and an unreliable API wrapper. The intelligence may be similar; the working conditions are not. What a serious harness usually contains:\nContext injection: instructions, retrieved facts, conversation state, skills and task-specific policies\nAction surfaces: APIs, browsers, shells, code interpreters, databases and MCP-compatible tools\nPersistence: files, checkpoints, sessions, progress logs, git history and long-term memory\nExecution control: timeouts, retries, budgets, model routing, sub-agent spawning and approval gates\nSafety and governance: permissions, isolation, allow lists, secret handling and human authorization\nObservability: traces, tool inputs and outputs, state transitions, cost, latency and evaluation results\n \nThe model sits inside a wider harness of context, control, action, persistence and verification. Remove the model from your architecture diagram. Everything left is probably part of the harness: the tools, data access, state store, sandbox, middleware, evaluators, retry policy and UI\nWhere harness engineering earns its keep\nHarness work is important for long-running tasks. In multi-session coding, Anthropic discovered that simply using context compaction was not sufficient. This was not a better prompt by itself, but they made a good setup that created an initializer, a progress file, git history and a discipline of incremental work that each new context can understand what happened and what is still to do. It's an improved working system with regard to the agent. Apply harness engineering when the agent doesn't have a capability, can't come back clean, loses state, accesses too much, can't be audited, or acts differently on environments\n \nLoop Engineering\nEach agent that uses a tool has an embedded small loop:\ncall the model\nlook at the results\nrun the tools\ninput observations into the model\nrepeat until a final answer is returned\nWhen the builders intentionally build or stack new cycles around that behavior, it is the beginning of loop engineering, as OpenAI calls it. A verification loop, for instance, allows the agent to create an artifact, execute the deterministic check or a grader, receive explicit feedback and repeat only if there are evidence errors. An event-driven loop awakens the agent when a schedule, webhook, or new document is received. An improvement loop analyzes traces & failures, modifies instructions/tools, and tests if the new version works better. LangChain's 2026 framing refers to these as a stack of loops and not one magic while-statement\nThe anatomy of a well-engineered loop:\nTrigger: what starts another cycle; user request, schedule, failed test, new data or evaluator feedback\nGoal: a specific state to reach, not a vague instruction to \"keep improving\"\nState and memory: what the next cycle needs to know without replaying everything\nAction policy: what the agent may change, call, delegate or spend\nEvidence: tests, schema validation, citations, diffs, metrics or human review\nFeedback: a compact, actionable description of why the evidence failed\nStopping rule: success, budget limit, timeout, irrecoverable error or human escalation\n \nA verification loop wraps the agent loop with an external grader and an explicit pass condition. Do not loop on confidence. Loop on evidence. \"The agent says it is done\" is not a stopping condition; \"the tests pass, the links resolve, the schema validates and the reviewer approves\" is.\nWhy loop engineering is not just prompt engineering\nA prompt tells the model what to do during a call. A loop specifies what the system does after the call:\nhow it observes results, chooses feedback, decides whether to continue, persists progress and terminates\nPrompt quality still matters, but the loop converts a one-shot instruction into a managed process. The main tradeoff is cost and latency. Each grader, reviewer or retry adds another model call or tool run. Anthropic's broader guidance is to prefer the simplest architecture that works and add agentic complexity only when the performance gain justifies it. The same advice applies to loops: add them where the failure cost is higher than the verification cost\n \nGraph Engineering\nGraph engineering asks a different question though: Not only what the agent does, but what component is permitted to run next. Steps are represented by nodes and allowed steps are represented by edges. These edges can be used to indicate sequence, conditional branching, parallel fan-out, joins, loops and human interrupts. The state traverses the graph, and the topology allows for the desired control flow to be checked. LangGraph is low-level orchestration infrastructure for long-running, stateful agents, with durable execution, state and human-in-the-loop control, and an explicit focus on control over agents rather than an abstraction of the workflow. Microsoft AutoGen's documentation is exceptionally straightforward: use a graph when you need exact control over agent order, different next steps for different outcomes, deterministic branching or complex multi-step processes with cycles. What graph engineers actually decide:\nNode boundaries: which work belongs in a deterministic function, an LLM call, a specialist agent or a human review step\nState schema: what each node may read or update, and how parallel updates are merged\nRouting conditions: which evidence sends work forward, backward, sideways or to escalate\nConcurrency: what can run in parallel, what must join, and what shared resources need coordination\nCycles and exits: where retries are legal, how many are allowed, and what makes the cycle safe\nDurability: where checkpoints occur and how execution resumes after interruption\n \nThe above canvas makes agents, skills and relationships inspectable as a composed system. Graph engineering here means engineering graph-based execution. It is not the same as knowledge graph engineering, where the graph represents entities and relationships in data. A workflow graph represents control and state transitions\nWhen a graph is worth the ceremony\nGraphs are valuable when the process has meaningful branches, parallel work, approvals, recovery paths or multiple specialist agents. They are less useful when the job is simply \"give one agent three tools and let it work.\" A graph can improve debugging, but it can also freeze assumptions too early. If the model must dynamically invent the plan, forcing every possible path into a diagram can make the system more brittle, not less\nHow the three layers work together in one real system\nConsider a research-and-publishing agent responsible for producing a factual industry briefing\n \nNotice the nesting: the graph runs inside the harness; one or more loops live inside the graph; and the harness supplies the state, tools and evaluators those loops need. The categories overlap because software layers overlap, but each still gives the team a different lever to pull when the system fails\nChoose the engineering layer by diagnosing the failure\n \n \nThe Expensive Mistakes Behind Weak Agent Architectures\nBuilding a graph before understanding the work\nTeams sometimes translate a business process into dozens of nodes before they have observed how a capable agent actually solves it. Start with traces from a simpler harness, then formalize the stable paths.\nLetting the same model write and grade without safeguards\nSelf-review can help, but it is vulnerable to shared blind spots. Prefer deterministic checks where possible, separate reviewer context, and require human approval for high-impact actions.\nUsing \"keep trying\" as a loop specification\nAn unbounded retry loop is a cost leak. Every loop needs a measurable objective, fresh evidence, maximum attempts and a named escalation path.\nTreating the harness as a dumping ground\nMore tools and memory are not automatically better. A crowded toolset raises selection errors, a noisy context raises confusion, and broad permissions raise risk.\nBlaming the model for orchestration failures\nA model cannot compensate reliably for stale state, ambiguous tool schemas, broken APIs or missing exit conditions. Improve the layer that owns the failure.\nA production-ready design checklist\nHarness: Are tools narrow, documented and observable? Is state durable? Are permissions least-privilege? Can operators pause, inspect and resume a run?\nLoop: What evidence proves success? What feedback is returned on failure? How many retries are allowed? What happens when the budget is exhausted?\nGraph: Which paths must be deterministic? Where can work run in parallel? Which state is shared? Where are the human gates and recovery routes?\nEvaluation: Can the team replay real traces, compare versions and attribute improvement to a specific change rather than intuition?\nOperations: Are cost, latency, failure rate, intervention rate and task-level success monitored in production?\nThe Simplest Way to Remember the Difference\nEngineering something to be a model to make it operate. Loop engineering methodology is iterative, verifiable and resumable. A complex execution path is made explicit and controllable through the use of graph engineering. None of the three is substituted by any of the others. Even if the harness has lost its state, a beautifully drawn graph is no sufficient. However, even with the best harness, if there is no evidence or stop rule, it is a waste of money! Carefully crafted loops are still hard to operate when branching, parallelism and approvals are embedded in the ad-hoc code. If these three layers are designed jointly, reliable agent systems will arise, provided that the team is aware of what each layer is supposed to solve\nSEARCH TERMS READERS USE\nagent harness vs loop engineering\ngraph engineering for AI agents\nAI agent orchestration\nLLM agent architecture\nproduction AI agents\nLangGraph workflows\nAutoGen GraphFlow\nagent verification loops\n \nSources and Further Readings\nThe Anatomy of an Agent Harness - Learn how agent harnesses transform AI models into autonomous work engines. Explore core components: filesystems, sandboxes, and memory\nAgents SDK | OpenAI API - Learn how the OpenAI Agents SDK fits together and which docs to read next\nLangChain and LangGraph Agent Frameworks Reach v1.0 Milestones - LangChain 1.0 and LangGraph 1.0 are here. Build production-ready AI agents faster with standardized tools, middleware customization, and durable state\nGraphFlow (Workflows) - AutoGen - In this section you'll learn how to create an multi-agent workflow using , or simply \"flow\" for short. It uses structured execution and precisely controls how agents interact to accomplish a task. We'll first show you how to create and run a flow\nThe Art of Loop Engineering - Agents automate real-world work, but reliable performance requires more than a good model, it requires a carefully designed harness built for specific tasks. This post explores the core agent loop, how stacking and extending loops builds more effective agents, and how to instrument each level with LangChain primitives\nIntroducing AutoGen Studio from Microsoft Research - AutoGen Studio, built on Microsoft's flexible open-source AutoGen framework for orchestrating AI agents, provides a user-friendly interface that enables developers to rapidly build, test, customize, & share multi-agent AI solutions, with little or no coding\nHow to Build a Custom Agent Harness - Effective agents are built with harnesses that are tightly coupled with the task at hand. The easiest way to build a custom harness is with LangChain's create_agent plus middleware. This guide covers the core agent loop and how you can customize it for your agent's use case\nA practical guide to building agents - A comprehensive guide to designing, orchestrating, and deploying AI agents-covering use cases, model selection, tool design, guardrails, and multi-agent patterns\nBuilding Effective AI Agents - Practical advice and guidance guidance for building production-ready single and multi-agent systems from Anthropic and our customers\n \nSave this so you don't lose it\nFollow @beamnxw for more technical posts :)\nmy telegram channel\n \n",
+     "preview_text": "A practical guide to the three architecture layers people keep mixing together\n \nThe confusion is understandable. All three ideas sit around the same model, all three influence reliability, and all",
+     "title": "Agent Harness Engineering vs. Loop Engineering vs. Graph Engineering"
+    },
+    "article_title": {
+     "title": "Agent Harness Engineering vs. Loop Engineering vs. Graph Engineering"
+    },
+    "author_id": "1829032796481888256",
+    "conversation_id": "2081022966645535079",
+    "created_at": "2026-07-25T14:25:13.000Z",
+    "edit_history_post_ids": [
+     "2081022966645535079"
+    ],
+    "entities": {
+     "urls": [
+      {
+       "display_url": "x.com/i/article/2080…",
+       "end": 23,
+       "expanded_url": "http://x.com/i/article/2080670611538329601",
+       "start": 0,
+       "status": 404,
+       "unwound_url": "https://x.com/i/article/2080670611538329601",
+       "url": "https://t.co/Qd15VI1bFb"
+      }
+     ]
+    },
+    "id": "2081022966645535079",
+    "lang": "zxx",
+    "public_metrics": {
+     "bookmark_count": 9075,
+     "impression_count": 1868873,
+     "like_count": 3548,
+     "quote_count": 84,
+     "reply_count": 85,
+     "repost_count": 613
+    },
+    "text": "https://t.co/Qd15VI1bFb"
+   },
+   {
+    "article": {
+     "cover_media": "3_2096550806568816640",
+     "entities": {
+      "code": [
+       {
+        "code": "explanation\n  -> checklist\n      -> template\n          -> automated check\n              -> enforced policy",
+        "content": "```latex\nexplanation\n  -> checklist\n      -> template\n          -> automated check\n              -> enforced policy\n```",
+        "language": "latex"
+       },
+       {
+        "code": "model decides intent\ngateway validates action\ntool changes environment\nsensor observes result",
+        "content": "```latex\nmodel decides intent\ngateway validates action\ntool changes environment\nsensor observes result\n```",
+        "language": "latex"
+       },
+       {
+        "code": "task\n  -> project map\n      -> relevant subsystem\n          -> exact files\n              -> local instructions",
+        "content": "```latex\ntask\n  -> project map\n      -> relevant subsystem\n          -> exact files\n              -> local instructions\n```",
+        "language": "latex"
+       },
+       {
+        "code": "OBJECTIVE\nFix duplicate coupon application during checkout.\n\nCHANGED\n- checkout validation logic\n- focused regression test\n\nVERIFIED\n- lint passed\n- unit tests passed\n- checkout integration test passed\n\nNOT VERIFIED\n- production payment provider\n\nDECISIONS\n- preserved existing coupon priority order\n\nRISKS\n- legacy mobile client was not available locally\n\nAPPROVAL NEEDED\n- deploy to staging",
+        "content": "```latex\nOBJECTIVE\nFix duplicate coupon application during checkout.\n\nCHANGED\n- checkout validation logic\n- focused regression test\n\nVERIFIED\n- lint passed\n- unit tests passed\n- checkout integration test passed\n\nNOT VERIFIED\n- production payment provider\n\nDECISIONS\n- preserved existing coupon priority order\n\nRISKS\n- legacy mobile client was not available locally\n\nAPPROVAL NEEDED\n- deploy to staging\n```",
+        "language": "latex"
+       },
+       {
+        "code": "LOW RISK\nread files, search, inspect\n-> automatic\n\nREVERSIBLE CHANGE\nedit workspace, run tests\n-> automatic with trace\n\nEXTERNAL EFFECT\nsend message, deploy, purchase\n-> explicit approval\n\nIRREVERSIBLE OR SENSITIVE\ndelete data, rotate credentials, publish globally\n-> hard gate or prohibited",
+        "content": "```latex\nLOW RISK\nread files, search, inspect\n-> automatic\n\nREVERSIBLE CHANGE\nedit workspace, run tests\n-> automatic with trace\n\nEXTERNAL EFFECT\nsend message, deploy, purchase\n-> explicit approval\n\nIRREVERSIBLE OR SENSITIVE\ndelete data, rotate credentials, publish globally\n-> hard gate or prohibited\n```",
+        "language": "latex"
+       },
+       {
+        "code": "facts:\n  - checkout validation lives in services/orders\n\ndecisions:\n  - reuse the existing validation pipeline\n  - reason: avoids a second source of truth\n\nprogress:\n  completed:\n    - added server-side rule\n  remaining:\n    - update integration test\n\nlessons:\n  - local test command requires TEST_DB_URL",
+        "content": "```yaml\nfacts:\n  - checkout validation lives in services/orders\n\ndecisions:\n  - reuse the existing validation pipeline\n  - reason: avoids a second source of truth\n\nprogress:\n  completed:\n    - added server-side rule\n  remaining:\n    - update integration test\n\nlessons:\n  - local test command requires TEST_DB_URL\n```",
+        "language": "yaml"
+       },
+       {
+        "code": "accepted outputs\n------------------------------\nhuman review minutes + run cost",
+        "content": "```latex\naccepted outputs\n------------------------------\nhuman review minutes + run cost\n```",
+        "language": "latex"
+       },
+       {
+        "code": "syntax\n  -> types\n      -> focused tests\n          -> integration tests\n              -> visual or semantic review\n                  -> human approval",
+        "content": "```latex\nsyntax\n  -> types\n      -> focused tests\n          -> integration tests\n              -> visual or semantic review\n                  -> human approval\n```",
+        "language": "latex"
+       },
+       {
+        "code": "old model limitation\n  -> harness workaround\n      -> model improves\n          -> workaround remains\n              -> system becomes slower or less capable",
+        "content": "```latex\nold model limitation\n  -> harness workaround\n      -> model improves\n          -> workaround remains\n              -> system becomes slower or less capable\n```",
+        "language": "latex"
+       },
+       {
+        "code": "observe\n  -> decide\n      -> act\n          -> measure\n              -> accept\n              -> repair\n              -> escalate\n              -> stop",
+        "content": "```latex\nobserve\n  -> decide\n      -> act\n          -> measure\n              -> accept\n              -> repair\n              -> escalate\n              -> stop\n```",
+        "language": "latex"
+       },
+       {
+        "code": "Was the task contract ambiguous?\nWas important context invisible?\nWas the wrong tool exposed?\nWas a precondition missing?\nWas the result unverifiable?\nWas policy left inside the prompt?\nWas recovery too broad?\nWas the trace insufficient?",
+        "content": "```latex\nWas the task contract ambiguous?\nWas important context invisible?\nWas the wrong tool exposed?\nWas a precondition missing?\nWas the result unverifiable?\nWas policy left inside the prompt?\nWas recovery too broad?\nWas the trace insufficient?\n```",
+        "language": "latex"
+       },
+       {
+        "code": "PROJECT MAP\n\nproduct rules     -> docs/product/\narchitecture      -> docs/architecture.md\nfrontend          -> apps/web/\nbackend           -> services/api/\ntests             -> tests/\ncommands          -> docs/commands.md\nrelease rules     -> docs/release.md",
+        "content": "```latex\nPROJECT MAP\n\nproduct rules     -> docs/product/\narchitecture      -> docs/architecture.md\nfrontend          -> apps/web/\nbackend           -> services/api/\ntests             -> tests/\ncommands          -> docs/commands.md\nrelease rules     -> docs/release.md\n```",
+        "language": "latex"
+       },
+       {
+        "code": "FACTS\nstable information discovered about the environment\n\nDECISIONS\nchoices made and the reason behind them\n\nPROGRESS\ncompleted, active, blocked, and remaining work\n\nLESSONS\nfailures that should change future behavior",
+        "content": "```latex\nFACTS\nstable information discovered about the environment\n\nDECISIONS\nchoices made and the reason behind them\n\nPROGRESS\ncompleted, active, blocked, and remaining work\n\nLESSONS\nfailures that should change future behavior\n```",
+        "language": "latex"
+       },
+       {
+        "code": "tool timeout\n-> retry with backoff\n\ninvalid arguments\n-> repair the tool call\n\nmissing context\n-> retrieve specific source\n\nfailed test\n-> inspect failing behavior\n\npermission denied\n-> request approval or choose safe path\n\ncontradictory requirements\n-> escalate to human\n\nrepeated unchanged failure\n-> stop the loop",
+        "content": "```latex\ntool timeout\n-> retry with backoff\n\ninvalid arguments\n-> repair the tool call\n\nmissing context\n-> retrieve specific source\n\nfailed test\n-> inspect failing behavior\n\npermission denied\n-> request approval or choose safe path\n\ncontradictory requirements\n-> escalate to human\n\nrepeated unchanged failure\n-> stop the loop\n```",
+        "language": "latex"
+       },
+       {
+        "code": "\"use the formatter\"\n-> run formatter automatically\n\n\"do not import across layers\"\n-> add architecture test\n\n\"include a migration rollback\"\n-> require rollback file in CI\n\n\"do not modify generated files\"\n-> block writes to generated paths\n\n\"cite every external claim\"\n-> validate citation coverage",
+        "content": "```latex\n\"use the formatter\"\n-> run formatter automatically\n\n\"do not import across layers\"\n-> add architecture test\n\n\"include a migration rollback\"\n-> require rollback file in CI\n\n\"do not modify generated files\"\n-> block writes to generated paths\n\n\"cite every external claim\"\n-> validate citation coverage\n```",
+        "language": "latex"
+       },
+       {
+        "code": "claim                         evidence\n--------------------------------------------------\n\"the bug is fixed\"            failing test now passes\n\"the page works\"              browser flow completed\n\"the migration is safe\"       dry run and rollback pass\n\"the report is correct\"       values match source data\n\"the task is complete\"        every acceptance check passes",
+        "content": "```latex\nclaim                         evidence\n--------------------------------------------------\n\"the bug is fixed\"            failing test now passes\n\"the page works\"              browser flow completed\n\"the migration is safe\"       dry run and rollback pass\n\"the report is correct\"       values match source data\n\"the task is complete\"        every acceptance check passes\n```",
+        "language": "latex"
+       },
+       {
+        "code": "TOOL: edit_file\n\ninputs:\n  path\n  patch\n\npreconditions:\n  path exists\n  path is inside allowed workspace\n\nsuccess evidence:\n  patch applied\n  resulting diff returned\n\nfailure behavior:\n  no partial overwrite\n  structured error returned\n\nrisk class:\n  reversible",
+        "content": "```latex\nTOOL: edit_file\n\ninputs:\n  path\n  patch\n\npreconditions:\n  path exists\n  path is inside allowed workspace\n\nsuccess evidence:\n  patch applied\n  resulting diff returned\n\nfailure behavior:\n  no partial overwrite\n  structured error returned\n\nrisk class:\n  reversible\n```",
+        "language": "latex"
+       },
+       {
+        "code": "failure\n  -> diagnosis\n      -> new sensor, rule, map, test, or tool contract\n          -> future runs improve automatically",
+        "content": "```latex\nfailure\n  -> diagnosis\n      -> new sensor, rule, map, test, or tool contract\n          -> future runs improve automatically\n```",
+        "language": "latex"
+       },
+       {
+        "code": "never publish without approval\nnever expose a secret\nnever write outside the workspace\nnever exceed the spend cap\nnever mark tests passed unless they ran",
+        "content": "```latex\nnever publish without approval\nnever expose a secret\nnever write outside the workspace\nnever exceed the spend cap\nnever mark tests passed unless they ran\n```",
+        "language": "latex"
+       },
+       {
+        "code": "AGENT HARNESS SPEC\n\n1. CONTRACT\n   objective:\n   scope:\n   constraints:\n   acceptance evidence:\n\n2. CONTEXT\n   always-loaded map:\n   retrieval sources:\n   local instructions:\n   freshness rules:\n\n3. TOOLS\n   allowed tools:\n   preconditions:\n   side effects:\n   success evidence:\n   timeout and retry policy:\n\n4. STATE\n   facts:\n   decisions:\n   progress:\n   lessons:\n   checkpoint format:\n\n5. POLICY\n   automatic actions:\n   approval-required actions:\n   prohibited actions:\n   budget limits:\n\n6. VERIFICATION\n   deterministic checks:\n   adversarial checks:\n   acceptance rule:\n\n7. RECOVERY\n   failure classes:\n   retry limits:\n   escalation conditions:\n   safe rollback:\n\n8. OBSERVABILITY\n   trace events:\n   metrics:\n   final change receipt:",
+        "content": "```latex\nAGENT HARNESS SPEC\n\n1. CONTRACT\n   objective:\n   scope:\n   constraints:\n   acceptance evidence:\n\n2. CONTEXT\n   always-loaded map:\n   retrieval sources:\n   local instructions:\n   freshness rules:\n\n3. TOOLS\n   allowed tools:\n   preconditions:\n   side effects:\n   success evidence:\n   timeout and retry policy:\n\n4. STATE\n   facts:\n   decisions:\n   progress:\n   lessons:\n   checkpoint format:\n\n5. POLICY\n   automatic actions:\n   approval-required actions:\n   prohibited actions:\n   budget limits:\n\n6. VERIFICATION\n   deterministic checks:\n   adversarial checks:\n   acceptance rule:\n\n7. RECOVERY\n   failure classes:\n   retry limits:\n   escalation conditions:\n   safe rollback:\n\n8. OBSERVABILITY\n   trace events:\n   metrics:\n   final change receipt:\n```",
+        "language": "latex"
+       },
+       {
+        "code": "09:14  contract created\n09:15  context source loaded: architecture.md\n09:17  file edited: checkout.ts\n09:18  focused test failed: duplicate coupon\n09:21  implementation repaired\n09:22  focused test passed\n09:24  integration test passed\n09:25  external deployment blocked: approval required",
+        "content": "```latex\n09:14  contract created\n09:15  context source loaded: architecture.md\n09:17  file edited: checkout.ts\n09:18  focused test failed: duplicate coupon\n09:21  implementation repaired\n09:22  focused test passed\n09:24  integration test passed\n09:25  external deployment blocked: approval required\n```",
+        "language": "latex"
+       },
+       {
+        "code": "BRAIN\nplans, reasons, chooses\n\nHANDS\nexecute tools inside a controlled environment\n\nHISTORY\nstores durable facts, decisions, and run state",
+        "content": "```latex\nBRAIN\nplans, reasons, chooses\n\nHANDS\nexecute tools inside a controlled environment\n\nHISTORY\nstores durable facts, decisions, and run state\n```",
+        "language": "latex"
+       },
+       {
+        "code": "objective: reduce onboarding drop-off\n\nscope:\n  - signup flow\n  - onboarding analytics\n\nconstraints:\n  - do not change authentication\n  - preserve existing mobile behavior\n\nacceptance:\n  - tests pass\n  - analytics event is emitted\n  - screenshots cover desktop and mobile\n\napproval_required:\n  - production deployment\n  - database migration",
+        "content": "```yaml\nobjective: reduce onboarding drop-off\n\nscope:\n  - signup flow\n  - onboarding analytics\n\nconstraints:\n  - do not change authentication\n  - preserve existing mobile behavior\n\nacceptance:\n  - tests pass\n  - analytics event is emitted\n  - screenshots cover desktop and mobile\n\napproval_required:\n  - production deployment\n  - database migration\n```",
+        "language": "yaml"
+       },
+       {
+        "code": "worker\n  -> produces candidate\n\nverifier\n  -> checks contract\n  -> searches for missing cases\n  -> tests unsupported claims\n  -> attempts to break result\n\nsurvives\n  -> accept\n\nfails\n  -> return targeted evidence",
+        "content": "```latex\nworker\n  -> produces candidate\n\nverifier\n  -> checks contract\n  -> searches for missing cases\n  -> tests unsupported claims\n  -> attempts to break result\n\nsurvives\n  -> accept\n\nfails\n  -> return targeted evidence\n```",
+        "language": "latex"
+       },
+       {
+        "code": "user request\n     |\n     v\n+-----------------------------+\n|           HARNESS           |\n| contract | context | policy |\n| tools    | state   | checks |\n| traces   | recovery          |\n+-----------------------------+\n     |\n     v\n    model\n     |\n     v\nreal environment",
+        "content": "```latex\nuser request\n     |\n     v\n+-----------------------------+\n|           HARNESS           |\n| contract | context | policy |\n| tools    | state   | checks |\n| traces   | recovery          |\n+-----------------------------+\n     |\n     v\n    model\n     |\n     v\nreal environment\n```",
+        "language": "latex"
+       }
+      ],
+      "mentions": [
+       {
+        "end": 136,
+        "start": 120,
+        "username": "lunarresearcher"
+       },
+       {
+        "end": 23,
+        "start": 7,
+        "username": "LunarResearcher"
+       }
+      ],
+      "urls": [
+       {
+        "text": "https://substack.com/@lunarresearcher"
+       },
+       {
+        "text": "https://x.com/LunarResearcher"
+       },
+       {
+        "text": "https://lunarresearcher.substack.com/subscribe?next=https%3A%2F%2Fsubstack.com%2F%40whrrari%2Fnotes&utm_source=profile-page&utm_medium=web&utm_campaign=substack_profile&just_signed_up=true"
+       },
+       {
+        "text": "https://lunarresearcher.substack.com/subscribe?next=https%3A%2F%2Fsubstack.com%2F%40whrrari%2Fnotes&utm_source=profile-page&utm_medium=web&utm_campaign=substack_profile&just_signed_up=true"
+       }
+      ]
+     },
+     "media_entities": [
+      "3_2096544478869757954",
+      "3_2096543930527735808",
+      "3_2096544387451039744",
+      "3_2096544319096127488",
+      "3_2096544664472203265",
+      "3_2096544593495924740",
+      "3_2096544248107872256",
+      "3_2096544076116156416",
+      "3_2096545003900403712",
+      "3_2096543866694565888",
+      "3_2096544006230421505",
+      "3_2096544786110984193"
+     ],
+     "plain_text": "Most people are trying to improve AI agents at the wrong layer.\nWhen an agent fails, they rewrite the prompt.\nWhen it fails again, they add more instructions.\nBefore we start:\nFollow my Substack for fresh AI alpha, agent workflows, and step-by-step guides before they hit X: https://substack.com/@lunarresearcher\nThen they switch models, add more tools, increase the context window, and hope the next run behaves differently.\nBut many agent failures are not reasoning failures.\nThey are environment failures.\nThe agent did not know which files mattered.\nIt used the right tool in the wrong place.\nIt lost the decisions made in the previous session.\nIt claimed success without running the checks.\nIt repeated an action after a partial failure.\nIt had permission to do something that should have required approval.\nThe model was not necessarily the problem. The system around the model was incomplete.\nThat system is the harness.\nAnd designing it is becoming its own engineering discipline.\nHarness Engineering is the practice of building the environment that turns model intelligence into reliable work.\nA prompt changes one attempt.\nA harness changes every attempt.\nThis guide explains how to build one.\n \n \n1. The Model Is Not the Agent\nA model can reason, generate, compare, and choose.\nBut an agent must also interact with a real environment.\nIt needs to:\nunderstand the task\nfind the relevant context\nselect and use tools\npreserve state\nrespect permissions\ninspect the result\nrecover from failure\nprove that the work is complete\nThe model is the reasoning engine inside that system.\nThe harness is everything that makes the reasoning operational.\n \nA powerful model inside a weak harness is still a weak agent.\n \nIt may produce impressive individual responses, but it will behave inconsistently across long tasks, changing environments, and partial failures.\nThe goal of harness engineering is not to remove uncertainty from the model.\nIt is to contain that uncertainty inside a system that can observe, verify, and recover.\n \n2. Start With a Task Contract\nMost agent tasks begin as vague intent:\nImprove the onboarding flow.\nThat sentence may be enough for a conversation.\nIt is not enough for autonomous execution.\nBefore the agent acts, the harness should convert the request into a task contract.\nA useful contract answers five questions:\n \nWhat outcome must exist?\n\nWhat is inside the scope?\nWhat must not change?\nWhat evidence proves completion?\nWhich actions require human approval?\n \nThis changes the agent's question from:\nWhat should I do next?\nto:\nWhat action moves the environment toward the contracted outcome?\nWithout a contract, the agent optimizes for plausible activity.\nWith a contract, it can optimize for verified completion.\n \n3. Give the Agent a Map, Not a Manual\nDumping the entire repository, documentation set, and conversation history into context is not good context engineering.\nIt is context flooding.\n \nThe harness should provide a small map first, then let the agent retrieve details when they become relevant.\n \nThis is progressive disclosure:\n \nThe context should expand because the task requires it, not because the information exists.\nA good context compiler decides:\nwhat is always needed\nwhat can be retrieved later\nwhat has become stale\nwhat can be summarized\nwhat must remain verbatim\nThe objective is not maximum context.\nIt is maximum signal per token.\n \n4. Build a Tool Gateway, Not a Tool Pile\nGiving an agent twenty tools does not make it capable.\nIt gives the agent twenty ways to make a mistake.\n \nEvery tool should have a clear contract:\n \nThe harness should control how tools are exposed and used.\nIt can:\nhide irrelevant tools\nvalidate arguments\nrestrict paths and domains\nattach timeouts\nmake retries idempotent\nnormalize outputs\nrequire confirmation for risky actions\nreturn evidence, not just \"success\"\nThis creates an important separation:\n \nThe model can propose an action.\nThe tool gateway decides whether that action is valid enough to execute.\n \n5. Separate the Brain, the Hands, and the History\nMany fragile agents mix everything into one growing transcript.\nReasoning, tool calls, files, decisions, errors, and old observations all compete for the same context window.\nA stronger system separates three responsibilities:\n \n \nThe model does not need every raw event in active context.\nIt needs the right current state.\nThe sandbox does not need to understand the entire objective.\nIt needs to safely execute a bounded action.\nThe session log does not need to reason.\nIt needs to preserve what happened after the current context disappears.\nThis separation makes long-running agents easier to resume, inspect, and repair.\nIt also lets you replace one part without rebuilding the entire system.\n \n6. Memory Must Become Durable State\nConversation history is not reliable memory.\nIt is an event stream.\nUseful memory should be converted into explicit state.\n \nAt minimum, preserve four categories:\n \nFor example:\n \nThis is far more useful than replaying fifty pages of transcript and hoping the model notices the important line.\nStore raw history for auditability.\nCompile durable state for execution.\n \n7. Completion Requires Evidence\nAn agent saying \"done\" is not evidence that the task is done.\nIt is only another model output.\n \nCompletion must be decided by observable changes in the environment.\n \nThe harness should run the cheapest deterministic checks first.\n \nDo not use another model where a compiler, schema, checksum, query, or test can answer the question.\nUse models for ambiguity.\nUse code for plumbing.\nA model can propose that the task is complete.\nOnly the environment can prove it.\n \n8. Verification Should Attack the Result\nWorkers and evaluators should not share the same objective.\nThe worker tries to create the strongest solution.\nThe evaluator tries to find the reason it should be rejected.\n \n \nThis asymmetry matters.\nIf you ask the same agent, in the same context, to \"double-check its work,\" it often preserves the assumptions that created the mistake.\nA useful verification stage should have:\nan explicit rejection rubric\naccess to the produced artifact\naccess to the acceptance contract\nindependent tools or fresh context when needed\npermission to reject without repairing\nVerification is not a second opinion.\nIt is an attempted disproof.\n \n9. The Model Proposes, the Policy Authorizes\nSome rules should never depend on whether the model remembers them.\n \nThese are not prompt suggestions.\nThey are policy.\nThe safest design keeps policy outside the reasoning loop.\n \n \nThe stronger the consequence, the harder the gate.\nAutonomy is not the absence of control.\nIt is the ability to operate freely inside a clearly enforced boundary.\n \n10. Recovery Should Target the Failure Class\nThe most common recovery strategy is:\nSomething failed. Try again.\nThat is not recovery.\nIt is repetition.\n \nThe harness should classify the failure before selecting the next action.\n \nA retry should change at least one relevant condition.\nOtherwise the system is paying to reproduce the same failure.\nA bounded agent loop looks like this:\n \nEvery loop needs a budget:\nmaximum attempts\nmaximum time\nmaximum spend\nmaximum destructive scope\nescalation condition\nReliable agents know how to continue.\nThey also know when continuing is no longer rational.\n \n11. Instructions Should Become Infrastructure\nAgent instructions are useful when they explain local reality.\nBut instructions alone are weak enforcement.\nIf a rule matters repeatedly, move it down the stack.\n \nThis creates an instruction ladder:\n \nMove important knowledge as far down that ladder as practical.\nThe prompt should explain judgment.\nThe harness should enforce invariants.\n \n12. Observe the Run, Not Just the Final Answer\nA clean final artifact can hide a terrible process.\nThe agent may have:\naccessed the wrong data\nignored a failed command\nretried an external action twice\nconsumed ten times the expected budget\nreached the right answer for the wrong reason\nYou need traces that make the run reconstructable.\n \nA useful trace records:\nstate transitions\ncontext sources\ntool inputs and outputs\nenvironment changes\nverification results\nretry reasons\napproval decisions\ncost and latency\nThe goal is not surveillance.\nThe goal is local repair.\nWhen a run fails at step 18, you should be able to restart from a trustworthy checkpoint instead of replaying the entire task.\n \n13. Every Run Needs a Change Receipt\nLong agent transcripts are difficult to review.\nAt the end of a run, the harness should compile a small change receipt.\n \nThe receipt is not a summary of what the model said.\nIt is a summary of what the system can prove.\nThis gives humans a compact review surface and gives the next agent session a trustworthy starting point.\nThe best handoff is not \"here is the conversation.\"\nIt is \"here is the state, the evidence, and the unresolved risk.\"\n \n14. Every Failure Should Upgrade the Harness\nThe weakest teams fix the failed output.\nThe strongest teams also fix the system that allowed it.\nAfter a failure, ask:\n \nThen convert the lesson into a reusable improvement.\n \nThis is the harness flywheel.\nThe system becomes more reliable because failures leave infrastructure behind.\nA corrected answer helps one run.\nA corrected harness helps every future run.\n \n \n15. Harnesses Decay Too\nMore harness is not always better.\nModels improve. Tools improve. Tasks change. Old safeguards can become unnecessary friction.\nA workaround created for yesterday's model may prevent today's model from using a better strategy.\nThis creates harness decay:\n \nTreat harness components like production code.\nMeasure whether they still provide lift.\nFor every router, evaluator, memory layer, and retry rule, ask:\nWhich failure does this prevent?\nHow often does that failure still occur?\nWhat latency and complexity does this add?\nCan the same result now be achieved more simply?\nWhat happens if we remove it?\nThe best harness is not the largest one.\nIt is the smallest system that reliably closes the gap between intent and evidence.\nBuild to delete.\n \n16. The Minimum Viable Harness\nYou do not need an orchestration platform to begin.\nBuild the harness in layers.\nLevel 1: A bounded task\nobjective\nscope\nconstraints\nacceptance checks\nLevel 2: A legible environment\nproject map\ncommands\nlocal instructions\nknown dependencies\nLevel 3: Controlled actions\ntyped tools\nargument validation\npath and permission boundaries\nstructured results\nLevel 4: Durable execution\nexplicit run state\ncheckpoints\ndecisions\nlessons\nLevel 5: Evidence\ndeterministic checks\nadversarial verification\nchange receipt\nLevel 6: Recovery and learning\nfailure classification\nbounded retries\nescalation\nharness updates from recurring failures\nBuild the smallest layer that eliminates the failure you actually have.\nDo not begin with a multi-agent architecture because a single prompt occasionally needs clarification.\nComplexity should be earned by observed failure.\n \n17. A Reusable Harness Specification\nBefore giving an agent meaningful autonomy, define this:\n \nIf these fields are undefined, the agent is not autonomous.\nIt is improvising.\n \n18. Measure the System at the Right Level\nToken count is not the final metric.\nNeither is the number of tasks attempted.\nThe useful unit is accepted work.\nA practical metric is:\n \nAlso track:\nfirst-pass acceptance rate\nrecovery rate after tool failure\nrepeated failure rate\nhuman interventions per task\nunsupported completion claims\ntime from request to verified outcome\nharness overhead by component\nThis prevents a common illusion:\nAn agent can look highly productive while creating expensive review work.\nThe objective is not more agent activity.\nIt is more trusted outcomes per unit of human attention.\n \n19. When You Do Not Need a Heavy Harness\nNot every model call needs an operating system.\nUse a simple prompt when:\nthe task is short\nthe output is easy to inspect\nfailure is cheap\nno external side effect occurs\nthe user remains in the loop\nAdd a harness when:\nwork spans multiple tools or sessions\nthe environment can change\nactions have real consequences\ncompletion is difficult to judge manually\nthe same failure appears repeatedly\nhuman review becomes the bottleneck\nThe purpose of a harness is not to make a demo look sophisticated.\nIt is to make real work dependable.\n \nThe Real Shift\nThe first generation of AI products was built around prompts.\nThe next generation is being built around environments.\nThe question is no longer only:\nHow do we make the model answer better?\nIt is:\nHow do we build a system where good actions are easy, dangerous actions are controlled, failures are visible, and completion is provable?\nThat is the shift from prompt engineering to harness engineering.\nThe model supplies intelligence.\nThe harness supplies structure.\nTogether they produce reliable execution.\nIf your agent keeps falling apart, stop adding adjectives to the prompt.\nBuild the environment it needs to succeed.\n \nIf You Made It This Far\nBookmark this guide.\nFollow @LunarResearcher on X\nSubscribe to my Substack\nSend this article to someone who is still trying to fix every agent failure with a longer prompt.",
+     "preview_text": "Most people are trying to improve AI agents at the wrong layer.\nWhen an agent fails, they rewrite the prompt.\nWhen it fails again, they add more instructions.\nBefore we start:\nFollow my Substack for",
+     "title": "Harness Engineering: The Complete Guide to Building AI Agents That Don't Fall Apart"
+    },
+    "article_title": {
+     "title": "Harness Engineering: The Complete Guide to Building AI Agents That Don't Fall Apart"
+    },
+    "author_id": "1734057981975642113",
+    "conversation_id": "2096570562625655088",
+    "created_at": "2026-09-06T12:05:49.000Z",
+    "edit_history_post_ids": [
+     "2096570562625655088"
+    ],
+    "entities": {
+     "urls": [
+      {
+       "display_url": "x.com/i/article/2096…",
+       "end": 23,
+       "expanded_url": "https://x.com/i/article/2096536117130481673",
+       "start": 0,
+       "status": 404,
+       "unwound_url": "https://x.com/i/article/2096536117130481673",
+       "url": "https://t.co/X1bBruM26X"
+      }
+     ]
+    },
+    "id": "2096570562625655088",
+    "lang": "zxx",
+    "public_metrics": {
+     "bookmark_count": 5558,
+     "impression_count": 2955968,
+     "like_count": 1447,
+     "quote_count": 61,
+     "reply_count": 43,
+     "repost_count": 206
+    },
+    "text": "https://t.co/X1bBruM26X"
+   }
+  ],
+  "media": [
+   {
+    "media_key": "13_2116959813636874240",
+    "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2116959813636874240/img/BpM2ygu4J6yvD6dV.jpg",
+    "type": "video"
+   },
+   {
+    "media_key": "3_2116870186007457792",
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HWCiN_CW8AAjOh9.jpg"
+   },
+   {
+    "media_key": "13_2116918922662350848",
+    "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2116918922662350848/img/EL-GrIubICvFyrBp.jpg",
+    "type": "video"
+   },
+   {
+    "media_key": "13_2116518594754322432",
+    "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2116518594754322432/img/2VXm8VMIKQALkAFs.jpg",
+    "type": "video"
+   }
+  ]
+ }
+}

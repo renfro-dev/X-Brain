@@ -10,9 +10,12 @@ sources:
   - "[[raw/2026-10-23-hayatomaruu-2113719510985269442]]"
   - "[[raw/2026-10-30-hanakoxbt-2116267647100707095]]"
   - "[[raw/2026-10-27-Grow_withAI-2115062331227226349]]"
-source_count: 3
+  - "[[raw/2026-11-01-damkina7-2116870392300073128]]"
+  - "[[raw/2026-11-01-hayatomaruu-2117003050090938646]]"
+  - "[[raw/2026-10-31-LunarResearcher-2116522516915028254]]"
+source_count: 6
 created: 2026-10-26
-updated: 2026-10-31
+updated: 2026-11-02
 ---
 # Claude Opus 5.5
 
@@ -21,8 +24,14 @@ The model targeted by the harness guide quoted in [[raw/2026-10-23-hayatomaruu-2
 ## Added 2026-10-31
 - Named as the base model in [[raw/2026-10-30-hanakoxbt-2116267647100707095|@hanakoxbt]] (loops & graphs promo) and [[raw/2026-10-27-Grow_withAI-2115062331227226349|@Grow_withAI]] ("Opus 5.5 → Agents → Harnesses → Loops → Graphs").
 
+## Added 2026-11-02
+- Cast as the planner and reviewer in [[raw/2026-11-01-damkina7-2116870392300073128|@damkina7]]'s setup, as "just the brain" in [[raw/2026-11-01-hayatomaruu-2117003050090938646|@hayatomaruu]], and as a model you shouldn't prompt directly in [[raw/2026-10-31-LunarResearcher-2116522516915028254|@LunarResearcher]]. See [[wiki/concepts/model-routing|Model routing]].
+
 ## Sources
 
 - [[raw/2026-10-23-hayatomaruu-2113719510985269442]]
 - [[raw/2026-10-30-hanakoxbt-2116267647100707095]]
 - [[raw/2026-10-27-Grow_withAI-2115062331227226349]]
+- [[raw/2026-11-01-damkina7-2116870392300073128]]
+- [[raw/2026-11-01-hayatomaruu-2117003050090938646]]
+- [[raw/2026-10-31-LunarResearcher-2116522516915028254]]
