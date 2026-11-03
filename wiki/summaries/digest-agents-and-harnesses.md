@@ -16,9 +16,10 @@ sources:
   - "[[raw/2026-11-01-hayatomaruu-2117003050090938646]]"
   - "[[raw/2026-10-31-LunarResearcher-2116522516915028254]]"
   - "[[raw/2026-11-01-suraj_sharma14-2116787322716885503]]"
-source_count: 10
+  - "[[raw/2026-11-02-hanakoxbt-2117365616579666418]]"
+source_count: 11
 created: 2026-10-26
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 # Digest — Agent harnesses & agentic orgs
 
@@ -45,6 +46,10 @@ Four new agent bookmarks, all on the same message: the system around the model m
 - A 25-question design checklist: [[raw/2026-11-01-suraj_sharma14-2116787322716885503|@suraj_sharma14]]. See [[wiki/concepts/agent-system-design-questions|Agent system design questions]].
 Caution: two of these lean on unverified "Anthropic engineer" or Karpathy quotes.
 
+## Added 2026-11-03
+
+- [[raw/2026-11-02-hanakoxbt-2117365616579666418|@hanakoxbt]]: re-share of the "Loops and Graphs" course, now billed as an Anthropic paper (unverified). See [[wiki/concepts/agent-loops-and-graphs|Agent loops & graphs]].
+
 ## Sources
 
 - [[raw/2026-10-23-hayatomaruu-2113719510985269442]]
@@ -57,3 +62,4 @@ Caution: two of these lean on unverified "Anthropic engineer" or Karpathy quotes
 - [[raw/2026-11-01-hayatomaruu-2117003050090938646]]
 - [[raw/2026-10-31-LunarResearcher-2116522516915028254]]
 - [[raw/2026-11-01-suraj_sharma14-2116787322716885503]]
+- [[raw/2026-11-02-hanakoxbt-2117365616579666418]]

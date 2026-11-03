@@ -15,9 +15,10 @@ sources:
   - "[[raw/2026-10-30-hanakoxbt-2116267647100707095]]"
   - "[[raw/2026-10-27-Dhruvkumar16797-2114897217425449463]]"
   - "[[raw/2026-11-01-hayatomaruu-2117003050090938646]]"
-source_count: 4
+  - "[[raw/2026-11-02-hanakoxbt-2117365616579666418]]"
+source_count: 5
 created: 2026-10-31
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 # Agent Loops & Graphs
 
@@ -34,9 +35,14 @@ All three agree that reliability comes from structure, not a better model: a che
 ## Added 2026-11-02
 - [[wiki/entities/people/beamnxw|@beamnxw]]'s article (quoted in [[raw/2026-11-01-hayatomaruu-2117003050090938646|@hayatomaruu]]) gives a clean split: harness = the machinery around the model, loop = the repeated work-and-feedback cycle, graph = explicit workflow topology (nodes, branches, joins, controlled cycles); "environment → feedback → flow". A well-built loop names its trigger, goal, state, action policy, evidence, feedback and stopping rule, and the article says "Do not loop on confidence. Loop on evidence." Graphs are worth it when there are branches, parallel work, approvals or several specialist agents; the graph runs inside the harness and the loops live inside the graph.
 
+## Added 2026-11-03
+
+- [[raw/2026-11-02-hanakoxbt-2117365616579666418|@hanakoxbt]] re-promotes the same article as a "9-step loop" to wrap around [[wiki/entities/tools/claude-code|Claude Code]] before it touches a repo, claiming it takes an agent "from guessing to planning, checking and fixing its own work", and that Anthropic's docs recommend "these exact pieces". The "Anthropic paper" label is unverified; the source is Hanako's own article. No new technique beyond the Oct 30 capture.
+
 ## Sources
 
 - [[raw/2026-10-25-m4lkxx-2114338456750997922]]
 - [[raw/2026-10-30-hanakoxbt-2116267647100707095]]
 - [[raw/2026-10-27-Dhruvkumar16797-2114897217425449463]]
 - [[raw/2026-11-01-hayatomaruu-2117003050090938646]]
+- [[raw/2026-11-02-hanakoxbt-2117365616579666418]]

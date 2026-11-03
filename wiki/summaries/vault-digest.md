@@ -21,9 +21,11 @@ sources:
   - "[[raw/2026-11-01-damkina7-2116870392300073128]]"
   - "[[raw/2026-11-01-hayatomaruu-2117003050090938646]]"
   - "[[raw/2026-10-31-LunarResearcher-2116522516915028254]]"
-source_count: 15
+  - "[[raw/2026-11-02-hanakoxbt-2117365616579666418]]"
+  - "[[raw/2026-11-02-renfrodotdev-2117273838153298014]]"
+source_count: 17
 created: 2026-10-26
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 # Vault digest
 
@@ -48,6 +50,10 @@ Sync 2026-11-02 (+5, now 15 bookmarks):
 7. **Agent design interview checklist** (1): [[raw/2026-11-01-suraj_sharma14-2116787322716885503|@suraj_sharma14]], new [[wiki/concepts/agent-system-design-questions|page]].
 Capture notes: 4 quotes, each with a full quoted X Article and code blocks, and 1 post. Four videos are captured only as media links; their transcripts are not in the vault.
 
+## Sync 2026-11-03 (+2 → 17 bookmarks)
+
+Loops & graphs (1): [[raw/2026-11-02-hanakoxbt-2117365616579666418|@hanakoxbt]], a re-share of the already-captured Loops and Graphs article, now labeled an "Anthropic paper" (unverified). LLM usage (1): [[raw/2026-11-02-renfrodotdev-2117273838153298014|@renfrodotdev]], Joshua's own share of a YouTube video about how Karpathy uses LLMs (link and title only).
+
 ## Sources
 
 - [[raw/2026-10-25-danikkk_wqs-2114344135415021632]]
@@ -65,3 +71,5 @@ Capture notes: 4 quotes, each with a full quoted X Article and code blocks, and 
 - [[raw/2026-11-01-damkina7-2116870392300073128]]
 - [[raw/2026-11-01-hayatomaruu-2117003050090938646]]
 - [[raw/2026-10-31-LunarResearcher-2116522516915028254]]
+- [[raw/2026-11-02-hanakoxbt-2117365616579666418]]
+- [[raw/2026-11-02-renfrodotdev-2117273838153298014]]

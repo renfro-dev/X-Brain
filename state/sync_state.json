@@ -2,12 +2,14 @@
  "schema_version": 1,
  "user_id": "924000909960519680",
  "username": "renfrodotdev",
- "last_sync": "2026-11-02",
- "last_sync_local_time": "2026-11-02 07:30 (America/Los_Angeles)",
- "bookmark_count": 15,
- "newest_post_id": "2117003050090938646",
- "most_recently_bookmarked_post_id": "2116963310277202003",
+ "last_sync": "2026-11-03",
+ "last_sync_local_time": "2026-11-03 07:15 (America/Los_Angeles)",
+ "bookmark_count": 17,
+ "newest_post_id": "2117365616579666418",
+ "most_recently_bookmarked_post_id": "2117365616579666418",
  "bookmark_order_head": [
+  "2117365616579666418",
+  "2117273838153298014",
   "2116963310277202003",
   "2116787322716885503",
   "2116870392300073128",
@@ -41,7 +43,9 @@
   "2116787322716885503",
   "2116870392300073128",
   "2116963310277202003",
-  "2117003050090938646"
+  "2117003050090938646",
+  "2117273838153298014",
+  "2117365616579666418"
  ],
  "folders": [],
  "post_id_to_raw_file": {
@@ -59,7 +63,9 @@
   "2116787322716885503": "raw/2026-11-01-suraj_sharma14-2116787322716885503.md",
   "2116870392300073128": "raw/2026-11-01-damkina7-2116870392300073128.md",
   "2117003050090938646": "raw/2026-11-01-hayatomaruu-2117003050090938646.md",
-  "2116522516915028254": "raw/2026-10-31-LunarResearcher-2116522516915028254.md"
+  "2116522516915028254": "raw/2026-10-31-LunarResearcher-2116522516915028254.md",
+  "2117365616579666418": "raw/2026-11-02-hanakoxbt-2117365616579666418.md",
+  "2117273838153298014": "raw/2026-11-02-renfrodotdev-2117273838153298014.md"
  },
  "dedupe_notes": "get_users_bookmarks returns posts in bookmark order (most recently bookmarked first), NOT post-date order. On sync, page with small max_results (10) and stop when an entire page is already seen, where seen = in captured_post_ids OR in state/exclusions.json. Excluded ids are skipped silently and never re-captured. bookmark_order_head lists the kept ids in the order X returned them; excluded bookmarks may sit between them in the live list. newest_post_id is the max post id captured (newest post by date), which is not necessarily the most recently bookmarked; use most_recently_bookmarked_post_id / bookmark_order_head to detect the head of the list.",
  "fetch_params": {

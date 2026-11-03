@@ -1,0 +1,137 @@
+{
+ "data": [
+  {
+   "attachments": {
+    "media_keys": [
+     "3_2117360285111480320"
+    ]
+   },
+   "author_id": "1179477544439091201",
+   "conversation_id": "2117365616579666418",
+   "created_at": "2026-11-02T21:17:56.000Z",
+   "edit_history_post_ids": [
+    "2117365616579666418"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "display_url": "pic.x.com/0Hnof4XOp1",
+      "end": 302,
+      "expanded_url": "https://x.com/hanakoxbt/status/2117365616579666418/photo/1",
+      "media_key": "3_2117360285111480320",
+      "start": 279,
+      "url": "https://t.co/0Hnof4XOp1"
+     },
+     {
+      "display_url": "x.com/hanakoxbt/stat…",
+      "end": 326,
+      "expanded_url": "https://twitter.com/hanakoxbt/status/2091515787366306154",
+      "start": 303,
+      "url": "https://t.co/fEPJmINT63"
+     }
+    ]
+   },
+   "id": "2117365616579666418",
+   "lang": "en",
+   "note_tweet": {
+    "text": "this Anthropic paper f*cking insane\n\nit's pretty much the 9-step loop top AI engineers wrap around Claude Code before they let it touch a repo.\n\nevery step, every formula, the full copy-paste template, all of it spelled out.\n\npaste it into Opus 5.5 once and your agent goes from guessing to planning, checking and fixing its own work.\n\nthe crazy part is anthropic has been recommending these exact pieces in their own docs the whole time and 99% of people still just type \"fix this bug\" and wonder why the agent breaks things.\n\nbookmark it before this thread gets buried.\n\nthen read the full Graph Engineering guide below ↓"
+   },
+   "public_metrics": {
+    "bookmark_count": 1261,
+    "impression_count": 73578,
+    "like_count": 592,
+    "quote_count": 2,
+    "reply_count": 27,
+    "repost_count": 46
+   },
+   "referenced_tweets": [
+    {
+     "id": "2091515787366306154",
+     "type": "quoted"
+    }
+   ],
+   "text": "this Anthropic paper f*cking insane\n\nit's pretty much the 9-step loop top AI engineers wrap around Claude Code before they let it touch a repo.\n\nevery step, every formula, the full copy-paste template, all of it spelled out.\n\npaste it into Opus 5.5 once and your agent goes from https://t.co/0Hnof4XOp1 https://t.co/fEPJmINT63",
+   "url": "https://x.com/hanakoxbt/status/2117365616579666418"
+  },
+  {
+   "author_id": "924000909960519680",
+   "conversation_id": "2117273838153298014",
+   "created_at": "2026-11-02T15:13:14.000Z",
+   "edit_history_post_ids": [
+    "2117273838153298014"
+   ],
+   "entities": {
+    "mentions": [
+     {
+      "end": 107,
+      "id": "10228272",
+      "start": 99,
+      "username": "YouTube"
+     }
+    ],
+    "urls": [
+     {
+      "description": "Andrej Karpathy spent 8 years at OpenAI and TeslaLast week, he co...",
+      "display_url": "youtu.be/7YEHs2SMaVQ?is…",
+      "end": 94,
+      "expanded_url": "https://youtu.be/7YEHs2SMaVQ?is=4o63FCX_0L9oOypN",
+      "images": [
+       {
+        "height": 720,
+        "url": "https://pbs.twimg.com/news_img/2116521599130292225/WsQwERKs?format=jpg&name=orig",
+        "width": 1280
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2116521599130292225/WsQwERKs?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 71,
+      "status": 200,
+      "title": "Andrej Karpathy: \"99% Use AI & LLMs Wrong\" (Here’s How He Does It)",
+      "unwound_url": "https://www.youtube.com/watch?is=4o63FCX_0L9oOypN&v=7YEHs2SMaVQ&feature=youtu.be",
+      "url": "https://t.co/21ENoBYlBh"
+     }
+    ]
+   },
+   "id": "2117273838153298014",
+   "lang": "en",
+   "public_metrics": {
+    "bookmark_count": 1,
+    "impression_count": 4,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "repost_count": 0
+   },
+   "text": "Andrej Karpathy: \"99% Use AI &amp; LLMs Wrong\" (Here’s How He Does It) https://t.co/21ENoBYlBh via @YouTube",
+   "url": "https://x.com/renfrodotdev/status/2117273838153298014"
+  }
+ ],
+ "includes": {
+  "tweets": [],
+  "users": [
+   {
+    "id": "1179477544439091201",
+    "name": "Hanako",
+    "username": "hanakoxbt"
+   },
+   {
+    "id": "924000909960519680",
+    "name": "Joshua Renfro",
+    "username": "renfrodotdev"
+   }
+  ],
+  "media": [
+   {
+    "media_key": "3_2117360285111480320",
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HWJf9geW8AAXhAJ.jpg"
+   }
+  ]
+ },
+ "meta": {
+  "note": "filtered to new ids from page 1"
+ }
+}

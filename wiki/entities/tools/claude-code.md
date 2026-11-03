@@ -13,9 +13,10 @@ sources:
   - "[[raw/2026-09-28-rvaniaaaa-2104602707675718102]]"
   - "[[raw/2026-11-01-mojeskoqq-2116963310277202003]]"
   - "[[raw/2026-11-01-damkina7-2116870392300073128]]"
-source_count: 5
+  - "[[raw/2026-11-02-hanakoxbt-2117365616579666418]]"
+source_count: 6
 created: 2026-10-26
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 # Claude Code
 
@@ -26,6 +27,10 @@ Concepts: [[wiki/concepts/claude-code-ecosystem|Claude Code ecosystem]], [[wiki/
 ## Added 2026-11-02
 - Memory layers (`CLAUDE.md`, `.claude/rules/`, skills, auto memory) from [[raw/2026-11-01-mojeskoqq-2116963310277202003|@mojeskoqq]] and a per-model settings and subagent setup from [[raw/2026-11-01-damkina7-2116870392300073128|@damkina7]]. See [[wiki/concepts/claude-code-ecosystem|Claude Code ecosystem]].
 
+## Added 2026-11-03
+
+- [[raw/2026-11-02-hanakoxbt-2117365616579666418|@hanakoxbt]] pitches a "9-step loop" (Hanako's Loops and Graphs article) to wrap around Claude Code before letting it touch a repo, and says most people "just type \"fix this bug\"". See [[wiki/concepts/agent-loops-and-graphs|Agent loops & graphs]].
+
 ## Sources
 
 - [[raw/2026-10-23-hayatomaruu-2113719510985269442]]
@@ -33,3 +38,4 @@ Concepts: [[wiki/concepts/claude-code-ecosystem|Claude Code ecosystem]], [[wiki/
 - [[raw/2026-09-28-rvaniaaaa-2104602707675718102]]
 - [[raw/2026-11-01-mojeskoqq-2116963310277202003]]
 - [[raw/2026-11-01-damkina7-2116870392300073128]]
+- [[raw/2026-11-02-hanakoxbt-2117365616579666418]]

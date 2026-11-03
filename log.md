@@ -38,3 +38,11 @@ Append-only. Newest entries at the bottom. Format: `## YYYY-MM-DD — <action>`.
 - Extended: `agent-harness-engineering`, `agent-loops-and-graphs`, `llm-knowledge-bases`, `claude-code-ecosystem`, `multi-agent-orchestration`, `verification-and-linting`, `hayatomaruu`, `beamnxw`, `andrej-karpathy`, `claude-code`, `claude-opus-5-5`, `obsidian`, and the three affected digests.
 - Flagged as unverified: the Karpathy quotes in @mojeskoqq and @hayatomaruu (the latter also calls him an "Anthropic engineer", recorded as a contradiction), the "Anthropic engineer" relay in @LunarResearcher, and @damkina7's 18% versus 89% completion figures.
 - Updated `index.md`, `state/sync_state.json` and `maps/concept-map.canvas` (2 new concept nodes).
+
+## 2026-11-03 — sync (+2 bookmarks)
+
+- Read bookmarks for @renfrodotdev via `get_users_bookmarks` (max_results 10, read-only). Page 1 had 2 new ids followed by already-captured ids, so paging stopped. `get_users_bookmark_folders` still returns no folders. No excluded ids were captured.
+- New raw notes: @hanakoxbt (quote of the already-captured "Loops and Graphs" X Article; quoted text reproduced from the 2026-10-31 snapshot because the API omitted it from includes) and @renfrodotdev (Joshua's own post sharing a YouTube video on how Karpathy uses LLMs; link and title only). Added post_ids: 2117365616579666418, 2117273838153298014. API JSON saved in `state/api_snapshots/2026-11-03/`.
+- Extended: `agent-loops-and-graphs`, `hanakoxbt`, `andrej-karpathy`, `claude-code`, `digest-agents-and-harnesses`, `vault-digest`.
+- Flagged as unverified: @hanakoxbt's "Anthropic paper" label (contradiction callout against the earlier "Karpathy prompt" label for the same article) and the YouTube title's framing of Karpathy.
+- Updated `index.md` and `state/sync_state.json`.
