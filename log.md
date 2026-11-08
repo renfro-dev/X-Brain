@@ -46,3 +46,12 @@ Append-only. Newest entries at the bottom. Format: `## YYYY-MM-DD — <action>`.
 - Extended: `agent-loops-and-graphs`, `hanakoxbt`, `andrej-karpathy`, `claude-code`, `digest-agents-and-harnesses`, `vault-digest`.
 - Flagged as unverified: @hanakoxbt's "Anthropic paper" label (contradiction callout against the earlier "Karpathy prompt" label for the same article) and the YouTube title's framing of Karpathy.
 - Updated `index.md` and `state/sync_state.json`.
+
+## 2026-11-08 — sync (+2 bookmarks)
+
+- Read bookmarks for @renfrodotdev via `get_users_bookmarks` (max_results 10, read-only). Page 1 had 2 new ids followed by already-captured ids, so paging stopped. No excluded ids were captured.
+- New raw notes: @s4yonnara (quote; list of 15 GitHub agent-team and trading repos, quoting his X Article "Grok Bot for Beginners") and @undefinedKi (quote; seven harness habits relayed from Addy Osmani, quoting @gippp69's sponsored Viktor article). Added post_ids: 2118814330695073907, 2118825045644513583. API JSON saved in `state/api_snapshots/2026-11-08/`.
+- New wiki pages: tool `grok-bot`; people `s4yonnara` and `undefinedki`.
+- Extended: `multi-agent-orchestration`, `agent-harness-engineering`, `verification-and-linting`, `claude-code-ecosystem`, `always-on-agent-infrastructure`, `claude-code`, `digest-agents-and-harnesses`, `vault-digest`.
+- Flagged as unverified or promotional: the relayed Addy Osmani quote, the @gippp69 article (marked "In partnership with Viktor", promo code), and the repo descriptions and Grok Bot pricing in @s4yonnara's post and article.
+- Rebuilt `index.md` from the vault (also restores the two 2026-11-03 raw notes to the raw list) and updated `state/sync_state.json`.

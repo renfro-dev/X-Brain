@@ -23,9 +23,11 @@ sources:
   - "[[raw/2026-10-31-LunarResearcher-2116522516915028254]]"
   - "[[raw/2026-11-02-hanakoxbt-2117365616579666418]]"
   - "[[raw/2026-11-02-renfrodotdev-2117273838153298014]]"
-source_count: 17
+  - "[[raw/2026-11-06-s4yonnara-2118814330695073907]]"
+  - "[[raw/2026-11-06-undefinedKi-2118825045644513583]]"
+source_count: 19
 created: 2026-10-26
-updated: 2026-11-03
+updated: 2026-11-08
 ---
 # Vault digest
 
@@ -54,6 +56,9 @@ Capture notes: 4 quotes, each with a full quoted X Article and code blocks, and 
 
 Loops & graphs (1): [[raw/2026-11-02-hanakoxbt-2117365616579666418|@hanakoxbt]], a re-share of the already-captured Loops and Graphs article, now labeled an "Anthropic paper" (unverified). LLM usage (1): [[raw/2026-11-02-renfrodotdev-2117273838153298014|@renfrodotdev]], Joshua's own share of a YouTube video about how Karpathy uses LLMs (link and title only).
 
+## Added 2026-11-08
+Sync 2026-11-08 (+2, 19 bookmarks): [[raw/2026-11-06-s4yonnara-2118814330695073907|@s4yonnara]] on ready-made agent teams on GitHub and a beginner's guide to Grok Bot, and [[raw/2026-11-06-undefinedKi-2118825045644513583|@undefinedKi]] on practical harness rules (AGENTS.md, deny lists, test hooks, fresh-chat review).
+
 ## Sources
 
 - [[raw/2026-10-25-danikkk_wqs-2114344135415021632]]
@@ -73,3 +78,5 @@ Loops & graphs (1): [[raw/2026-11-02-hanakoxbt-2117365616579666418|@hanakoxbt]],
 - [[raw/2026-10-31-LunarResearcher-2116522516915028254]]
 - [[raw/2026-11-02-hanakoxbt-2117365616579666418]]
 - [[raw/2026-11-02-renfrodotdev-2117273838153298014]]
+- [[raw/2026-11-06-s4yonnara-2118814330695073907]]
+- [[raw/2026-11-06-undefinedKi-2118825045644513583]]

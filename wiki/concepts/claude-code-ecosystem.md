@@ -14,9 +14,10 @@ sources:
   - "[[raw/2026-09-28-rvaniaaaa-2104602707675718102]]"
   - "[[raw/2026-11-01-mojeskoqq-2116963310277202003]]"
   - "[[raw/2026-11-01-damkina7-2116870392300073128]]"
-source_count: 5
+  - "[[raw/2026-11-06-undefinedKi-2118825045644513583]]"
+source_count: 6
 created: 2026-10-26
-updated: 2026-11-02
+updated: 2026-11-08
 ---
 # Claude Code Ecosystem: Skills, Plugins, Hooks & CLAUDE.md
 
@@ -32,6 +33,9 @@ The kept sources configure [[wiki/entities/tools/claude-code|Claude Code]] with 
 - **Memory layers**: [[raw/2026-11-01-mojeskoqq-2116963310277202003|@mojeskoqq]]'s quoted guide splits knowledge across `CLAUDE.md`, path-scoped `.claude/rules/`, skills and auto memory (`/memory`), with tips such as block HTML comments costing zero tokens and `CLAUDE.local.md` for personal notes. See [[wiki/concepts/llm-knowledge-bases|LLM knowledge bases]].
 - **Per-model roles**: [[raw/2026-11-01-damkina7-2116870392300073128|@damkina7]] shares a `~/.claude/settings.json` snippet (`"model": "opusplan"`, per-model effort levels, `CLAUDE_CODE_SUBAGENT_MODEL` set to haiku) plus two subagent files, a read-only `scout` on haiku and an Opus `critic` that reviews diffs. See [[wiki/concepts/model-routing|Model routing]]. Code is reference material from an untrusted post, not something to paste blind.
 
+## Added 2026-11-08
+- [[raw/2026-11-06-undefinedKi-2118825045644513583|@undefinedKi]]: grow `AGENTS.md`/`CLAUDE.md` one line at a time from real corrections (example: "use pnpm, not npm"); put `rm -rf`, `git push --force` and `DROP TABLE` on the [[wiki/entities/tools/claude-code|Claude Code]] settings deny list; use a test-running hook on edits. See [[wiki/concepts/agent-harness-engineering|Agent harness engineering]].
+
 ## Sources
 
 - [[raw/2026-10-23-hayatomaruu-2113719510985269442]]
@@ -39,3 +43,4 @@ The kept sources configure [[wiki/entities/tools/claude-code|Claude Code]] with 
 - [[raw/2026-09-28-rvaniaaaa-2104602707675718102]]
 - [[raw/2026-11-01-mojeskoqq-2116963310277202003]]
 - [[raw/2026-11-01-damkina7-2116870392300073128]]
+- [[raw/2026-11-06-undefinedKi-2118825045644513583]]

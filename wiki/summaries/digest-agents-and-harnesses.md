@@ -17,9 +17,11 @@ sources:
   - "[[raw/2026-10-31-LunarResearcher-2116522516915028254]]"
   - "[[raw/2026-11-01-suraj_sharma14-2116787322716885503]]"
   - "[[raw/2026-11-02-hanakoxbt-2117365616579666418]]"
-source_count: 11
+  - "[[raw/2026-11-06-s4yonnara-2118814330695073907]]"
+  - "[[raw/2026-11-06-undefinedKi-2118825045644513583]]"
+source_count: 13
 created: 2026-10-26
-updated: 2026-11-03
+updated: 2026-11-08
 ---
 # Digest — Agent harnesses & agentic orgs
 
@@ -50,6 +52,10 @@ Caution: two of these lean on unverified "Anthropic engineer" or Karpathy quotes
 
 - [[raw/2026-11-02-hanakoxbt-2117365616579666418|@hanakoxbt]]: re-share of the "Loops and Graphs" course, now billed as an Anthropic paper (unverified). See [[wiki/concepts/agent-loops-and-graphs|Agent loops & graphs]].
 
+## Added 2026-11-08
+- [[raw/2026-11-06-s4yonnara-2118814330695073907|@s4yonnara]]: a list of ready-made agent-team repos plus "give each agent defined responsibilities and approval boundaries" ([[wiki/concepts/multi-agent-orchestration|Multi-agent orchestration]]).
+- [[raw/2026-11-06-undefinedKi-2118825045644513583|@undefinedKi]]: seven practical harness habits relayed from Addy Osmani: correction-driven `AGENTS.md`, deny lists, test hooks, `plan.md` with "done when", and fresh-chat review ([[wiki/concepts/agent-harness-engineering|Agent harness engineering]]).
+
 ## Sources
 
 - [[raw/2026-10-23-hayatomaruu-2113719510985269442]]
@@ -63,3 +69,5 @@ Caution: two of these lean on unverified "Anthropic engineer" or Karpathy quotes
 - [[raw/2026-10-31-LunarResearcher-2116522516915028254]]
 - [[raw/2026-11-01-suraj_sharma14-2116787322716885503]]
 - [[raw/2026-11-02-hanakoxbt-2117365616579666418]]
+- [[raw/2026-11-06-s4yonnara-2118814330695073907]]
+- [[raw/2026-11-06-undefinedKi-2118825045644513583]]

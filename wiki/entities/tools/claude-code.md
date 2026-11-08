@@ -14,9 +14,10 @@ sources:
   - "[[raw/2026-11-01-mojeskoqq-2116963310277202003]]"
   - "[[raw/2026-11-01-damkina7-2116870392300073128]]"
   - "[[raw/2026-11-02-hanakoxbt-2117365616579666418]]"
-source_count: 6
+  - "[[raw/2026-11-06-undefinedKi-2118825045644513583]]"
+source_count: 7
 created: 2026-10-26
-updated: 2026-11-03
+updated: 2026-11-08
 ---
 # Claude Code
 
@@ -31,6 +32,9 @@ Concepts: [[wiki/concepts/claude-code-ecosystem|Claude Code ecosystem]], [[wiki/
 
 - [[raw/2026-11-02-hanakoxbt-2117365616579666418|@hanakoxbt]] pitches a "9-step loop" (Hanako's Loops and Graphs article) to wrap around Claude Code before letting it touch a repo, and says most people "just type \"fix this bug\"". See [[wiki/concepts/agent-loops-and-graphs|Agent loops & graphs]].
 
+## Added 2026-11-08
+- [[raw/2026-11-06-undefinedKi-2118825045644513583|@undefinedKi]] recommends a command deny list in Claude Code settings and a hook that runs tests after every edit (relayed from Addy Osmani).
+
 ## Sources
 
 - [[raw/2026-10-23-hayatomaruu-2113719510985269442]]
@@ -39,3 +43,4 @@ Concepts: [[wiki/concepts/claude-code-ecosystem|Claude Code ecosystem]], [[wiki/
 - [[raw/2026-11-01-mojeskoqq-2116963310277202003]]
 - [[raw/2026-11-01-damkina7-2116870392300073128]]
 - [[raw/2026-11-02-hanakoxbt-2117365616579666418]]
+- [[raw/2026-11-06-undefinedKi-2118825045644513583]]

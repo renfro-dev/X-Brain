@@ -1,28 +1,28 @@
 ---
 type: index
-updated: 2026-11-03
+updated: 2026-11-08
 ---
 # x-brain index
 
-**17 raw bookmarks** · **42 wiki pages** (12 concepts, 18 people, 4 tools, 4 repos, 4 summaries) · 0 outputs
+**19 raw bookmarks** · **45 wiki pages** (12 concepts, 20 people, 5 tools, 4 repos, 4 summaries) · 0 outputs
 
 Start here, then open concept pages, then the cited `raw/` notes. Rules: [[CLAUDE]]. History: [[log]]. Browse raw: `bookmarks.base`. Map: `maps/concept-map.canvas`.
 
 ## Summaries (4)
 
-- [[wiki/summaries/vault-digest|Vault digest]] — 17 source(s)
-- [[wiki/summaries/digest-agents-and-harnesses|Digest — Agent harnesses & agentic orgs]] — 11 source(s)
+- [[wiki/summaries/vault-digest|Vault digest]] — 19 source(s)
+- [[wiki/summaries/digest-agents-and-harnesses|Digest — Agent harnesses & agentic orgs]] — 13 source(s)
 - [[wiki/summaries/digest-second-brains|Digest — Second brains & LLM wikis]] — 3 source(s)
 - [[wiki/summaries/digest-ai-services-business|Digest — AI-native services & the future of SaaS]] — 2 source(s)
 
 ## Concepts (12)
 
-- [[wiki/concepts/agent-harness-engineering|Agent Harness Engineering]] — 7 source(s)
-- [[wiki/concepts/multi-agent-orchestration|Multi-Agent Orchestration]] — 7 source(s)
-- [[wiki/concepts/verification-and-linting|Verification, Linting & Evidence]] — 7 source(s)
-- [[wiki/concepts/claude-code-ecosystem|Claude Code Ecosystem: Skills, Plugins, Hooks & CLAUDE.md]] — 5 source(s)
+- [[wiki/concepts/agent-harness-engineering|Agent Harness Engineering]] — 8 source(s)
+- [[wiki/concepts/multi-agent-orchestration|Multi-Agent Orchestration]] — 8 source(s)
+- [[wiki/concepts/verification-and-linting|Verification, Linting & Evidence]] — 8 source(s)
+- [[wiki/concepts/claude-code-ecosystem|Claude Code Ecosystem: Skills, Plugins, Hooks & CLAUDE.md]] — 6 source(s)
 - [[wiki/concepts/agent-loops-and-graphs|Agent Loops & Graphs]] — 5 source(s)
-- [[wiki/concepts/always-on-agent-infrastructure|Always-On / Headless Agents]] — 4 source(s)
+- [[wiki/concepts/always-on-agent-infrastructure|Always-On / Headless Agents]] — 5 source(s)
 - [[wiki/concepts/llm-knowledge-bases|LLM Knowledge Bases (Second Brain / LLM Wiki)]] — 3 source(s)
 - [[wiki/concepts/ai-native-services|AI-Native Services (Selling the Work, not the Software)]] — 2 source(s)
 - [[wiki/concepts/mcp-and-context-management|MCP & Context Management]] — 2 source(s)
@@ -30,9 +30,10 @@ Start here, then open concept pages, then the cited `raw/` notes. Rules: [[CLAUD
 - [[wiki/concepts/agent-system-design-questions|Agent System Design Questions (Interview Checklist)]] — 1 source(s)
 - [[wiki/concepts/agentic-org-maturity|Agentic Org Maturity (AI Transformation Ladder)]] — 1 source(s)
 
-## People (18)
+## People (20)
 
 - [[wiki/entities/people/andrej-karpathy|Andrej Karpathy]] — 6 source(s)
+- [[wiki/entities/people/s4yonnara|Andrew (@s4yonnara)]] — 1 source(s)
 - [[wiki/entities/people/andrew-ng|Andrew Ng]] — 1 source(s)
 - [[wiki/entities/people/beamnxw|beamnxw]] — 2 source(s)
 - [[wiki/entities/people/danikkk-wqs|Brucky (@danikkk_wqs)]] — 1 source(s)
@@ -50,13 +51,15 @@ Start here, then open concept pages, then the cited `raw/` notes. Rules: [[CLAUD
 - [[wiki/entities/people/rvaniaaaa|rvaniaaa]] — 1 source(s)
 - [[wiki/entities/people/grow-withai|Ryan Carter (@Grow_withAI)]] — 1 source(s)
 - [[wiki/entities/people/suraj-sharma14|Suraj Sharma (@suraj_sharma14)]] — 1 source(s)
+- [[wiki/entities/people/undefinedki|Yarchi (@undefinedKi)]] — 1 source(s)
 
-## Tools (4)
+## Tools (5)
 
+- [[wiki/entities/tools/claude-code|Claude Code]] — 7 source(s)
 - [[wiki/entities/tools/claude-opus-5-5|Claude Opus 5.5]] — 6 source(s)
-- [[wiki/entities/tools/claude-code|Claude Code]] — 6 source(s)
 - [[wiki/entities/tools/obsidian|Obsidian]] — 3 source(s)
 - [[wiki/entities/tools/model-context-protocol|Model Context Protocol (MCP)]] — 2 source(s)
+- [[wiki/entities/tools/grok-bot|Grok Bot]] — 1 source(s)
 
 ## Repos (4)
 
@@ -67,10 +70,14 @@ Start here, then open concept pages, then the cited `raw/` notes. Rules: [[CLAUD
 
 ## Raw bookmarks
 
-By type: quote 9, post 4, article 1, thread 1  
-By topic tag: `topic/agent-harness` 7, `topic/claude-code` 6, `topic/multi-agent` 5, `topic/agent-loops` 4, `topic/agent-graphs` 4, `topic/llm-knowledge-bases` 3, `topic/verification` 3, `topic/agent-memory` 2, `topic/ai-services` 2, `topic/saas-business-models` 2, `topic/agent-skills` 2, `topic/ai-engineering-interviews` 1, `topic/agent-design` 1, `topic/second-brain` 1, `topic/model-routing` 1, `topic/self-improving-agents` 1, `topic/agentic-org` 1, `topic/always-on-agents` 1, `topic/mcp-context` 1  
+By type: quote 12, post 5, article 1, thread 1  
+By topic tag: `topic/agent-harness` 9, `topic/claude-code` 8, `topic/agent-loops` 5, `topic/multi-agent` 5, `topic/verification` 4, `topic/agent-graphs` 4, `topic/llm-knowledge-bases` 3, `topic/agent-memory` 2, `topic/ai-services` 2, `topic/saas-business-models` 2, `topic/agent-skills` 2, `topic/agents-md` 1, `topic/multi-agent-orchestration` 1, `topic/agent-teams` 1, `topic/github-repos` 1, `topic/trading-agents` 1, `topic/llm-usage` 1, `topic/video` 1, `topic/ai-engineering-interviews` 1, `topic/agent-design` 1, `topic/second-brain` 1, `topic/model-routing` 1, `topic/self-improving-agents` 1, `topic/agentic-org` 1, `topic/always-on-agents` 1, `topic/mcp-context` 1  
 Folders: none on X (all `unfiled`).
 
+- [[raw/2026-11-06-undefinedKi-2118825045644513583|2026-11-06 @undefinedKi]] · quote · “Everyone Is Choosing a Model. 70,000+ Teams Hired Viktor Instead (Full Guide)”
+- [[raw/2026-11-06-s4yonnara-2118814330695073907|2026-11-06 @s4yonnara]] · quote · “Grok Bot for Beginners: What It Is, How to Use It Right, and Why It Beats the Rest”
+- [[raw/2026-11-02-renfrodotdev-2117273838153298014|2026-11-02 @renfrodotdev]] · post
+- [[raw/2026-11-02-hanakoxbt-2117365616579666418|2026-11-02 @hanakoxbt]] · quote · “Loops and Graphs: how to stop babysitting agents and only approve the last step (full course)”
 - [[raw/2026-11-01-suraj_sharma14-2116787322716885503|2026-11-01 @suraj_sharma14]] · post
 - [[raw/2026-11-01-mojeskoqq-2116963310277202003|2026-11-01 @mojeskoqq]] · quote · “Claude Second Brain 2.0: The Complete Guide”
 - [[raw/2026-11-01-hayatomaruu-2117003050090938646|2026-11-01 @hayatomaruu]] · quote · “Agent Harness Engineering vs. Loop Engineering vs. Graph Engineering”

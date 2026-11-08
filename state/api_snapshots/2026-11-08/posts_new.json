@@ -1,0 +1,497 @@
+{
+ "data": [
+  {
+   "attachments": {
+    "media_keys": [
+     "13_2118814289502806016"
+    ]
+   },
+   "author_id": "1490082029953818633",
+   "conversation_id": "2118814330695073907",
+   "created_at": "2026-11-06T21:14:36.000Z",
+   "edit_history_post_ids": [
+    "2118814330695073907"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "display_url": "pic.x.com/9DdqRsGuI5",
+      "end": 300,
+      "expanded_url": "https://x.com/s4yonnara/status/2118814330695073907/video/1",
+      "media_key": "13_2118814289502806016",
+      "start": 277,
+      "url": "https://t.co/9DdqRsGuI5"
+     },
+     {
+      "display_url": "x.com/s4yonnara/stat\u2026",
+      "end": 324,
+      "expanded_url": "https://twitter.com/s4yonnara/status/2090118059377795556",
+      "start": 301,
+      "url": "https://t.co/0MxvHjTbss"
+     }
+    ]
+   },
+   "id": "2118814330695073907",
+   "lang": "en",
+   "note_tweet": {
+    "entities": {
+     "urls": [
+      {
+       "display_url": "t.co/5w0J955REo",
+       "end": 381,
+       "expanded_url": "https://github.com/serenakeyitan/agent-org-chart",
+       "start": 358,
+       "url": "https://t.co/hQfvetDRdr"
+      },
+      {
+       "display_url": "t.co/zCfNen2WCK",
+       "end": 506,
+       "expanded_url": "https://github.com/jaredtrichard/grok-factory",
+       "start": 483,
+       "url": "https://t.co/btk1agM1iG"
+      },
+      {
+       "display_url": "t.co/pe7rxRlRTp",
+       "end": 619,
+       "expanded_url": "https://github.com/simo255/multiBot",
+       "start": 596,
+       "url": "https://t.co/vkECfhuJHX"
+      },
+      {
+       "display_url": "t.co/u2c2LVUHH2",
+       "end": 741,
+       "expanded_url": "https://github.com/mKay00/grok-bot-second-brain",
+       "start": 718,
+       "url": "https://t.co/RkBrQjRIhg"
+      },
+      {
+       "display_url": "t.co/sH3B8qBwqb",
+       "end": 854,
+       "expanded_url": "https://github.com/Archive228/foreman",
+       "start": 831,
+       "url": "https://t.co/uzqJcEQrun"
+      },
+      {
+       "display_url": "t.co/n35e6AlPiO",
+       "end": 971,
+       "expanded_url": "https://github.com/YannisKiefer/grokbot-x",
+       "start": 948,
+       "url": "https://t.co/24BUuudcDj"
+      },
+      {
+       "display_url": "t.co/3H4KbWiMYY",
+       "end": 1100,
+       "expanded_url": "https://github.com/function1st/PhoneZero",
+       "start": 1077,
+       "url": "https://t.co/Tc8gI6QOfr"
+      },
+      {
+       "display_url": "t.co/hvhRE3pIZa",
+       "end": 1222,
+       "expanded_url": "https://github.com/mandarwagh9/botroster",
+       "start": 1199,
+       "url": "https://t.co/Mtbw1RPMow"
+      },
+      {
+       "display_url": "t.co/g9sHwUWCqO",
+       "end": 1353,
+       "expanded_url": "https://github.com/HAEGONG/grok-bot-profiles",
+       "start": 1330,
+       "url": "https://t.co/qfgP688XAZ"
+      },
+      {
+       "display_url": "t.co/5xxbEthu3B",
+       "end": 1483,
+       "expanded_url": "https://github.com/galleonlabs/hypergrok-trading-desk",
+       "start": 1460,
+       "url": "https://t.co/EEzYRffcdv"
+      },
+      {
+       "display_url": "github.com/bmoscon/crypto\u2026",
+       "end": 1585,
+       "expanded_url": "https://github.com/bmoscon/cryptofeed",
+       "start": 1562,
+       "url": "https://t.co/6GQeNeqnc6"
+      },
+      {
+       "display_url": "github.com/ccxt/ccxt",
+       "end": 1691,
+       "expanded_url": "https://github.com/ccxt/ccxt",
+       "start": 1668,
+       "url": "https://t.co/8e0N11cDKD"
+      },
+      {
+       "display_url": "github.com/freqtrade/freq\u2026",
+       "end": 1812,
+       "expanded_url": "https://github.com/freqtrade/freqtrade",
+       "start": 1789,
+       "url": "https://t.co/3KVSi71Yws"
+      },
+      {
+       "display_url": "github.com/polakowo/vecto\u2026",
+       "end": 1927,
+       "expanded_url": "https://github.com/polakowo/vectorbt",
+       "start": 1904,
+       "url": "https://t.co/xW7EkglgbG"
+      },
+      {
+       "display_url": "github.com/ranaroussi/qua\u2026",
+       "end": 2053,
+       "expanded_url": "https://github.com/ranaroussi/quantstats",
+       "start": 2030,
+       "url": "https://t.co/VDtebcMVJx"
+      }
+     ]
+    },
+    "text": "THIS IS F*CKING INSANE...\n\nPEOPLE ARE SPENDING WEEKS BUILDING AI AGENT TEAMS FROM SCRATCH WHILE GITHUB ALREADY HAS READY-MADE GROK BOT TEAMS FOR CODING, RESEARCH, MARKETING, TRADING AND EVEN RUNNING YOUR PERSONAL LIFE.\n\nHere are 15 GitHub projects you should open first:\n\n01 / Agent Org Chart \u2192 Ready-made teams for engineering, marketing, support and sales\nhttps://t.co/hQfvetDRdr\n\n02 / Grok Factory \u2192 One coordinator delegates coding, research and other work to specialist agents.\nhttps://t.co/btk1agM1iG\n\n03 / multiBot \u2192 Creates specialized teammates that delegate heavy tasks to coding CLIs.\nhttps://t.co/vkECfhuJHX\n\n04 / Grok Bot Second Brain \u2192 Five agents handling coordination, memory, research and operations.\nhttps://t.co/RkBrQjRIhg\n\n05 / Foreman \u2192 Monitors agent teams, detects stalled tasks and verifies completed work.\nhttps://t.co/uzqJcEQrun\n\n06 / grokbot-x \u2192 Automates X research, content drafts, publishing and writing improvements.\nhttps://t.co/24BUuudcDj\n\n07 / PhoneZero \u2192 Gives Grok Bot a phone workflow for calls and restaurant bookings with approval gates.\nhttps://t.co/Tc8gI6QOfr\n\n08 / BOTROSTER \u2192 Self-hosted AI teammates with shared files, browser access and scheduled tasks.\nhttps://t.co/Mtbw1RPMow\n\n09 / Grok Bot Profiles \u2192 Four specialist roles: Spec Writer, Bug Reproducer, PR Producer and PR Verifier.\nhttps://t.co/qfgP688XAZ\n\n10 / HyperGrok Trading Desk \u2192 Seven agents covering market data, research, strategy, risk and execution.\nhttps://t.co/EEzYRffcdv\n\n11 / Cryptofeed \u2192 Streams live crypto trades, prices and order book updates.\nhttps://t.co/6GQeNeqnc6\n\n12 / CCXT \u2192 One API to connect your trading system to multiple crypto exchanges.\nhttps://t.co/8e0N11cDKD\n\n13 / Freqtrade \u2192 Backtests and runs trading strategies with dry-run mode and position tracking.\nhttps://t.co/3KVSi71Yws\n\n14 / VectorBT \u2192 Tests thousands of trading strategy combinations against historical data.\nhttps://t.co/xW7EkglgbG\n\n15 / QuantStats \u2192 Generates reports covering returns, drawdowns, volatility and trading performance.\nhttps://t.co/VDtebcMVJx\n\nStart with one team and give it a clear job.\n\nConnect specialists through APIs, MCP or scripts. Give each agent defined responsibilities and approval boundaries.\n\nStop building everything from zero."
+   },
+   "public_metrics": {
+    "bookmark_count": 1877,
+    "impression_count": 72235,
+    "like_count": 771,
+    "quote_count": 9,
+    "reply_count": 40,
+    "repost_count": 115
+   },
+   "referenced_tweets": [
+    {
+     "id": "2090118059377795556",
+     "type": "quoted"
+    }
+   ],
+   "text": "THIS IS F*CKING INSANE...\n\nPEOPLE ARE SPENDING WEEKS BUILDING AI AGENT TEAMS FROM SCRATCH WHILE GITHUB ALREADY HAS READY-MADE GROK BOT TEAMS FOR CODING, RESEARCH, MARKETING, TRADING AND EVEN RUNNING YOUR PERSONAL LIFE.\n\nHere are 15 GitHub projects you should open first:\n\n01 / https://t.co/9DdqRsGuI5 https://t.co/0MxvHjTbss",
+   "url": "https://x.com/s4yonnara/status/2118814330695073907"
+  },
+  {
+   "attachments": {
+    "media_keys": [
+     "3_2118824979898748928"
+    ]
+   },
+   "author_id": "3075199947",
+   "conversation_id": "2118825045644513583",
+   "created_at": "2026-11-06T21:57:11.000Z",
+   "edit_history_post_ids": [
+    "2118825045644513583"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "display_url": "pic.x.com/0LElmbvDGg",
+      "end": 304,
+      "expanded_url": "https://x.com/undefinedKi/status/2118825045644513583/photo/1",
+      "media_key": "3_2118824979898748928",
+      "start": 281,
+      "url": "https://t.co/0LElmbvDGg"
+     },
+     {
+      "display_url": "x.com/gippp69/status\u2026",
+      "end": 328,
+      "expanded_url": "https://twitter.com/gippp69/status/2118647285789683877",
+      "start": 305,
+      "url": "https://t.co/ah1D2PJCbT"
+     }
+    ]
+   },
+   "id": "2118825045644513583",
+   "lang": "en",
+   "note_tweet": {
+    "text": "Addy Osmani, engineer at Google: \"A decent model with a great harness beats a great model with a bad harness.\"\n\nHe shared what his harness actually does. Here's what you can copy:\n\n1. Create AGENTS.md (or CLAUDE.md) in your project. Every time you correct the agent, add one line, like \"use pnpm, not npm\"\n\n2. Block dangerous commands. In Claude Code settings, add rm -rf, git push --force and DROP TABLE to the deny list\n\n3. Run tests after every change. Add a hook that runs your tests each time the agent edits a file, so it sees errors right away\n\n4. Add to your rules: \"never skip or delete a test to make it pass\". Agents do this more often than you'd think\n\n5. Add to your rules: \"save long command output to a file and read only the end\". Keeps the agent's memory clean\n\n6. Before big tasks, ask it to write plan.md with the steps and a \"done when\" line. It ticks steps off as it goes\n\n7. When it's done, open a fresh chat and ask it to review the changes against plan.md. Never let the same chat grade itself\n\nHis rule for all of it: every line in AGENTS.md should trace back to something that went wrong."
+   },
+   "public_metrics": {
+    "bookmark_count": 184,
+    "impression_count": 8005,
+    "like_count": 182,
+    "quote_count": 0,
+    "reply_count": 40,
+    "repost_count": 23
+   },
+   "referenced_tweets": [
+    {
+     "id": "2118647285789683877",
+     "type": "quoted"
+    }
+   ],
+   "text": "Addy Osmani, engineer at Google: \"A decent model with a great harness beats a great model with a bad harness.\"\n\nHe shared what his harness actually does. Here's what you can copy:\n\n1. Create AGENTS.md (or CLAUDE.md) in your project. Every time you correct the agent, add one line, https://t.co/0LElmbvDGg https://t.co/ah1D2PJCbT",
+   "url": "https://x.com/undefinedKi/status/2118825045644513583"
+  }
+ ],
+ "includes": {
+  "media": [
+   {
+    "duration_ms": 21571,
+    "media_key": "13_2118814289502806016",
+    "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2118814289502806016/img/6fqbZOtKacBbgN43.jpg",
+    "type": "video",
+    "variants": [
+     {
+      "bit_rate": 2176000,
+      "content_type": "video/mp4",
+      "url": "https://video.twimg.com/amplify_video/2118814289502806016/vid/avc1/720x900/ZdLf8x9SDppN3Ocz.mp4"
+     },
+     {
+      "bit_rate": 950000,
+      "content_type": "video/mp4",
+      "url": "https://video.twimg.com/amplify_video/2118814289502806016/vid/avc1/480x600/s5gY984AewNOl_4J.mp4"
+     },
+     {
+      "bit_rate": 632000,
+      "content_type": "video/mp4",
+      "url": "https://video.twimg.com/amplify_video/2118814289502806016/vid/avc1/320x400/PDV1FJUCliNXhqWI.mp4"
+     },
+     {
+      "bit_rate": 10368000,
+      "content_type": "video/mp4",
+      "url": "https://video.twimg.com/amplify_video/2118814289502806016/vid/avc1/1080x1350/uXSGIbap_gm4kJYq.mp4"
+     },
+     {
+      "content_type": "application/x-mpegURL",
+      "url": "https://video.twimg.com/amplify_video/2118814289502806016/pl/sjjteYgFxt7yUn8G.m3u8?v=cfc"
+     }
+    ]
+   },
+   {
+    "media_key": "3_2118824979898748928",
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HWeUF9wW0AAW5og.jpg"
+   }
+  ],
+  "posts": [
+   {
+    "article": {
+     "cover_media": "3_2090064955261255680",
+     "entities": {
+      "code": [
+       {
+        "code": "FINISH ALONE (reversible): draft, file, tag, summarize, research,\nprepare, reconcile. Do it and log it.\n\nPARK FOR ME (irreversible): send anything to an outside person,\nspend or move money, publish anything public, delete anything that\nis not obvious junk, agree to any terms.\n\nWHEN UNSURE: if you cannot undo it in under a minute, ask me.",
+        "content": "```\nFINISH ALONE (reversible): draft, file, tag, summarize, research,\nprepare, reconcile. Do it and log it.\n\nPARK FOR ME (irreversible): send anything to an outside person,\nspend or move money, publish anything public, delete anything that\nis not obvious junk, agree to any terms.\n\nWHEN UNSURE: if you cannot undo it in under a minute, ask me.\n```",
+        "language": "none"
+       },
+       {
+        "code": "Every weekday at 7am, check my calendar, my inbox, and my\nwatchlist, and send me one short brief: what's on today, what\nneeds a reply, what changed overnight.",
+        "content": "```\nEvery weekday at 7am, check my calendar, my inbox, and my\nwatchlist, and send me one short brief: what's on today, what\nneeds a reply, what changed overnight.\n```",
+        "language": "none"
+       },
+       {
+        "code": "You are my Inbox Manager.\n\nWHAT YOU OWN\nTriage my email every morning. Archive newsletters and receipts.\nDraft replies to anything a client sends. Flag anything that\nmentions a deadline, an invoice, or a legal question.\n\nWHAT GOOD LOOKS LIKE\nInbox sorted by 9am. Drafts sound like me: short, direct, under\nfour sentences. No filler openings.\n\nWHERE YOU STOP\nNever send anything. Draft only. Never archive anything from my\naccountant. If a message asks for money or a password, stop and\nask me.",
+        "content": "```\nYou are my Inbox Manager.\n\nWHAT YOU OWN\nTriage my email every morning. Archive newsletters and receipts.\nDraft replies to anything a client sends. Flag anything that\nmentions a deadline, an invoice, or a legal question.\n\nWHAT GOOD LOOKS LIKE\nInbox sorted by 9am. Drafts sound like me: short, direct, under\nfour sentences. No filler openings.\n\nWHERE YOU STOP\nNever send anything. Draft only. Never archive anything from my\naccountant. If a message asks for money or a password, stop and\nask me.\n```",
+        "language": "none"
+       }
+      ]
+     },
+     "media_entities": [
+      "3_2090091604925112320",
+      "3_2090091469667180544",
+      "3_2090025194735665152",
+      "3_2090025147876933633",
+      "3_2090091540299317248",
+      "3_2090025485979783168",
+      "3_2090092512195100672"
+     ],
+     "plain_text": "On August 11, 2026, xAI launched Grok Bot, and it is the first AI tool that does not wait for you. Every chatbot you have used so far sits in a window: you open it, you ask, it answers, you close it, and the actual work is still in your hands. Grok Bot flips that. It has its own computer, it signs into your tools, and it keeps working after you close your laptop.\nIf you are new to this, the whole thing can sound like hype. It is not. But it is also easy to use it wrong and get nothing out of it. This guide explains what it actually is, how to use it the right way from day one, the beginner mistakes to avoid, and honestly how it compares to the alternatives so you know whether you even need it yet.\nWhat Grok Bot actually is\nThe one sentence: a Grok Bot is an AI agent with its own computer in the cloud.\nThat computer is real. It has a web browser, a file system, and a terminal, and it runs in the cloud whether or not your own laptop is on. The bot controls that computer the way a person would. It opens an app, signs in, clicks, types, checks the result, and saves. Because the computer lives in the cloud, the work continues when you walk away, and the bot only comes back to you when it hits something that needs a human decision.\n \nCompare that to a normal chatbot. A chatbot describes how to do a task and hands the words back to you. A Grok Bot does the task. \"Book the meeting\" stops being a set of steps you then have to carry out, and becomes a job the bot completes: open the calendar, find the time, send the invite, confirm. That is the entire shift, and it is bigger in habit than it looks on paper.\n \nA few things follow from \"it has its own computer\":\nIt can use software that has no API and no integration, because it just clicks the buttons like you do. Most software inside a real company is like that.\nIt runs while you sleep, because the computer is always on.\nYou can open its screen, watch it work live, and take over the mouse yourself if you need to.\nHow to use it correctly (the mindset that matters)\nThe single biggest thing beginners get wrong is treating a bot like a chatbot. They type a question, get an answer, and close it. That uses about ten percent of the tool.\nThe correct mental model is this: you are not writing a prompt, you are hiring an employee. A prompt is a one-time request. A bot is a role that stays, builds up memory, owns an area, and gets better at that area because you keep coming back to the same one. So instead of asking a question, you give a bot a job title and a brief, the way you would brief a new hire on their first day.\nHere is the shape of a good brief, which the tool calls a bot's instructions or charter. Notice it has three parts: what it owns, what good looks like, and where it must stop.\n \n \nThat last part, where you stop, is the most important line a beginner writes, and it is the one everyone skips. A bot with your logins and its own computer can act while you are asleep. Telling it where its authority ends once is what makes leaving it running actually safe.\nGetting started, step by step\nYou do not need to be technical. The setup is short.\nGet access. Grok Bot is bundled into a paid tier: SuperGrok Heavy, or Cursor Ultra at 200 dollars a month, or Cursor Teams Premium at 120 dollars a seat. It was built jointly by xAI and Cursor.\nInstall the desktop app (macOS or Windows) or the iOS app, and sign in with the account that holds your plan. It looks like a messaging app: a list of bots on the left, a chat on the right.\nCreate your first bot and give it a role. Start with one general assistant, not five.\nPick the right first task, on paper, before you touch the app. This is the step beginners skip, and it is the one that decides whether you trust the tool or quit on day three. A good first task is one you do often (so you can tell if the bot is any good), that you can check in thirty seconds, that costs nothing if it is wrong, and that nobody outside sees. Avoid the opposite: the rare, high-stakes job you can only verify in an hour. Frequency gives you a signal, reversibility gives you room to be wrong.\nDo a dry run first: ask, do not tell. For your first few messages, ask the bot what it WOULD do, not to do it. \"How would you triage my inbox, and what would you be unsure about?\" That one question is the cheapest test there is. It surfaces the misunderstandings while the cost of being wrong is a paragraph of text, not a mess in your archive three weeks later. Fix those, then let it act.\nTwo features that make it click\nThese are the two things a beginner should learn first, because they are where the magic is.\nLogin handoff. When a bot needs to sign into a tool, it does not ask you to paste a password into the chat. It navigates to the login page on its own cloud browser, then hands you the screen. You log in yourself, click done, and the bot continues from there on the same browser. You never type a secret into a message, and the saved session is reused by your bots later. If a tool ever asks you to paste a password into a conversation, that is the wrong path.\n \nTeach by watching. You can teach a bot a task by doing it once while it records your screen. It saves the steps as a reusable routine and runs them itself next time. The tasks that eat your week are usually tedious to describe but trivial to demonstrate, so this is where the real time savings come from. Pick a first recording that you do at least weekly, that touches two or more tools, and whose steps rarely change.\nMake it run without you: routines\nA saved task needs a reason to fire. You set this in a plain sentence, no workflow builder. There are two kinds:\nSchedule: a 7am daily brief, a Friday summary, month-end filing.\nTrigger: a new Slack message, an incoming email matching a pattern, a change in a document.\n \nBecause it runs in the cloud, the routine keeps going even when your phone and laptop are off.\n \nThe six beginner mistakes to avoid\nFrom watching how the early power users run it, these are the traps:\nTreating it like a chatbot. If you only ever ask questions, you are using ten percent of it. Give it a role and a real job.\nNo stop line. A bot with no defined limits is either useless (asks about everything) or dangerous (asks about nothing). Write the \"where you stop\" section every time.\nConnecting every tool \"just in case.\" A connection is shared across all your bots, so only connect the accounts you actually need, especially in a beta.\nOne bot for everything. A generalist that does inbox, research, and finance is mediocre at all three. Separate bots keep separate memory and get genuinely good at one area.\nReading the summary instead of the trail. What a bot says it did and what it actually did are two different things. A right answer reached by a strange route (it clicked the wrong menu but got lucky) becomes a wrong answer the week that route changes. On the early runs, check the path, not just the result.\nNever reviewing, and never deciding when to quit. Automation rots quietly: a site changes its layout and a routine produces garbage for weeks before anyone notices. Put fifteen minutes on the calendar weekly, and decide each routine's kill condition in advance, while you are calm. Deciding to switch something off is far easier before it annoys you than after.\nThe right approval line: reversibility, not size\nBeginners agonize over how much to supervise. There is a clean rule that removes the worry. Do not draw the line by how big a task is. Draw it by whether it can be undone.\nAnything reversible, the bot finishes on its own: drafting, filing, tagging, summarizing, researching, preparing. Anything the outside world sees, anything that moves money, anything that cannot be taken back, the bot parks for you.\n \n \nThe safety model backs this up: under the hood, a separate reviewer agent checks the bot's proposed actions against rules you write in plain language, and can allow, block, or escalate to you. You are trusting the model to follow your written rules inside an isolated environment, so start it on low-stakes, reversible jobs and watch the first runs closely.\nWhy it beats the competitors\nHere is the honest comparison, because \"better\" depends on what you are comparing to.\n \nVersus normal AI chatbots (ChatGPT, Claude, or Grok's own chat): those wait for you and leave the work in your hands. Grok Bot has its own computer, does the clicking, and runs while you are away. It is a different category, not a better chatbot.\nVersus other autonomous-agent tools (the do-it-yourself kind): tools in this space have existed, but they make you set up and babysit your own always-on machine, keep it patched, and manage service accounts. That setup and maintenance headache is exactly what stops most people. Grok Bot is plug-and-play: you download it, sign in, and you have a working agent with a cloud computer without touching any infrastructure. That convenience is its real edge.\nWhere it is genuinely ahead: the own-computer model (it can drive any software, API or not), the login handoff (you never expose passwords), teach-by-watching (no coding to build a routine), and a real multi-agent setup where specialized bots hand work to each other. Those four together do not exist in one package anywhere else right now.\nWhere it is not ahead, honestly: it is expensive, starting around 200 dollars a month bundled into a bigger plan, and you cannot try it cheaply in isolation. It is a beta, so bots can be tripped by a redesigned page or a popup, and the last ten percent of a task on weird edge cases still needs a human. And it is closed and cloud-hosted, so you are trading data control for convenience.\nWho this is actually for\nIf your whole AI budget is small and you are still learning what AI can do for you, this is not your first step. You will learn more, faster, and cheaper by getting fluent with a strong chat model first, and you will get most of the everyday value for a fraction of the cost.\nIf you are already a heavier user, paying for a few AI tools and doing the same multi-step, multi-app chores every week, Grok Bot is a real step up. The moment your work is a stack of repetitive jobs across several apps, it stops looking like a subscription and starts looking like hiring.\nThe takeaway\nEvery AI tool until now put a model in a window and left the work in your hands. Grok Bot moves the work: the bot has the computer, the logins, the memory, and the time, and you keep the decisions. The skill you are learning is not how to phrase a prompt. It is what to delegate, and where a bot's authority should end. That is a management skill, not a prompting one, and it is the one worth building now.\nIf this helped, follow me. I break down AI tools and prediction markets every week, no fluff.",
+     "preview_text": "On August 11, 2026, xAI launched Grok Bot, and it is the first AI tool that does not wait for you. Every chatbot you have used so far sits in a window: you open it, you ask, it answers, you close it,",
+     "title": "Grok Bot for Beginners: What It Is, How to Use It Right, and Why It Beats the Rest"
+    },
+    "article_title": {
+     "title": "Grok Bot for Beginners: What It Is, How to Use It Right, and Why It Beats the Rest"
+    },
+    "author_id": "1490082029953818633",
+    "conversation_id": "2090118059377795556",
+    "created_at": "2026-08-19T16:45:52.000Z",
+    "edit_history_post_ids": [
+     "2090118059377795556"
+    ],
+    "entities": {
+     "urls": [
+      {
+       "display_url": "x.com/i/article/2090\u2026",
+       "end": 23,
+       "expanded_url": "https://x.com/i/article/2090024655620837376",
+       "start": 0,
+       "status": 404,
+       "unwound_url": "https://x.com/i/article/2090024655620837376",
+       "url": "https://t.co/YtaiuaNGjW"
+      }
+     ]
+    },
+    "id": "2090118059377795556",
+    "lang": "zxx",
+    "public_metrics": {
+     "bookmark_count": 772,
+     "impression_count": 494990,
+     "like_count": 288,
+     "quote_count": 10,
+     "reply_count": 18,
+     "repost_count": 40
+    },
+    "text": "https://t.co/YtaiuaNGjW"
+   },
+   {
+    "article": {
+     "cover_media": "3_2118644593973436416",
+     "entities": {
+      "code": [
+       {
+        "code": "holds      worked, and I touched nothing\nbends      worked after one correction\nbreaks     wrong, and I would have missed it",
+        "content": "```plaintext\nholds      worked, and I touched nothing\nbends      worked after one correction\nbreaks     wrong, and I would have missed it\n```",
+        "language": "plaintext"
+       },
+       {
+        "code": "Add to workspace instructions:\n\"Keep every reply under 8 lines. End with one line: what you\nneed from me.\"\n\nThen ask Viktor for a follow up email draft, change one sentence\nin the editor yourself, and say: \"Use the draft as it is now.\"",
+        "content": "```plaintext\nAdd to workspace instructions:\n\"Keep every reply under 8 lines. End with one line: what you\nneed from me.\"\n\nThen ask Viktor for a follow up email draft, change one sentence\nin the editor yourself, and say: \"Use the draft as it is now.\"\n```",
+        "language": "plaintext"
+       },
+       {
+        "code": "Viktor, pull this week's numbers from [tool 1] and the open items\nfrom [tool 2]. Put them in one short report: what moved, what is\nstuck, and what needs my decision. Link the source for every line.",
+        "content": "```plaintext\nViktor, pull this week's numbers from [tool 1] and the open items\nfrom [tool 2]. Put them in one short report: what moved, what is\nstuck, and what needs my decision. Link the source for every line.\n```",
+        "language": "plaintext"
+       },
+       {
+        "code": "Mon   tools     connect two tools, run the two tool report\nTue   memory    give him two corrections in one thread\nWed   memory    open a new thread, check he kept both\nThu   context   set one workspace instruction, edit one draft\nFri   checks    ask for something external, wait for the card",
+        "content": "```plaintext\nMon   tools     connect two tools, run the two tool report\nTue   memory    give him two corrections in one thread\nWed   memory    open a new thread, check he kept both\nThu   context   set one workspace instruction, edit one draft\nFri   checks    ask for something external, wait for the card\n```",
+        "language": "plaintext"
+       },
+       {
+        "code": "Monday, in a thread:\n\"Viktor, correction: our week starts on Monday, not Sunday, and\nrevenue always means net, not gross. Please remember both.\"\n\nWednesday, in a brand new thread:\n\"Viktor, give me last week's revenue.\"",
+        "content": "```plaintext\nMonday, in a thread:\n\"Viktor, correction: our week starts on Monday, not Sunday, and\nrevenue always means net, not gross. Please remember both.\"\n\nWednesday, in a brand new thread:\n\"Viktor, give me last week's revenue.\"\n```",
+        "language": "plaintext"
+       },
+       {
+        "code": "Viktor, check both of my Gmail accounts for anything from\n[client] this week. Tell me which inbox each message came from\nand draft one reply for my review. Do not send anything.",
+        "content": "```plaintext\nViktor, check both of my Gmail accounts for anything from\n[client] this week. Tell me which inbox each message came from\nand draft one reply for my review. Do not send anything.\n```",
+        "language": "plaintext"
+       },
+       {
+        "code": "Viktor, public facts\nwhere he lives                  Slack and Microsoft Teams\ntools he connects to            9,800+\nmodel presets                   Smart, Balanced and Ultra on Claude Opus 5.5\nother models in his picker      GPT 6.1 Sol, Grok 4.7 and more\nactions that matter             wait for a human yes\n\nthe four layers to test\ntools                           what he can reach\nmemory                          what he keeps between threads\ncontext                         what he is allowed to see\nchecks                          where he stops and asks",
+        "content": "```plaintext\nViktor, public facts\nwhere he lives                  Slack and Microsoft Teams\ntools he connects to            9,800+\nmodel presets                   Smart, Balanced and Ultra on Claude Opus 5.5\nother models in his picker      GPT 6.1 Sol, Grok 4.7 and more\nactions that matter             wait for a human yes\n\nthe four layers to test\ntools                           what he can reach\nmemory                          what he keeps between threads\ncontext                         what he is allowed to see\nchecks                          where he stops and asks\n```",
+        "language": "plaintext"
+       },
+       {
+        "code": "Viktor, draft a reply to [client] about [topic] and get it ready\nto send from my inbox. Do not send it. Show me the approval card\nfirst.",
+        "content": "```plaintext\nViktor, draft a reply to [client] about [topic] and get it ready\nto send from my inbox. Do not send it. Show me the approval card\nfirst.\n```",
+        "language": "plaintext"
+       }
+      ],
+      "mentions": [
+       {
+        "end": 46,
+        "start": 35,
+        "username": "viktor_com"
+       }
+      ],
+      "posts": [
+       {
+        "id": "2112958756242018540"
+       }
+      ],
+      "urls": [
+       {
+        "text": "martinfowler.com"
+       },
+       {
+        "text": "https://x.com/gippp69"
+       },
+       {
+        "text": "https://t.me/GipArcAI"
+       },
+       {
+        "text": "https://x.com/gippp69"
+       },
+       {
+        "text": "https://www.databricks.com/blog/ai-harness"
+       },
+       {
+        "text": "https://viktor.com/blog/how-to-set-up-your-ai-employee-in-slack"
+       },
+       {
+        "text": "https://t.me/GipArcAI"
+       },
+       {
+        "text": "https://www.martinfowler.com/articles/harness-engineering.html"
+       },
+       {
+        "text": "https://www.databricks.com/blog/ai-harness"
+       },
+       {
+        "text": "https://www.martinfowler.com/articles/harness-engineering.html"
+       },
+       {
+        "text": "https://viktor.com/changelog"
+       },
+       {
+        "text": "https://viktor.com/blog/how-to-set-up-your-ai-employee-in-slack"
+       },
+       {
+        "text": "https://viktor.com/docs"
+       },
+       {
+        "text": "https://viktor.com/changelog"
+       }
+      ]
+     },
+     "media_entities": [
+      "3_2118644855094005762",
+      "3_2118645185613631488",
+      "3_2118645277343010816"
+     ],
+     "plain_text": "I tried two models in Viktor's picker on the same work. Each had its own strengths. What mattered was what stayed the same: his skills, his memory, the job he already knew.\nEveryone on my timeline is picking a model side. Almost nobody is asking the question that decides whether an AI employee actually gets the work done.\nThe model is only half of an agent. Builders now have a name for the other half: the harness. Martin Fowler's site puts it in one line: Agent = Model + Harness.\nViktor, the AI employee 70,000+ teams have hired, just added another model to his picker. The models keep changing. The harness is what you actually hire.\nThis is for founders and small teams in Slack or Microsoft Teams. Inside: the four layers of Viktor's harness, a prompt to test each one, and a five day check before you decide.\n \n1. The numbers first\n \nThe preset and picker lines are from Viktor's changelog. The rest is from Viktor's own public pages.\n \n2. Agent = model + harness\n\nThe model is the brain. The harness is the job around the brain: which tools it can call, what it remembers, what it sees, and what happens before anything leaves the building.\nDatabricks lists the same parts, tools, memory, workspace and guardrails, and makes the point that harness design can matter as much as the underlying model. Fowler's article frames the work of building it as its own discipline: harness engineering.\nThat is the frame I used for this review. Viktor is a hire who shows up with the harness already built. You do not wire the tools, memory and approvals yourself. He shows up with them, and your job is to check whether each layer holds.\n \n \n3. Layer 1: tools\n\nA brain with no hands writes nice paragraphs. Viktor's hands are the tools you connect.\n9,800+ tools, and one connection works for the whole team.\nTwo accounts for the same service, like two Gmail inboxes, each get their own dedicated tools.\nViktor's Screen is open to every workspace: you watch what he does in the browser, take over, and hand back. Saved logins stay private to you by default, with an option to share one with the whole workspace.\nFor careful teams there is a read only GitHub connection, so he can browse repos, issues and PRs without write access.\nThe catalog keeps turning hand wiring into one click. Tools that used to need a pasted custom MCP URL, like Clay, Kajabi and HoneyBook, now have one click catalog cards that can be shared with the team.\nConnecting Supabase gives Viktor 20+ native tools, from table edits to migrations and log inspection, with no API keys to paste.\n \nTest it with one request that needs two tools at once:\n \nIf every line has a source you can click, layer 1 holds.\nA second test for the multi account setup, if you run two inboxes:\n \nIf he keeps the two inboxes apart and stops at a draft, the tools layer holds under real conditions.\n \n4. Layer 2: memory\nA new hire who forgets every correction is a new hire every morning.\nPer the changelog, Viktor's workspace memory has three parts on both Slack and Teams: relevant memory goes into the first turn of a new thread, he can search memory mid task, and a nightly pass turns conversations into durable workspace knowledge.\nThe second piece is shared skills. Admins can edit a skill's files in place, and edits take effect on Viktor's next turn. Teammates can run a shared skill with a slash command.\nTyping a slash in the chat composer lists the workspace's shared skills next to system commands, so a skill one person wrote becomes something the whole team can call by name. The Skills page ranks skills by how often you read them, so the ones you use most sit on top.\n \nTest it across two days:\n \nIf Wednesday's answer uses net revenue and a Monday week without a reminder, layer 2 holds.\n \n5. Layer 3: context\nWhat an agent sees decides what it gets right, and what it should never see matters just as much.\nWorkspace custom instructions go straight into Viktor's system prompt, so standing context like \"we are a B2B company\" or a tone rule applies to every conversation.\nSlack guest access is not all or nothing. Admins can allow only specific guests to trigger Viktor and keep them to chosen channels.\nIf you edit a draft he wrote, Viktor re reads it before using, sending or rewriting it, so your changes are not overwritten.\nThe same personalization settings let you pick a personality preset and use instructions to reduce sycophancy, and the changelog says they take effect immediately, with no restart.\nIn the composer you can reference a Slack channel directly, so you can point Viktor at the right room without typing its name from memory.\nAccess is a context decision too. Under Settings, Permissions, admins choose who can use Viktor: anyone in the workspace or a list they pick. A matching control sets who he can DM, which section 6 covers. Context is not only what Viktor knows. It is also who gets to hand him work, and that list is yours to set before the first request lands.\nTest it with one instruction and one edit:\n \nIf the reply follows the rule and keeps your sentence, layer 3 holds.\n \n6. Layer 4: checks\nThis is the layer a skeptic should check hardest. Viktor proposes, the team approves.\nApproval cards lead with a plain sentence about what will happen. The raw arguments sit behind a \"What it will send\" toggle, and \"Always approve this tool\" lives in the Approve menu so nobody clicks it by accident.\nAdmins can limit who Viktor can DM. When he is blocked, he says what is blocked and why, in plain language.\nWhen Viktor builds a Meta lead form, every create asks for approval, and a copy refuses to go ahead if any part of the source form can't be copied whole.\nAdmin changes made through chat, like allowlists or guest access, show up as a draft and only apply once an admin approves.\nTest it with something that leaves the building:\n \nIf you get a card with a sentence you can read in two seconds, and nothing goes out until you press yes, layer 4 holds.\n \n7. The model slot\nNow the part everyone argues about. Viktor's presets run on Claude Opus 5.5. Smart moved in September, then Balanced moved at low reasoning and Ultra at high reasoning, per the changelog.\nThe slot is swappable. You can pick a model per chat, and changing the default for a workspace with more than one member opens a confirmation that names the old model, the new one and how many teammates it affects.\nThat is the whole argument of this piece in one place: the model slot upgrades, the harness stays. Your tools, memory, instructions and approval rules do not reset when a better brain ships.\nViktor's own team said it best when they added Grok 4.7 to the picker:\n \nNew model in the slot, same hire on the job.\n \n8. My week\nI put both layers of this piece to work on my own business, an advertising agency I started on X.\nFirst, memory. I taught Viktor the agency routine once: brief breakdowns for client briefs and nearly every other recurring task. He kept all of it, through workspace memory and the skills he saves. Before Viktor, that routine took me about 6 hours a day, by my math. Now Viktor handles almost all of it.\nSecond, the model slot. I compared two models in Viktor's picker, Claude Opus 5.5 and Grok 4.7, and each had its own strengths. The part that surprised me was everything that did not change. Same skills, same memory, same hire. I switched the brain and Viktor still ran the agency routine the way I taught him. Teach him once, and the job is his.\nThat is also why I kept telling my friends about Viktor.\n \n9. Test Viktor's harness in one week\n \nThen grade each layer with one rule you can repeat every week:\n \nViktor's own setup guide says to onboard him like a new hire: start narrow and widen access once he earns trust. My rule on top of that: widen a layer only after it holds two weeks in a row.\n \n10. What I checked and what I didn't\nI read Viktor's changelog, docs and setup guide, plus the two harness articles linked below.\nI did not audit his internals. The layer descriptions are Viktor's published changelog entries, shown as published.\nI have not measured your credit costs. They depend on the work and the model you pick.\nThe prompts and the grading rule are mine. Change them to fit your team.\n \nThe point\nModels will keep trading places at the top. That fight will be on my timeline again next week.\nThe hire is the harness: the tools, the memory, the context and the yes before anything leaves. That is what you are actually bringing onto the team, and it is what a one week test can check.\nIf you want one on your team, hire @viktor_com. Free to start.\nUse code GIPP100 for $100 in free credits. The link is in the first reply.\n \nSources, as of November 3, 2026: Viktor changelog, Viktor docs, setup guide, Harness engineering, martinfowler.com, Databricks on AI harnesses.\n \nIf you want more breakdowns like this, I post one every couple of days on Telegram and X. Both free.\n\nX: https://x.com/gippp69 Telegram: https://t.me/GipArcAI\nIn partnership with Viktor.",
+     "preview_text": "I tried two models in Viktor's picker on the same work. Each had its own strengths. What mattered was what stayed the same: his skills, his memory, the job he already knew.\nEveryone on my timeline is",
+     "title": "Everyone Is Choosing a Model. 70,000+ Teams Hired Viktor Instead (Full Guide)"
+    },
+    "article_title": {
+     "title": "Everyone Is Choosing a Model. 70,000+ Teams Hired Viktor Instead (Full Guide)"
+    },
+    "author_id": "1918346924463202304",
+    "conversation_id": "2118647285789683877",
+    "created_at": "2026-11-06T10:10:50.000Z",
+    "edit_history_post_ids": [
+     "2118647285789683877"
+    ],
+    "entities": {
+     "urls": [
+      {
+       "display_url": "x.com/i/article/2118\u2026",
+       "end": 23,
+       "expanded_url": "https://x.com/i/article/2118644510599081984",
+       "start": 0,
+       "status": 404,
+       "unwound_url": "https://x.com/i/article/2118644510599081984",
+       "url": "https://t.co/O9Jz4Kvgv8"
+      }
+     ]
+    },
+    "id": "2118647285789683877",
+    "lang": "zxx",
+    "public_metrics": {
+     "bookmark_count": 103,
+     "impression_count": 64667,
+     "like_count": 120,
+     "quote_count": 11,
+     "reply_count": 27,
+     "repost_count": 8
+    },
+    "text": "https://t.co/O9Jz4Kvgv8"
+   }
+  ],
+  "users": [
+   {
+    "id": "1490082029953818633",
+    "name": "Andrew",
+    "username": "s4yonnara"
+   },
+   {
+    "id": "3075199947",
+    "name": "Yarchi",
+    "username": "undefinedKi"
+   },
+   {
+    "id": "1918346924463202304",
+    "name": "Gipp \ud83e\udd85",
+    "username": "gippp69"
+   }
+  ]
+ },
+ "meta": {
+  "result_count": 2
+ }
+}

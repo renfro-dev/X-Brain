@@ -16,9 +16,10 @@ sources:
   - "[[raw/2026-10-30-hanakoxbt-2116267647100707095]]"
   - "[[raw/2026-11-01-damkina7-2116870392300073128]]"
   - "[[raw/2026-10-31-LunarResearcher-2116522516915028254]]"
-source_count: 7
+  - "[[raw/2026-11-06-undefinedKi-2118825045644513583]]"
+source_count: 8
 created: 2026-10-26
-updated: 2026-11-02
+updated: 2026-11-08
 ---
 # Verification, Linting & Evidence
 
@@ -38,6 +39,9 @@ This vault's lint rules (in `CLAUDE.md`) borrow from these. Related: [[wiki/conc
 - [[raw/2026-11-01-damkina7-2116870392300073128|@damkina7]]'s harness rule: no diff merges without sensors returning exit code 0 (syntax parse, strict typecheck such as `pyright` or `tsc --noEmit`, bounded tests), and a cold-context Opus review of the raw diff and test receipts before commit.
 - [[raw/2026-10-31-LunarResearcher-2116522516915028254|@LunarResearcher]]'s quoted guide lists "It claimed success without running the checks" as a typical environment failure and asks every task contract to name "What evidence proves completion?"
 
+## Added 2026-11-08
+- [[raw/2026-11-06-undefinedKi-2118825045644513583|@undefinedKi]] (relaying Addy Osmani): run tests via a hook after every file edit so the agent sees failures right away; add the rule "never skip or delete a test to make it pass"; and have a fresh chat review the changes against `plan.md`, because the same chat shouldn't grade its own work. This matches the separate-reviewer idea earlier on this page.
+
 ## Sources
 
 - [[raw/2026-09-28-rvaniaaaa-2104602707675718102]]
@@ -47,3 +51,4 @@ This vault's lint rules (in `CLAUDE.md`) borrow from these. Related: [[wiki/conc
 - [[raw/2026-10-30-hanakoxbt-2116267647100707095]]
 - [[raw/2026-11-01-damkina7-2116870392300073128]]
 - [[raw/2026-10-31-LunarResearcher-2116522516915028254]]
+- [[raw/2026-11-06-undefinedKi-2118825045644513583]]
