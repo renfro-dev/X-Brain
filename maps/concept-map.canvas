@@ -117,7 +117,7 @@
    "y": -260,
    "width": 420,
    "height": 140,
-   "text": "# x-brain concept map\n4 X bookmarks → 8 concepts\nOpen [[index]] for the full catalog."
+   "text": "# x-brain concept map\n4 X bookmarks \u2192 8 concepts\nOpen [[index]] for the full catalog."
   },
   {
    "id": "8fadc1a606cb0fb3",
@@ -164,6 +164,36 @@
    "file": "wiki/concepts/agent-system-design-questions.md",
    "x": 1340,
    "y": 320,
+   "width": 360,
+   "height": 90,
+   "color": "4"
+  },
+  {
+   "id": "1edb564408f6da42",
+   "type": "file",
+   "file": "wiki/concepts/company-brain-and-agent-cost.md",
+   "x": 940,
+   "y": 440,
+   "width": 360,
+   "height": 90,
+   "color": "4"
+  },
+  {
+   "id": "eb5915e18cb36bb2",
+   "type": "file",
+   "file": "wiki/concepts/agent-bot-catalogs.md",
+   "x": 1340,
+   "y": 440,
+   "width": 360,
+   "height": 90,
+   "color": "4"
+  },
+  {
+   "id": "204005821abfe2fb",
+   "type": "file",
+   "file": "wiki/concepts/claude-code-slash-commands.md",
+   "x": 1740,
+   "y": 440,
    "width": 360,
    "height": 90,
    "color": "4"
@@ -222,7 +252,7 @@
    "id": "6c307511b2b9437a",
    "fromNode": "17fc695a07a0ca6e",
    "toNode": "bd9c66b3ad3c2d6d",
-   "label": "steps 6–7"
+   "label": "steps 6\u20137"
   },
   {
    "id": "47229389571aa876",
@@ -259,6 +289,24 @@
    "fromNode": "a2ea9ed90da24b51",
    "toNode": "1a3d1fa7bc8960a9",
    "label": "checklist"
+  },
+  {
+   "id": "3e654b6beb6ded09",
+   "fromNode": "1edb564408f6da42",
+   "toNode": "5752ad4cf2814ba2",
+   "label": "cost routing"
+  },
+  {
+   "id": "bc68cf930ce641d5",
+   "fromNode": "eb5915e18cb36bb2",
+   "toNode": "bd9c66b3ad3c2d6d",
+   "label": "ready-made teams"
+  },
+  {
+   "id": "753a462a80732e9e",
+   "fromNode": "204005821abfe2fb",
+   "toNode": "8b9d2434e465e150",
+   "label": "built-ins"
   }
  ]
 }

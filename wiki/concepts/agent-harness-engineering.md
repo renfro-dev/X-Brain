@@ -17,9 +17,10 @@ sources:
   - "[[raw/2026-11-01-hayatomaruu-2117003050090938646]]"
   - "[[raw/2026-10-31-LunarResearcher-2116522516915028254]]"
   - "[[raw/2026-11-06-undefinedKi-2118825045644513583]]"
-source_count: 8
+  - "[[raw/2026-11-08-irongiantXBT-2119484092089762141]]"
+source_count: 9
 created: 2026-10-26
-updated: 2026-11-08
+updated: 2026-11-09
 ---
 # Agent Harness Engineering
 
@@ -57,6 +58,10 @@ Related: [[wiki/concepts/multi-agent-orchestration|Multi-agent orchestration]], 
 - [[raw/2026-11-06-undefinedKi-2118825045644513583|@undefinedKi]] relays Addy Osmani (Google) as saying "A decent model with a great harness beats a great model with a bad harness", then lists seven copyable habits: keep an `AGENTS.md`/`CLAUDE.md` and add one line per correction; deny-list dangerous commands (`rm -rf`, `git push --force`, `DROP TABLE`); a hook that runs tests after each edit; a rule to "never skip or delete a test to make it pass"; save long command output to a file and read only the end; write `plan.md` with a "done when" line before big tasks; review in a fresh chat against `plan.md` ("Never let the same chat grade itself"). Rule of thumb: "every line in AGENTS.md should trace back to something that went wrong." The Osmani quote is a relay, not checked against his own writing.
 - The quoted article by @gippp69, "Everyone Is Choosing a Model. 70,000+ Teams Hired Viktor Instead", restates "Agent = Model + Harness" (credited to Martin Fowler's site) and splits a harness into tools, memory, context and approvals. It is sponsored ("In partnership with Viktor", with a promo code), so its product claims, including the 70,000+ teams figure, are promotional.
 
+## Added 2026-11-09
+
+[[raw/2026-11-08-irongiantXBT-2119484092089762141|@irongiantXBT]] frames a "company brain" as a decision layer plus gates around the main model; see [[wiki/concepts/company-brain-and-agent-cost|Company brain & agent cost]].
+
 ## Sources
 
 - [[raw/2026-10-23-hayatomaruu-2113719510985269442]]
@@ -67,3 +72,4 @@ Related: [[wiki/concepts/multi-agent-orchestration|Multi-agent orchestration]], 
 - [[raw/2026-11-01-hayatomaruu-2117003050090938646]]
 - [[raw/2026-10-31-LunarResearcher-2116522516915028254]]
 - [[raw/2026-11-06-undefinedKi-2118825045644513583]]
+- [[raw/2026-11-08-irongiantXBT-2119484092089762141]]

@@ -25,9 +25,12 @@ sources:
   - "[[raw/2026-11-02-renfrodotdev-2117273838153298014]]"
   - "[[raw/2026-11-06-s4yonnara-2118814330695073907]]"
   - "[[raw/2026-11-06-undefinedKi-2118825045644513583]]"
-source_count: 19
+  - "[[raw/2026-11-08-irongiantXBT-2119484092089762141]]"
+  - "[[raw/2026-11-08-monokern-2119446181231067489]]"
+  - "[[raw/2026-11-08-hanakoxbt-2119538190868775268]]"
+source_count: 22
 created: 2026-10-26
-updated: 2026-11-08
+updated: 2026-11-09
 ---
 # Vault digest
 
@@ -59,6 +62,10 @@ Loops & graphs (1): [[raw/2026-11-02-hanakoxbt-2117365616579666418|@hanakoxbt]],
 ## Added 2026-11-08
 Sync 2026-11-08 (+2, 19 bookmarks): [[raw/2026-11-06-s4yonnara-2118814330695073907|@s4yonnara]] on ready-made agent teams on GitHub and a beginner's guide to Grok Bot, and [[raw/2026-11-06-undefinedKi-2118825045644513583|@undefinedKi]] on practical harness rules (AGENTS.md, deny lists, test hooks, fresh-chat review).
 
+## Added 2026-11-09
+
+Sync 2026-11-09 (+3, 22 bookmarks): [[raw/2026-11-08-irongiantXBT-2119484092089762141|@irongiantXBT]] on a "company brain" and cost control, [[raw/2026-11-08-monokern-2119446181231067489|@monokern]] on a first-6 list of Grok Bot bots plus reverse engineering with REA, [[raw/2026-11-08-hanakoxbt-2119538190868775268|@hanakoxbt]] on 15 official Claude Code commands. Capture notes: 3 quotes, each with a full quoted X Article; three videos captured as media links only. Raw filenames use the post date in UTC (2026-11-08).
+
 ## Sources
 
 - [[raw/2026-10-25-danikkk_wqs-2114344135415021632]]
@@ -80,3 +87,6 @@ Sync 2026-11-08 (+2, 19 bookmarks): [[raw/2026-11-06-s4yonnara-21188143306950739
 - [[raw/2026-11-02-renfrodotdev-2117273838153298014]]
 - [[raw/2026-11-06-s4yonnara-2118814330695073907]]
 - [[raw/2026-11-06-undefinedKi-2118825045644513583]]
+- [[raw/2026-11-08-irongiantXBT-2119484092089762141]]
+- [[raw/2026-11-08-monokern-2119446181231067489]]
+- [[raw/2026-11-08-hanakoxbt-2119538190868775268]]

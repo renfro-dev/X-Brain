@@ -55,3 +55,12 @@ Append-only. Newest entries at the bottom. Format: `## YYYY-MM-DD — <action>`.
 - Extended: `multi-agent-orchestration`, `agent-harness-engineering`, `verification-and-linting`, `claude-code-ecosystem`, `always-on-agent-infrastructure`, `claude-code`, `digest-agents-and-harnesses`, `vault-digest`.
 - Flagged as unverified or promotional: the relayed Addy Osmani quote, the @gippp69 article (marked "In partnership with Viktor", promo code), and the repo descriptions and Grok Bot pricing in @s4yonnara's post and article.
 - Rebuilt `index.md` from the vault (also restores the two 2026-11-03 raw notes to the raw list) and updated `state/sync_state.json`.
+
+## 2026-11-09 — sync (+3 bookmarks)
+
+- Bookmarks for @renfrodotdev were read with `get_users_bookmarks` (max_results 10, read-only). Page 1 had 3 new ids followed by already-captured ids, so paging stopped. Full text and quoted X Articles were fetched with `get_posts_by_ids`. No excluded ids were captured.
+- New raw notes (quotes, each with a full quoted X Article and code blocks): @irongiantXBT (company-brain PDF with Grok Bot and "jev", quoting his "10 Bots That Work While You Sleep"), @monokern (first 6 Grok Bot bots, quoting his REA reverse-engineering course) and @hanakoxbt (15 official Claude Code commands, quoting her Loops and Graphs article). Added post_ids: 2119484092089762141, 2119446181231067489, 2119538190868775268. Raw filenames use the UTC post date (2026-11-08); `bookmarked_on` is 2026-11-09. API JSON saved in `state/api_snapshots/2026-11-09/`.
+- New wiki pages: concepts `company-brain-and-agent-cost`, `agent-bot-catalogs` and `claude-code-slash-commands`; people `irongiantxbt` and `monokern`; repo `morluto-rea`.
+- Extended: `grok-bot`, `claude-code`, `claude-opus-5-5`, `claude-code-ecosystem`, `multi-agent-orchestration`, `agent-loops-and-graphs`, `model-routing`, `verification-and-linting`, `agent-harness-engineering`, `hanakoxbt`, `digest-agents-and-harnesses`, `vault-digest`.
+- Flagged as unverified or promotional: @irongiantXBT's cost, latency, benchmark and accuracy figures (PDF teaser) and the unexplained "jev"; @monokern's "110,000 GitHub stars" claim for morluto/rea and the 4-hours-a-day claim; the bot-list descriptions and SpaceXSI attributions; @hanakoxbt's command descriptions (doc pages not fetched). Three videos are captured as media links only.
+- Updated `index.md`, `state/sync_state.json` and `maps/concept-map.canvas` (3 new concept nodes).

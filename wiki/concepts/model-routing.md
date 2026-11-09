@@ -11,9 +11,10 @@ tags:
 sources:
   - "[[raw/2026-11-01-damkina7-2116870392300073128]]"
   - "[[raw/2026-11-01-hayatomaruu-2117003050090938646]]"
-source_count: 2
+  - "[[raw/2026-11-08-irongiantXBT-2119484092089762141]]"
+source_count: 3
 created: 2026-11-02
-updated: 2026-11-02
+updated: 2026-11-09
 ---
 # Model Routing (Right Model per Job)
 
@@ -25,7 +26,12 @@ Using different models for different jobs inside one agent setup instead of one 
 
 Synthesis: both sources treat the expensive model as planner and reviewer and push routine work to cheaper models, with the harness doing the coordination. Related: [[wiki/concepts/agent-harness-engineering|Agent harness engineering]], [[wiki/concepts/multi-agent-orchestration|Multi-agent orchestration]], [[wiki/entities/tools/claude-opus-5-5|Claude Opus 5.5]].
 
+## Added 2026-11-09
+
+[[raw/2026-11-08-irongiantXBT-2119484092089762141|@irongiantXBT]] claims routing by confidence (a cheap decision model first, Opus 5.5 for the hardest ~1%) cuts cost sharply; figures unverified. See [[wiki/concepts/company-brain-and-agent-cost|Company brain & agent cost]].
+
 ## Sources
 
 - [[raw/2026-11-01-damkina7-2116870392300073128]]
 - [[raw/2026-11-01-hayatomaruu-2117003050090938646]]
+- [[raw/2026-11-08-irongiantXBT-2119484092089762141]]

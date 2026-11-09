@@ -19,9 +19,12 @@ sources:
   - "[[raw/2026-11-02-hanakoxbt-2117365616579666418]]"
   - "[[raw/2026-11-06-s4yonnara-2118814330695073907]]"
   - "[[raw/2026-11-06-undefinedKi-2118825045644513583]]"
-source_count: 13
+  - "[[raw/2026-11-08-irongiantXBT-2119484092089762141]]"
+  - "[[raw/2026-11-08-monokern-2119446181231067489]]"
+  - "[[raw/2026-11-08-hanakoxbt-2119538190868775268]]"
+source_count: 16
 created: 2026-10-26
-updated: 2026-11-08
+updated: 2026-11-09
 ---
 # Digest — Agent harnesses & agentic orgs
 
@@ -56,6 +59,10 @@ Caution: two of these lean on unverified "Anthropic engineer" or Karpathy quotes
 - [[raw/2026-11-06-s4yonnara-2118814330695073907|@s4yonnara]]: a list of ready-made agent-team repos plus "give each agent defined responsibilities and approval boundaries" ([[wiki/concepts/multi-agent-orchestration|Multi-agent orchestration]]).
 - [[raw/2026-11-06-undefinedKi-2118825045644513583|@undefinedKi]]: seven practical harness habits relayed from Addy Osmani: correction-driven `AGENTS.md`, deny lists, test hooks, `plan.md` with "done when", and fresh-chat review ([[wiki/concepts/agent-harness-engineering|Agent harness engineering]]).
 
+## Added 2026-11-09
+
+Three more: [[raw/2026-11-08-irongiantXBT-2119484092089762141|@irongiantXBT]] (company brain, cheap decision layer, 10 bots), [[raw/2026-11-08-monokern-2119446181231067489|@monokern]] (6 Grok Bot bots, reverse-engineering course) and [[raw/2026-11-08-hanakoxbt-2119538190868775268|@hanakoxbt]] (15 Claude Code commands). New pages: [[wiki/concepts/company-brain-and-agent-cost|Company brain & agent cost]], [[wiki/concepts/agent-bot-catalogs|Agent bot catalogs]], [[wiki/concepts/claude-code-slash-commands|Claude Code commands]].
+
 ## Sources
 
 - [[raw/2026-10-23-hayatomaruu-2113719510985269442]]
@@ -71,3 +78,6 @@ Caution: two of these lean on unverified "Anthropic engineer" or Karpathy quotes
 - [[raw/2026-11-02-hanakoxbt-2117365616579666418]]
 - [[raw/2026-11-06-s4yonnara-2118814330695073907]]
 - [[raw/2026-11-06-undefinedKi-2118825045644513583]]
+- [[raw/2026-11-08-irongiantXBT-2119484092089762141]]
+- [[raw/2026-11-08-monokern-2119446181231067489]]
+- [[raw/2026-11-08-hanakoxbt-2119538190868775268]]

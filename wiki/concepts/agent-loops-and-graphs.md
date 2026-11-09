@@ -16,9 +16,10 @@ sources:
   - "[[raw/2026-10-27-Dhruvkumar16797-2114897217425449463]]"
   - "[[raw/2026-11-01-hayatomaruu-2117003050090938646]]"
   - "[[raw/2026-11-02-hanakoxbt-2117365616579666418]]"
-source_count: 5
+  - "[[raw/2026-11-08-hanakoxbt-2119538190868775268]]"
+source_count: 6
 created: 2026-10-31
-updated: 2026-11-03
+updated: 2026-11-09
 ---
 # Agent Loops & Graphs
 
@@ -39,6 +40,10 @@ All three agree that reliability comes from structure, not a better model: a che
 
 - [[raw/2026-11-02-hanakoxbt-2117365616579666418|@hanakoxbt]] re-promotes the same article as a "9-step loop" to wrap around [[wiki/entities/tools/claude-code|Claude Code]] before it touches a repo, claiming it takes an agent "from guessing to planning, checking and fixing its own work", and that Anthropic's docs recommend "these exact pieces". The "Anthropic paper" label is unverified; the source is Hanako's own article. No new technique beyond the Oct 30 capture.
 
+## Added 2026-11-09
+
+[[raw/2026-11-08-hanakoxbt-2119538190868775268|@hanakoxbt]] maps /goal, /loop, /batch and /simplify to the loop-and-graph ideas and ends by pointing readers to her Graph Engineering guide. See [[wiki/concepts/claude-code-slash-commands|Claude Code commands]].
+
 ## Sources
 
 - [[raw/2026-10-25-m4lkxx-2114338456750997922]]
@@ -46,3 +51,4 @@ All three agree that reliability comes from structure, not a better model: a che
 - [[raw/2026-10-27-Dhruvkumar16797-2114897217425449463]]
 - [[raw/2026-11-01-hayatomaruu-2117003050090938646]]
 - [[raw/2026-11-02-hanakoxbt-2117365616579666418]]
+- [[raw/2026-11-08-hanakoxbt-2119538190868775268]]

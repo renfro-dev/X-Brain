@@ -17,9 +17,11 @@ sources:
   - "[[raw/2026-11-01-damkina7-2116870392300073128]]"
   - "[[raw/2026-10-31-LunarResearcher-2116522516915028254]]"
   - "[[raw/2026-11-06-undefinedKi-2118825045644513583]]"
-source_count: 8
+  - "[[raw/2026-11-08-irongiantXBT-2119484092089762141]]"
+  - "[[raw/2026-11-08-monokern-2119446181231067489]]"
+source_count: 10
 created: 2026-10-26
-updated: 2026-11-08
+updated: 2026-11-09
 ---
 # Verification, Linting & Evidence
 
@@ -42,6 +44,10 @@ This vault's lint rules (in `CLAUDE.md`) borrow from these. Related: [[wiki/conc
 ## Added 2026-11-08
 - [[raw/2026-11-06-undefinedKi-2118825045644513583|@undefinedKi]] (relaying Addy Osmani): run tests via a hook after every file edit so the agent sees failures right away; add the rule "never skip or delete a test to make it pass"; and have a fresh chat review the changes against `plan.md`, because the same chat shouldn't grade its own work. This matches the separate-reviewer idea earlier on this page.
 
+## Added 2026-11-09
+
+[[raw/2026-11-08-irongiantXBT-2119484092089762141|@irongiantXBT]] claims every bash call is classified before running and 100% of runs judged ($3.50/day per 10,000 traces, matching human labels on 500 decisions; unverified). [[raw/2026-11-08-monokern-2119446181231067489|@monokern]]'s article stresses evidence-based findings in reverse engineering.
+
 ## Sources
 
 - [[raw/2026-09-28-rvaniaaaa-2104602707675718102]]
@@ -52,3 +58,5 @@ This vault's lint rules (in `CLAUDE.md`) borrow from these. Related: [[wiki/conc
 - [[raw/2026-11-01-damkina7-2116870392300073128]]
 - [[raw/2026-10-31-LunarResearcher-2116522516915028254]]
 - [[raw/2026-11-06-undefinedKi-2118825045644513583]]
+- [[raw/2026-11-08-irongiantXBT-2119484092089762141]]
+- [[raw/2026-11-08-monokern-2119446181231067489]]

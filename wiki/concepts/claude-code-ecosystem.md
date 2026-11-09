@@ -15,9 +15,10 @@ sources:
   - "[[raw/2026-11-01-mojeskoqq-2116963310277202003]]"
   - "[[raw/2026-11-01-damkina7-2116870392300073128]]"
   - "[[raw/2026-11-06-undefinedKi-2118825045644513583]]"
-source_count: 6
+  - "[[raw/2026-11-08-hanakoxbt-2119538190868775268]]"
+source_count: 7
 created: 2026-10-26
-updated: 2026-11-08
+updated: 2026-11-09
 ---
 # Claude Code Ecosystem: Skills, Plugins, Hooks & CLAUDE.md
 
@@ -36,6 +37,10 @@ The kept sources configure [[wiki/entities/tools/claude-code|Claude Code]] with 
 ## Added 2026-11-08
 - [[raw/2026-11-06-undefinedKi-2118825045644513583|@undefinedKi]]: grow `AGENTS.md`/`CLAUDE.md` one line at a time from real corrections (example: "use pnpm, not npm"); put `rm -rf`, `git push --force` and `DROP TABLE` on the [[wiki/entities/tools/claude-code|Claude Code]] settings deny list; use a test-running hook on edits. See [[wiki/concepts/agent-harness-engineering|Agent harness engineering]].
 
+## Added 2026-11-09
+
+Built-in commands as part of the ecosystem: [[wiki/concepts/claude-code-slash-commands|15 official commands]] ([[raw/2026-11-08-hanakoxbt-2119538190868775268|@hanakoxbt]]).
+
 ## Sources
 
 - [[raw/2026-10-23-hayatomaruu-2113719510985269442]]
@@ -44,3 +49,4 @@ The kept sources configure [[wiki/entities/tools/claude-code|Claude Code]] with 
 - [[raw/2026-11-01-mojeskoqq-2116963310277202003]]
 - [[raw/2026-11-01-damkina7-2116870392300073128]]
 - [[raw/2026-11-06-undefinedKi-2118825045644513583]]
+- [[raw/2026-11-08-hanakoxbt-2119538190868775268]]

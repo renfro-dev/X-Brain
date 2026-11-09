@@ -9,9 +9,10 @@ tags:
 sources:
   - "[[raw/2026-10-30-hanakoxbt-2116267647100707095]]"
   - "[[raw/2026-11-02-hanakoxbt-2117365616579666418]]"
-source_count: 2
+  - "[[raw/2026-11-08-hanakoxbt-2119538190868775268]]"
+source_count: 3
 created: 2026-10-31
-updated: 2026-11-03
+updated: 2026-11-09
 ---
 # Hanako (@hanakoxbt)
 
@@ -24,7 +25,12 @@ A second promo ([[raw/2026-11-02-hanakoxbt-2117365616579666418|@hanakoxbt]]) quo
 > [!warning] Contradiction
 > The same article has now been promoted as a Karpathy prompt ([[raw/2026-10-30-hanakoxbt-2116267647100707095|Oct 30]]) and as an Anthropic paper ([[raw/2026-11-02-hanakoxbt-2117365616579666418|Nov 2]]). Neither attribution is backed by the capture.
 
+## Added 2026-11-09
+
+Posted 15 official Claude Code commands ([[raw/2026-11-08-hanakoxbt-2119538190868775268|@hanakoxbt]]) and again quoted her Loops and Graphs article. See [[wiki/concepts/claude-code-slash-commands|Claude Code commands]].
+
 ## Sources
 
 - [[raw/2026-10-30-hanakoxbt-2116267647100707095]]
 - [[raw/2026-11-02-hanakoxbt-2117365616579666418]]
+- [[raw/2026-11-08-hanakoxbt-2119538190868775268]]
